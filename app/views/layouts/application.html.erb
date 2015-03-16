@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1"/>
+      <%= stylesheet_link_tag "application" %>
+      <%= javascript_include_tag "application" %>
+      <%= csrf_meta_tags %>
+    <title> URL </title>
+
+  </head>
+
+  <body>
+    <% flash.each do |name, msg| -%>
+      <div class="alert alert-warning"><%= msg %>
+        <button type="button" class="close" data-dismiss="alert" aria-label="Close">
+          <span aria-hidden="true">x</span>
+        </button>
+      </div>
+    <% end -%>
+
+
+    <div class="container">
+      <%= render "common/navbar"%>
+
+      <%= yield %>
+    </div>
+
+  </body>
+</html>
