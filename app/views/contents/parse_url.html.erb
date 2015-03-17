@@ -10,44 +10,55 @@
 
   </head>
 <body>
-  <%= render "common/navbar"%>
+    <%= render "common/navbar"%>
+    <div class= "container">
+      <div class="row">
+        <div class="col-md-12">
+          <h3> Product Analysis </h3>
+            <table class="table table-bordered table-striped" >
+              <thead>
+                <tr>
+                  <td> <strong> Title </strong></td>
+                  <td> <strong> Price </strong></td>
+                </tr>
+              </thead>
+              <tbody>
+                <tr>
+                  <td> <%= @title %> </td>
+                  <td> <%= @price %> </td>
+                </tr>
 
-  <div class= "container">
-    <div class="row">
-      <div class="col-md-12">
-        <h3> Product Analysis </h3>
-          <table class="table table-bordered table-striped" >
-            <thead>
-              <tr>
-                <td> <strong> Title </strong></td>
-                <td> <strong> Price </strong></td>
-              </tr>
-            </thead>
-            <tbody>
-              <tr>
-                <td> <%= @title %> </td>
-                <td> <%= @price %> </td>
-              </tr>
+              </tbody>
+            </table>
+            <table class="table table-bordered table-striped" >
+              <thead>
+                <tr>
+                  <td> <strong> Product Content </strong></td>
+                </tr>
+              </thead>
+              <tbody>
+                <tr>
+                  <% str="" %>
+                  <% @array.each { |u| str= str+ u + "<br />" unless u.blank? } %>
+                  <td>  <%= str.html_safe %> </td>
+                </tr>
+              </tbody>
+            </table>
+            <table class="table table-bordered table-striped" >
+              <thead>
+                <tr>
+                  <td> <strong> Image Content </strong></td>
+                </tr>
+              </thead>
+              <tbody>
+                <tr>
+                </tr>
+              </tbody>
+            </table>
 
-            </tbody>
-          </table>
-          <table class="table table-bordered table-striped" >
-            <thead>
-              <tr>
-                <td> <strong> Product Content </strong></td>
-              </tr>
-            </thead>
-            <tbody>
-              <tr>
-                <% str="" %>
-                <% @array.each { |u| str= str+ u + "<br />" unless u.blank? } %>
-                <td>  <%= str.html_safe %> </td>
-              </tr>
 
-            </tbody>
-          </table>
-
+        </div>
       </div>
     </div>
-  </div>
+  <body>
 </html>
