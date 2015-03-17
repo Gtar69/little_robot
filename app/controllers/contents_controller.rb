@@ -33,7 +33,9 @@ class ContentsController < ApplicationController
       #bbb = aaa.encode("iso8859-1","utf-8")
       #p bbb.encoding
       #p bbb.force_encoding('unicode')
-      @array << aaa.force_encoding('iso8859-1')
+      p doc.text.encoding
+      p doc.text.encode("big5", :invalid => :replace, :undef => :replace, :replace => "?").encoding
+      @array << doc.text.encode("big5", :invalid => :replace, :undef => :replace, :replace => "?")
       #converted_text = Iconv.civ
       #puts Tradsim::to_trad(aaa)
       #aaa.encode("Unicode")
