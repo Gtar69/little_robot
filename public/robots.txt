@@ -1,496 +1,1492 @@
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
-<html>
+<html xmlns="http://www.w3.org/1999/xhtml"
+      xmlns:og="http://ogp.me/ns#"
+      xmlns:fb="http://www.facebook.com/2008/fbml" lang="zh-TW" xml:lang="zh-TW">
   <head>
-    <meta http-equiv="Content-Type" content="text/html; charset=Big5" />
-    <title>ÅS¤Ñ©ç½æ-¥xÆW NO.1 ©ç½æºô¯¸</title>
-    <base target="_blank" />
-    <script type="text/javascript"><!--
-    var context = {"goods_host":"http:\/\/goods.ruten.com.tw","mobile_host":"http:\/\/m.ruten.com.tw","flag_show_doctype":true,"check_location":true};
-
-function empty_arr(el_arr) {
-  var el, i, len = el_arr.length;
-  for (i = 0; i < len; i++) {
-    el = el_arr.item(i);
-    while (el.lastChild) {
-      el.removeChild(el.lastChild);
-    }
-  }
-}
-
-function isInvalidInclude() {
-  var host_string = [context.goods_host, context.mobile_host].join('|');
-  return context.check_location === true &&
-    (window.location.href == window.top.location.href || host_string.indexOf(window.top.location.host) === -1);
-}
-
-window.onload = function () {
-  var comment_frame, docH, D = document;;
-  if (isInvalidInclude()) {
-    empty_arr(document.getElementsByTagName('html'));
-  } else {
-    comment_frame = window.top.document.getElementById('embedded_goods_comments');
-
-        if (typeof old_comments_function === 'function') {
-      old_comments_function(context.flag_show_doctype, comment_frame);
-    }
-
-    comment_frame.setAttribute('height', 0);
-
-    docH = Math.max(
-      D.body.scrollHeight, D.documentElement.scrollHeight,
-      D.body.offsetHeight, D.documentElement.offsetHeight,
-      D.body.clientHeight, D.documentElement.clientHeight
-    );
-    comment_frame.setAttribute('height', docH + 200);
-  }
-
-  top.onDetailPageLoad && top.onDetailPageLoad(document);
-};
-
-if (isInvalidInclude()) {
-  if (window.stop) {
-    window.stop();
-  } else {
-    document.execCommand('Stop');
-  }
-  empty_arr(document.getElementsByTagName('html'));
-}
-    --></script>
-    <style type="text/css"><!--
-      .product-spec {
-        text-align: left;
+    <meta http-equiv="X-UA-Compatible" content="IE=EmulateIE8" />
+    <meta http-equiv="Content-Type" content="text/html; charset=big5" />
+    <meta name="keywords" lang="zh-TW" content=" äº¤é€šå·¥å…· , æ©Ÿè»Šç™¾è²¨ , é¨å£«ç”¨å“ , è¡Œè»Šè¨˜éŒ„å™¨ ,æ¥µé™å°ˆè³£åº—,ç¾è²¨,SJ4000,é‹å‹•ç›¸æ©Ÿ,è¡Œè»Šç´€éŒ„å™¨,æ»‘é›ª,GoPro4,gopro,ç¥ç¥•å‡ç´šç‰ˆè«‹line" />
+    <meta name="title" content="éœ²å¤©æ‹è³£ [æ¥µé™å°ˆè³£åº—]ç¾è²¨ SJ4000 é‹å‹•ç›¸æ©Ÿ è¡Œè»Šç´€éŒ„å™¨ æ»‘é›ª GoPro4 gopro ç¥ç¥•å‡ç´šç‰ˆè«‹line" />
+    <meta name="description" content="ç›´è³¼åƒ¹ï¼š1,899å…ƒ" />
+    <meta http-equiv="content-style-type" content="text/css" />
+    <meta http-equiv="default-style" content="default" />
+    <meta http-equiv="content-script-type" content="text/javascript" />
+    <meta property="og:title" content="[æ¥µé™å°ˆè³£åº—]ç¾è²¨ SJ4000 é‹å‹•ç›¸æ©Ÿ è¡Œè»Šç´€éŒ„å™¨ æ»‘é›ª GoPro4 gopro ç¥ç¥•å‡ç´šç‰ˆè«‹line - éœ²å¤©æ‹è³£" />
+    <meta property="og:type" content="website" />
+    <meta property="og:url" content="http://goods.ruten.com.tw/item/show?21406227445748" />
+    <meta property="og:image" content="http://b.rimg.com.tw/s2/f/47/f4/21406227445748_940_m.jpg" />
+    <meta property="og:site_name" content="éœ²å¤©æ‹è³£" />
+    <meta property="og:description" content="ç›´è³¼åƒ¹ï¼š1,899å…ƒ" />
+    <meta property="fb:app_id" content="134256183307954" />
+    <link rel="image_src" href="http://c.rimg.com.tw/s2/f/47/f4/21406227445748_940_s.jpg" />
+    <link rel="home" title="éœ²å¤©æ‹è³£é¦–é " href="http://www.ruten.com.tw" />
+        <link rel="stylesheet" type="text/css" title="default" href="http://www.ruten.com.tw/css/template/global.css?v=20131016.css" />
+        <link rel="stylesheet" type="text/css" title="default" href="http://www.ruten.com.tw/css/template/global-style.css?v=20131016.css" />
+        <link rel="stylesheet" type="text/css" title="default" href="http://www.ruten.com.tw/css/template/new-page-header.css?v=20131016.css" />
+        <link rel="stylesheet" type="text/css" title="default" href="http://www.ruten.com.tw/css/template/goods-screen.css?20131016_20141120" />
+    <!--[if IE 8]>
+    <link rel="stylesheet" type="text/css" title="default" href="http://www.ruten.com.tw/css/template/global-style-ie8.css?v=20131016.css" />
+    <link rel="stylesheet" type="text/css" title="default" href="http://www.ruten.com.tw/css/template/new-page-header-ie8.css?v=20131016.css" />
+    <![endif]-->
+    <!--[if lte IE 7]>
+    <link rel="stylesheet" type="text/css" title="default" href="http://www.ruten.com.tw/css/template/global-style-ie7.css?v=20131016.css" />
+    <link rel="stylesheet" type="text/css" title="default" href="http://www.ruten.com.tw/css/template/goods-screen-ie7.css?v=20131016.css" />
+    <![endif]-->
+    <!--[if lt IE 7]>
+    <link rel="stylesheet" type="text/css" title="default" href="http://www.ruten.com.tw/css/template/global-style-ie6.css?v=20131016.css" />
+    <link rel="stylesheet" type="text/css" title="default" href="http://www.ruten.com.tw/css/template/goods-screen-ie6.css?v=20131016.css" />
+    <![endif]-->
+    <link rel="stylesheet" type="text/css" title="default" href="http://www.ruten.com.tw/css/jquery.tooltip.css?v=20131016.css" />
+    <link rel="stylesheet" type="text/css" title="default" href="http://www.ruten.com.tw/css/jqModal.css?v=20131016.css" />
+    <link rel="stylesheet" type="text/css" title="default" href="http://www.ruten.com.tw/css/template/product-content-fix.css?v=20131016.css"  id="product_content_fixer" media="all" />
+    <link rel="stylesheet" type="text/css" title="default" href="http://www.ruten.com.tw/css/template/store-template-style.css?v=20131016.css" />
+    <title>[æ¥µé™å°ˆè³£åº—]ç¾è²¨ SJ4000 é‹å‹•ç›¸æ©Ÿ è¡Œè»Šç´€éŒ„å™¨ æ»‘é›ª GoPro4 gopro ç¥ç¥•å‡ç´šç‰ˆè«‹line - éœ²å¤©æ‹è³£-å°ç£ NO.1 æ‹è³£ç¶²ç«™</title>
+    <style type="text/css">
+      #rutenmsg{
+        display: none;
       }
-      .product-spec table {
-        border-collapse: collapse;
-        color: #000;
-        border: 1px solid #DDDDDD;
-        margin: 0 auto 10px;
-        width: 799px;
+      .jqmFrWindow {
+          display: none;
+          position: absolute;
+          top: 20%;
+          left: 50%;
+          margin-left: -300px;
+          background-color: #EEE;
+          color: #333;
+          border: 1px solid silver;
+          padding: 0px;
       }
-      .product-spec caption {
-        visibility: hidden;
-        height: 1px;
+      .jqmOverlay {
+          background-color: #000;
       }
-      .product-spec th{
+      .favSellerMainbody {
+          position: absolute;
+          left:0%;
+          top:0%;
+          width:100%;
+          height:100%;
+      }
+      #rule-block {
+        display: none;
+      }
+      .place-holder {
+        display: none;
+      }
+      .board-intro {
+        font-size: 13px;
+        color: #4b4a4a;
+        line-height: 18px;
+      }
+    </style>
+        <style type="text/css">
+      div.layout div.main-content {
+        overflow-x: visible;
+      }
+      .menu-onsale, .buy-ads-table {
+        width: 1090px;
+      }
+      .buy-ads-table {
+        border-spacing: 4px;
+        margin: 10px 0 15px;
+      }
+      .buy-ads-table strong {
         font-weight: bold;
-        background-color: #FFFFBB;
-        border-left: 1px solid #DDDDDD;
-        border-top: 1px solid #DDDDDD;
-        font-size: 13px;
-        padding: 8px;
-        width: 25%;
       }
-      .product-spec td{
-        border-left: 1px solid #DDDDDD;
-        border-top: 1px solid #DDDDDD;
-        font-size: 13px;
-        padding: 8px;
-        width: 25%;
+      .buy-ads-title strong {
+        font-size: 16px;
       }
-    --></style>
+      .buy-ads-title a strong {
+        font-size: 13px;
+      }
+      .buy-ads-notice p {
+        line-height: 18px;
+      }
+      .preview-guide .buy-ads-table p {
+        font-size: 1em;
+        color: #4b4a4a;
+      }
+      .preview-guide .buy-ads-table .r13b_ff {
+        font-weight: bold;
+        color: #ef0101;
+      }
+      .buy-ads-table .bk13 {
+        color: #4b4a4a;
+      }
+      .buy-ads-table .rosy13,
+      .buy-ads-table .buy-ads-notice p.rosy13 {
+        color: #f00;
+      }
+      .buy-ads-form .b12_81 {
+        font-size: 12px;
+        color: #818181;
+      }
+      .buy-ads-form table[cellspacing="1"] {
+        border-spacing: 1px;
+      }
+      .buy-ads-form td.t13 {
+        padding: 5px;
+      }
+      #buy_ad_block_main_table td[width="19%"] {
+        width: 23%;
+      }
+    </style>
   </head>
-  <body>
-    <style type="text/css"><!--
-strong.tidied-201406229923-6 {color: #ff0000; font-size: 19px;}
- strong.tidied-201406229923-5 {color: #ff0000; font-size: 14pt;}
- span.tidied-201406229923-4 {color: #ff0000; font-size: 14pt;}
- span.tidied-201406229923-3 {color: #ff0000; font-size: 18pt;}
- span.tidied-201406229923-2 {font-size: 24pt; background-color: #ffff00;}
- p.tidied-201406229923-1 {font-size: medium; font-family: Times;} p.tidied-201406235365-9 {background-color: #fffb01; color: #ff2500; font-family: 'Songti TC'; font-size: 18px; font-weight: bold}
- p.tidied-201406235365-8 {font-size: 18px; font-family: Times;}
- span.tidied-201406235365-7 {font-family: 'Songti TC';}
- span.tidied-201406235365-6 {color: #0433ff;}
- p.tidied-201406235365-5 {font-family: Times; font-size: 18px; font-weight: bold}
- p.tidied-201406235365-4 {font-size: 18px; font-family: 'Songti TC';}
- p.tidied-201406235365-3 {font-family: 'Songti TC'; font-size: 18px; font-weight: bold}
- p.tidied-201406235365-2 {color: #ff2500; font-size: 32px; font-family: 'Songti TC'; background-color: #fffb01;}
- span.tidied-201406235365-1 {font-family: Times;} p.tidied-201406231040-1 {font-weight: bold}
- p.tidied-201406291690-20 {font-size: 18px; font-family: Verdana;}
- p.tidied-201406291690-19 {color: #ff2500; font-size: 18px; font-family: Times; background-color: #fffb01;}
- p.tidied-201406291690-18 {font-size: 18px; font-family: 'Songti TC'; font-weight: bold;}
- p.tidied-201406291690-17 {color: #ff2500; font-size: 18px; font-family: 'Songti TC'; font-weight: bold; background-color: #fffb01;}
- p.tidied-201406291690-16 {color: #ff2500; font-size: 18px; font-family: 'Songti TC'; font-weight: bold;}
- span.tidied-201406291690-15 {color: #ff2500; font-family: 'Songti TC'; font-weight: bold;}
- a.tidied-201406291690-14 {font-family: 'Songti TC'; font-weight: bold;}
- p.tidied-201406291690-13 {color: #042eee; font-size: 18px; font-family: Times;}
- span.tidied-201406291690-12 {color: #0000ff;}
- span.tidied-201406291690-11 {font-family: 'Songti TC';}
- p.tidied-201406291690-10 {color: #042eee; font-size: 18px; font-family: 'Songti TC';}
- span.tidied-201406291690-9 {color: #0433ff; font-size: 32px; font-family: Times;}
- span.tidied-201406291690-8 {color: #042eee; font-size: 18px;}
- span.tidied-201406291690-7 {color: #042eee; font-size: 18px; font-family: 'Songti TC';}
- span.tidied-201406291690-6 {color: #042eee;}
- p.tidied-201406291690-5 {font-size: 18px; font-family: Times;}
- p.tidied-201406291690-4 {font-size: 18px; font-family: 'Songti TC';}
- p.tidied-201406291690-3 {color: #ff2500; font-size: 32px; font-family: 'Songti TC'; background-color: #fffb01;}
- span.tidied-201406291690-2 {font-family: Times;}
- p.tidied-201406291690-1 {color: #ff2500; font-size: 32px; font-family: 'Songti TC'; font-weight: bold; background-color: #fffb01;}
- p.tidied-201406293625-14 {color: #ff2500; font-size: 18px; font-family: 'Heiti TC Light'; background-color: #fffb01;}
- p.tidied-201406293625-13 {color: #ff2500; font-size: 18px; font-family: 'Songti TC'; background-color: #fffb01;}
- span.tidied-201406293625-12 {color: #ff0000;}
- span.tidied-201406293625-11 {color: #0433ff; font-size: 24pt;}
- span.tidied-201406293625-10 {color: #0433ff;}
- span.tidied-201406293625-9 {font-family: 'Songti TC';}
- span.tidied-201406293625-8 {font-size: 24pt;}
- span.tidied-201406293625-7 {color: #0000ff;}
- p.tidied-201406293625-6 {font-size: 18px; font-family: Times;}
- p.tidied-201406293625-5 {font-size: 18px; font-family: 'Songti TC';}
- span.tidied-201406293625-4 {font-size: 18px;}
- strong.tidied-201406293625-3 {font-size: 18px; font-family: 'Songti TC';}
- span.tidied-201406293625-2 {font-family: Times;}
- p.tidied-201406293625-1 {color: #ff2500; font-size: 32px; font-family: 'Songti TC'; background-color: #fffb01;}
- span.tidied-201407031659-1 {font-size: 24pt;}
- p.tidied-201407244619-15 {font-size: 18px; font-family: Verdana;}
- p.tidied-201407244619-14 {color: #ff2500; font-size: 18px; font-family: 'Heiti TC Light'; background-color: #fffb01;}
- span.tidied-201407244619-13 {color: #ff0000;}
- span.tidied-201407244619-12 {color: #0433ff; font-size: 24pt;}
- span.tidied-201407244619-11 {color: #0433ff;}
- span.tidied-201407244619-10 {font-family: 'Songti TC';}
- span.tidied-201407244619-9 {font-size: 24pt;}
- span.tidied-201407244619-8 {color: #0000ff;}
- p.tidied-201407244619-7 {font-size: 18px; font-family: Times;}
- p.tidied-201407244619-6 {font-size: 18px; font-family: 'Songti TC';}
- span.tidied-201407244619-5 {font-size: 18px;}
- strong.tidied-201407244619-4 {font-size: 18px; font-family: 'Songti TC';}
- p.tidied-201407244619-3 {color: #ff2500; font-size: 32px; font-family: 'Songti TC'; background-color: #fffb01;}
- span.tidied-201407244619-2 {font-family: Times;}
- p.tidied-201407244619-1 {color: #ff2500; font-size: 18px; font-family: 'Songti TC'; background-color: #fffb01;}
- strong.tidied-201407278019-1 {font-size: 18px;}
- strong.tidied-201407312812-3 {font-family: Times;}
- p.tidied-201407312812-2 {color: #ff2500; font-size: 32px; font-family: 'Songti TC'; background-color: #fffb01;}
- span.tidied-201407312812-1 {font-family: Times;}
- span.tidied-201409019820-14 {font-family: 'Songti TC';}
- p.tidied-201409019820-13 {font-size: 18px; font-family: Times;}
- span.tidied-201409019820-12 {color: #ff0000;}
- span.tidied-201409019820-11 {color: #000000; font-size: 24px; font-family: Times; font-weight: normal;}
- span.tidied-201409019820-10 {font-size: 18px; font-family: 'Songti TC';}
- strong.tidied-201409019820-9 {font-family: Times;}
- p.tidied-201409019820-8 {color: #ff2500; font-size: 32px; font-family: 'Songti TC'; background-color: #fffb01;}
- span.tidied-201409019820-7 {font-family: Times;}
- span.tidied-201409019820-6 {color: #ffffff; background-color: #ff0000;}
- strong.tidied-201409019820-5 {color: #ff2500; font-size: 32px; font-family: Times;}
- strong.tidied-201409019820-4 {font-size: 18px; font-family: 'Songti TC';}
- p.tidied-201409019820-3 {font-size: 18px; font-family: 'Songti TC';}
- span.tidied-201409019820-2 {color: #ffffff; font-size: 18pt; background-color: #000000;}
- p.tidied-201409019820-1 {color: #ff2500; font-size: 18px; font-family: 'Songti TC'; background-color: #fffb01;}
- p.tidied-201409036118-13 {font-size: 18px; font-family: Times;}
- span.tidied-201409036118-12 {color: #ff0000;}
- span.tidied-201409036118-11 {color: #000000; font-size: 24px; font-family: Times; font-weight: normal;}
- span.tidied-201409036118-10 {font-size: 18px; font-family: 'Songti TC';}
- strong.tidied-201409036118-9 {font-family: Times;}
- p.tidied-201409036118-8 {color: #ff2500; font-size: 32px; font-family: 'Songti TC'; background-color: #fffb01;}
- span.tidied-201409036118-7 {font-family: Times;}
- span.tidied-201409036118-6 {color: #ffffff; background-color: #ff0000;}
- strong.tidied-201409036118-5 {color: #ff2500; font-size: 32px; font-family: Times;}
- strong.tidied-201409036118-4 {font-size: 18px; font-family: 'Songti TC';}
- p.tidied-201409036118-3 {font-size: 18px; font-family: 'Songti TC';}
- span.tidied-201409036118-2 {color: #ffffff; font-size: 18pt; background-color: #000000;}
- p.tidied-201409036118-1 {color: #ff2500; font-size: 18px; font-family: 'Songti TC'; background-color: #fffb01;}
- span.tidied-201409106128-1 {color: #545454; font-size: small; font-family: arial, sans-serif;}
- strong.tidied-201501225463-6 {color: #ff2500; background-color: #fffb01;}
- span.tidied-201501225463-5 {color: #ff2500; background-color: #fffb01;}
- img.tidied-201501225463-4 {font-size: 18px; font-family: Times;}
- span.tidied-201501225463-3 {font-size: 18px; font-family: Times;}
- strong.tidied-201501225463-2 {font-size: 32px;}
- span.tidied-201501225463-1 {color: #ff0000; font-family: Times; background-color: #ffffff;}
- p.tidied-201501274350-7 {text-align: left;}
- span.tidied-201501274350-6 {font-size: 24pt;}
- span.tidied-201501274350-5 {font-size: 12pt;}
- img.tidied-201501274350-4 {display: block; margin-left: auto; margin-right: auto;}
- span.tidied-201501274350-3 {font-size: 18pt;}
- p.tidied-201501274350-2 {text-align: center;}
- span.tidied-201501274350-1 {font-size: 18pt; background-color: #ffffff;}
- span.tidied-201501272350-7 {color: #7a7a7a; font-size: 13px; font-family: Arial, Helvetica, sans-serif;}
- p.tidied-201501272350-6 {color: #7a7a7a; font-size: 12px; font-family: Arial, Helvetica, sans-serif;}
- table.tidied-201501272350-5 {color: #7a7a7a; font-size: 13px; font-family: Arial, Helvetica, sans-serif; background-color: #fdfdfd; width: 934px;}
- p.tidied-201501272350-4 {font-size: 12px;}
- th.tidied-201501272350-3 {font-size: 13px; text-align: center;}
- p.tidied-201501272350-2 {text-align: center;}
- span.tidied-201501272350-1 {font-size: 24pt;}
- span.tidied-201501283118-5 {color: #ff0000; font-size: 12pt; background-color: #ffffff;}
- span.tidied-201501283118-4 {font-family: AppleGothic;}
- p.tidied-201501283118-3 {font-size: 12px; font-family: 'Heiti TC Light';}
- span.tidied-201501283118-2 {color: #808080; font-size: 12pt;}
- span.tidied-201501283118-1 {font-size: medium;}
- img.tidied-201502054664-3 {display: block; margin-left: auto; margin-right: auto;}
- span.tidied-201502054664-2 {font-size: 24pt;}
- p.tidied-201502054664-1 {text-align: center;}
- span.tidied-201502054484-1 {text-align: center;}
- span.tidied-201502249453-2 {font-size: 24pt;}
- p.tidied-201502249453-1 {text-align: center;}
- span.tidied-201503092011-1 {font-size: 14pt}
---></style><div>
-<p class="tidied-201406236574-7 tidied-201409036118-1 tidied-201501274350-2">&nbsp;<strong>¥i¥[Line ¸ß°İ Line ID : <span class="tidied-201501274350-1">extremeshop</span> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</strong> <strong class="tidied-201407313305-2 tidied-201409036118-9 tidied-201501225463-2"><strong class="tidied-201406293338-1 tidied-201409036118-4"><span class="tidied-201501225463-1">&nbsp;©Î¹q¡G0981-390-508</span></strong></strong></p>
-<p class="tidied-201406236574-3 tidied-201409036118-3 tidied-201501274350-2"><strong>¥Õ¤Ñ­±¥æ¦aÂI¡G¥x¥_¥«¤º´ò°Ï·ç¥ú¸ô´äáY¸ô¤f</strong></p>
-<p class="tidied-201406236574-3 tidied-201409036118-3 tidied-201501274350-2"><strong>±ß¤W­±¥æ¦aÂI¡G¥x¥_¥«®v¤jªşªñ &nbsp;</strong></p>
-<p class="tidied-201406236574-3 tidied-201409036118-3 tidied-201501274350-2"><strong>¡]­±¥æ½Ğ¨Æ¥ıÁpµ¸¡^</strong></p>
-<p class="tidied-201406236574-3 tidied-201409036118-3 tidied-201501274350-2">&nbsp;<strong>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</strong><strong>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</strong><strong>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</strong><strong>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</strong><strong>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</strong><strong>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</strong><strong>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</strong><strong>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</strong><strong>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</strong><strong>BSMI: &nbsp;D39755 &nbsp;&nbsp;</strong></p>
-<p>&nbsp;&nbsp;</p>
-<p class="tidied-201502249453-1"><span class="tidied-201502249453-2">ª`·N¡I³o¬O¥¿ª©¥i¦Ü©xºô www.sjcam.com §ó·s¶´Åéªº©x¤è¥¿ª©½æ³õ</span></p>
-<p class="tidied-201502249453-1">&nbsp;</p>
-<p class="tidied-201502249453-1"><span class="tidied-201503092011-1">¤£¥i§ó·s¶´Åé¬°°ª¥éª© 1699¤¸¡A<a  href="http://goods.ruten.com.tw/item/show?21406181576988" target="_blank">½Ğ¦Ü³o¸Ì¤U³æ</a></span></p>
-<p><strong>&nbsp;</strong></p>
-<p class="tidied-201406236574-3 tidied-201409036118-3 tidied-201501274350-2">&nbsp;</p>
-<p class="tidied-201501274350-2"><span class="tidied-201501274350-3"><strong>Åwªï°Ñ¦Ò &nbsp;·¥­­±M½æ©±¤§¤Í ¤@¶ô¿ú ±M·~¶}½c¤å¡G</strong></span></p>
-<p><a  href="javascript:top.external_link('http%3A%2F%2Fdevilmen.blogspot.tw%2F2014%2F12%2Fsj4000.html');" target="_top" ><img class="tidied-201501274350-4"  src="http://i.imgur.com/XkvxfUL.png" border="0" alt="SJ4000&#x958B;&#x7BB1;&#x6587;" width="627" height="556"/></a></p>
-<p>&nbsp;</p>
-<p class="tidied-201502054664-1"><span class="tidied-201501225463-3">¥xÆW¸gÀÙ³¡¼Ğ·ÇÀËÅç§½ BSMIÀËÅç³q¹L¡A«~½è¦³«O»Ù¡G¦r¸¹&nbsp;</span><img class="tidied-201501225463-4"  src="http://i.imgur.com/KLHBCvk.png" border="0" alt="" width="96" height="38"/></p>
-<p class="tidied-201502054664-1">&nbsp;</p>
-<p class="tidied-201406236574-3 tidied-201409036118-3 tidied-201502054664-1">¤£¥ÎÃhºÃ¡A1899¤¸¡A¹Ï¤ù¤¤©Ò¦³°t¥ó³q³q³£¦³ªş¤W¡A¥]§t30M¼ç¤ô´ß¡B§Ö©î¦©µ¥µ¥¤@°ï°t¥ó¡C</p>
-<p class="tidied-201406236574-3 tidied-201409036118-3">&nbsp;</p>
-<p class="tidied-201406236574-3 tidied-201409036118-3">&nbsp;</p>
-<p class="tidied-201406236574-3 tidied-201409036118-3">&nbsp;</p>
-<p class="tidied-201406236574-3 tidied-201409036118-3 tidied-201501274350-2"><span class="tidied-201501274350-6">½Ğ»{©ú¥i³z¹L<a  href="javascript:top.external_link('http%3A%2F%2Fwww.sjcam.com%2Fen%2Fcontent%2F9-sjcam-sj4000-action-camera-firmware');" target="_top" >SJCAM©xºô§ó·s¶´Åé</a>¤~¬O¥¿ª©SJ4000 <span class="tidied-201501274350-5">&lt;--¦n¦Ñ®Mªº»¡ªk XD</span></span></p>
-<p class="tidied-201406236574-3 tidied-201409036118-3 tidied-201501274350-2"><span class="tidied-201501283118-1">¶´Åé§ó·s¤è¦¡½Ğ°Ñ¦Ò¤U¤è Q and A</span></p>
-<p class="tidied-201406236574-3 tidied-201409036118-3 tidied-201501274350-2">(PS: ¨ä¥L°ª¥é1:1 ³sµú96650 &nbsp;§ó·sSJCAM ©xºô¶´Åé«á¡A«ö¶s¦ì¸m·|¿ù¶Ã¡AµLªk¥¿±`Äá¼v¡ã³o¬O³Ì§Ö½T»{§A¤â¤W¾÷¾¹¬O§_¬O°ª¥éª©³Ì§Öªº¤èªk)</p>
-<p class="tidied-201406236574-3 tidied-201409036118-3">&nbsp;</p>
-<p class="tidied-201406236574-3 tidied-201409036118-3">&nbsp;</p>
-<p class="tidied-201406236574-3 tidied-201409036118-3 tidied-201501274350-2"><strong><span class="tidied-201501274350-3">«O©T±ø¥ó¡G</span></strong></p>
-<p class="tidied-201406236574-3 tidied-201409036118-3 tidied-201501274350-2"><span class="tidied-201408143818-1 tidied-201409036118-6">30¤Ñ¤º¡G¥ô¦ó°İÃD &nbsp; ª½±µ´«·s¾÷</span></p>
-<p class="tidied-201406236574-3 tidied-201409036118-3 tidied-201501274350-2"><span class="tidied-201408143818-1 tidied-201409036118-6">¥b¦~ «O­×</span></p>
-<p class="tidied-201406236574-3 tidied-201409036118-3 tidied-201501274350-2"><span class="tidied-201408143818-1 tidied-201409036118-6">¤@¦~¤º &nbsp; &nbsp;«D¤H¬°¦]¯À·lÃa¡A¥I¹B¶O250¤¸¨Ó¦^¹B¶O¡CÅS¤Ñ©ç½æ³Ì¦³«O»Ù¡C&nbsp;</span><span class="tidied-201408143818-1 tidied-201409036118-6"><br/></span></p>
-<p class="tidied-201406236574-3 tidied-201409036118-3 tidied-201501274350-2">&nbsp;<span class="tidied-201501225463-5">&nbsp;</span><span class="tidied-201501225463-5">&nbsp;</span><strong class="tidied-201501225463-6">¤@¦¸ÁÊ¶R¥|¥x¥H¤W¥t¥~Àu´f¡ã&nbsp;</strong></p>
-<p class="tidied-201406236574-3 tidied-201409036118-3 tidied-201501274350-2">&nbsp;</p>
-<p class="tidied-201406236574-3 tidied-201409036118-3 tidied-201501274350-2"><strong><span class="tidied-201501274350-3">¥[ÁÊ°Ó«~</span></strong></p>
-<p class="tidied-201406236574-3 tidied-201409036118-3 tidied-201501274350-7">299¤¸ &nbsp; &nbsp;KingstoneµP ¤½¥q³f²×¨­«O©T °ª³t¥d Mirco SD Class10 uhs-i&nbsp;16G&nbsp;</p>
-<p class="tidied-201406236574-3 tidied-201409036118-3 tidied-201501274350-7">499¤¸ &nbsp; &nbsp;Kingstone µP ¤½¥q³f²×¨­«O©T °ª³t¥d Mirco SD Class10 uhs-i 32G&nbsp;</p>
-<p class="tidied-201406236574-3 tidied-201409036118-3 tidied-201501274350-7">999¤¸ &nbsp; &nbsp;Kingstone µP ¤½¥q³f²×¨­«O©T °ª³t¥d Mirco SD Class10 uhs-i 64G ¡]½Ğ©ó¹q¸£Format¦¨ fat32¦A¨Ï¥Î¡^</p>
-<p class="tidied-201406236574-3 tidied-201409036118-3 tidied-201501274350-7">320¤¸ &nbsp; &nbsp;<a  href="http://goods.ruten.com.tw/item/show?21406252316552" target="_blank">µL¼Ä¦Û©ç¬ñ¡ãSJ4000 °ò¥»´Ú¡A±j¯P±ÀÂË¤@©w­n±a¡A¤£±a§A¬O­n«ç¼Ë®³µÛ¥L©ç·Ó¡H</a></p>
-<p class="tidied-201406236574-3 tidied-201409036118-3 tidied-201501274350-7">100¤¸ &nbsp;&nbsp;<a  href="http://goods.ruten.com.tw/item/show?21408193115780" target="_blank">­ì¼t§l½L¨®¬[</a></p>
-<p class="tidied-201406236574-3 tidied-201409036118-3 tidied-201501274350-7">100¤¸ &nbsp;&nbsp;<a  href="http://goods.ruten.com.tw/item/show?21408193186799" target="_blank">1.5M ­ì¼t¨®¥R</a>&nbsp; ¡B3.5M¨®¥R150¤¸</p>
-<p class="tidied-201406236574-3 tidied-201409036118-3 tidied-201501274350-7">250¤¸ &nbsp;&nbsp;<a  href="http://goods.ruten.com.tw/item/show?21508501400859" target="_blank">­ì¼t®y¥R¡]Micro USB±µÀY¡A¤£§tÅÜÀ£¾¹¡^</a></p>
-<p class="tidied-201406236574-3 tidied-201409036118-3 tidied-201501274350-7">150¤¸ &nbsp;&nbsp;<a  href="http://goods.ruten.com.tw/item/show?21408124266174" target="_blank">¦w¥ş´U¥Î©·§Î©³¶K¤ù¡]¨â¤ù¡^</a>&nbsp;--&gt;­ì¼t°t¥ó¥]µ¹ªº¬O¥­©³ªº¡AµLªk¶K¦X¦w¥ş´U¡A­Y¬O­n¶K´U¤l¡A«ØÄ³¥[ÁÊ¡ã</p>
-<p class="tidied-201406236574-3 tidied-201409036118-3 tidied-201501274350-7">150¤¸ &nbsp;&nbsp;<a  href="http://goods.ruten.com.tw/item/show?21408193200145" target="_blank">­ì¼t¹q¦À</a></p>
-<p class="tidied-201406236574-3 tidied-201409036118-3 tidied-201501274350-7">100¤¸ &nbsp;&nbsp;<a  href="http://goods.ruten.com.tw/item/show?21504368096857" target="_blank">«á·ÓÃè¬[</a></p>
-<p class="tidied-201406236574-3 tidied-201409036118-3 tidied-201501274350-7">210¤¸ &nbsp;&nbsp;<a  href="http://goods.ruten.com.tw/item/show?21408124219138" target="_blank">¨¾Ãú¤ù¡]·Æ³·¡B¼ç¤ô¡B½Ä®ö¡B¤ô¤W¬¡°Ê¥²³Æ¡^</a></p>
-<p class="tidied-201406236574-3 tidied-201409036118-3 tidied-201501274350-7">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;<a  href="http://class.ruten.com.tw/user/index00.php?s=kigosam400" target="_blank">§ó¦h¥[ÁÊ°Ó«~¥i°Ñ¦Ò ¥»½æ³õ­º­¶</a></p>
-<p class="tidied-201406236574-3 tidied-201409036118-3 tidied-201501274350-7">&nbsp;</p>
-<p class="tidied-201406236574-3 tidied-201409036118-3">¥[ÁÊ°Ó«~¥iª½±µ­×§ïµ²±bª÷ÃB¡A¨Ã¥B¦b³ÆµùÄæ»¡©ú§A­n¥[ÁÊªº²£«~§Y¥i¡ã ­×§ïµ²¼Ğª÷ÃB¤è¦¡½Ğ°Ñ¦Ò¡u<a  href="http://mybid.ruten.com.tw/credit/rule_p?kigosam400" target="_blank">Ãö©ó§Ú</a>¡v¡ã´ª«}&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p class="tidied-201406236574-3 tidied-201409036118-3 tidied-201501274350-2">&nbsp;</p>
-<p class="tidied-201406236574-3 tidied-201409036118-3 tidied-201501274350-2"><span class="tidied-201502054664-2"><strong>ÅS¤Ñ©ç½æ°ß¤@´£¨ÑSJ4000ºû­×©±®a¡Aºû­×½T¹ê¦³«O»Ù¡ã</strong></span>&nbsp;</p>
-<p class="tidied-201406236574-3 tidied-201409036118-3 tidied-201501274350-2">¨Ï¥Î³sÁpµú´¹¤ù 96650 ©]©çªº¤ıªÌ¡A¼Ğ·Ç°t¥ó¥]¬A30M¨¾¤ô´ß</p>
-<p class="tidied-201406236574-3 tidied-201409036118-3 tidied-201501274350-2">«OÃÒ¥¿«~¡Aµ´¹ï¤£·|®³«D³sµú96650¥H¥~ªº¾÷¾¹¨Ó©IÃl§A¡A¤£¶È´±©î¡AÁÙ­×µ¹§A¬İ XD</p>
-<p class="tidied-201406236574-3 tidied-201409036118-3"><img class="tidied-201502054664-3"  src="http://i.imgur.com/dus90mU.jpg" border="0" alt="" width="958" height="1357"/></p>
-<p class="tidied-201406236574-3 tidied-201409036118-3">¹ê©çºû­×ª¬ªp¡G</p>
-<p class="tidied-201406236574-3 tidied-201409036118-3"><img  src="http://i.imgur.com/wywJZWi.jpg" border="0" alt="" width="444" height="592"/>&nbsp;<img  src="http://i.imgur.com/7uJwSOG.jpg" border="0" alt="" width="492" height="369"/></p>
-<p class="tidied-201406236574-3 tidied-201409036118-3">&nbsp;<img  src="http://i.imgur.com/S31Spjr.jpg" border="0" alt="" width="935" height="1248"/></p>
-<p class="tidied-201406236574-3 tidied-201409036118-3 tidied-201501274350-2">&nbsp;</p>
-<p class="tidied-201406236574-3 tidied-201409036118-3 tidied-201501274350-2">©]¶¡¹ê©ç¼v¤ù</p>
-<p class="tidied-201406236574-3 tidied-201409036118-3 tidied-201501274350-2"><a  href="javascript:top.external_link('http%3A%2F%2Fyoutu.be%2FfVahmHWP3hc');" target="_top" ><img  src="http://i.imgur.com/sYrKDDn.png" border="0" alt=""/></a></p>
-<p class="tidied-201406236574-3 tidied-201409036118-3">&nbsp;</p>
-<p class="tidied-201406236574-3 tidied-201409036118-3">&nbsp;</p>
-<p class="tidied-201406236574-3 tidied-201409036118-3 tidied-201501274350-2">«B¤Ñ¹ê©ç¼v¤ù</p>
-<p class="tidied-201406236574-3 tidied-201409036118-3"><a  href="javascript:top.external_link('http%3A%2F%2Fyoutu.be%2F5x82zguY9D0');" target="_top" ><img class="tidied-201501274350-4"  src="http://i.imgur.com/yFpyGe6.png" border="0" alt="&#x591C;&#x9593;&#x5BE6;&#x62CD;&#x5F71;&#x7247;" width="504" height="281"/></a></p>
-<p class="tidied-201406236574-3 tidied-201409036118-3 tidied-201501274350-2">&nbsp;</p>
-<p class="tidied-201406236574-3 tidied-201409036118-3 tidied-201501274350-2">&nbsp;</p>
-<p class="tidied-201406236574-3 tidied-201409036118-3 tidied-201501274350-2"><strong><span class="tidied-201501274350-6">Q and A §Ö°İ§Öµª¡G</span></strong></p>
-<p class="tidied-201406236574-3 tidied-201409036118-3">Q: GoPro °t¥ó¬O§_¥i©M SJ4000¦@¥Î¡H</p>
-<p class="tidied-201406236574-3 tidied-201409036118-3">A: ¥i¥Hªº¡ã¤j¦h¼Æªº°t¥ó³£¥i¦@¥Î¡]¨¾¤ô´ß°£¥~¡^</p>
-<p class="tidied-201406236574-3 tidied-201409036118-3">&nbsp;</p>
-<p class="tidied-201406236574-3 tidied-201409036118-3">Q: §Ú¦¬¨ìªF¦è¤F¡A¦ı¨¾¤ô´ß­n«ç»ò¼Ë¤~¥i¥H¥´¶}©O¡H</p>
-<p class="tidied-201406236574-3 tidied-201409036118-3">A: SJ4000¸òGoProªº¨¾¤ô´ß¶}ªk¬O¤@¼Ëªº¡A½Ğ°Ñ¦Ò<a  href="javascript:top.external_link('https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DvemWD5WuRiY');" target="_top" >³o­Ó¥~°ê¤Hªº¶}´ß±Ğ¾Ç</a></p>
-<p class="tidied-201406236574-3 tidied-201409036118-3">&nbsp;</p>
-<p class="tidied-201406236574-3 tidied-201409036118-3">Q: ¹q¦À¤@Áû¥i¥H¥Î¦h¤[¡H</p>
-<p class="tidied-201406236574-3 tidied-201409036118-3">A: ³sÄò¨Ï¥Î¤U¡A¥i¥Î70-90¤ÀÄÁ¡F­Y¦³§óªø®É¶¡¨Ï¥Î»İ¨D¡A«ØÄ³¦hÁÊ¶R¤@Áû<a  href="http://goods.ruten.com.tw/item/show?21408193200145" target="_blank">­ì¼t¹q¦À</a>&nbsp;¡Ï<a  href="http://goods.ruten.com.tw/item/show?21406181576988" target="_blank">­ì¼t®y¥R</a>¡C³o¼Ë¡A¤@Áû¹q¦À¨Ï¥Îªº®É­Ô¡A¥t¥~¤@­Ó¹q¦À¥i¥Î¦æ°Ê¹q·½±µ¤W®y¥R¡A©ñ¦b¥]¥]¤¤Ä~Äò¥R¹q¡C¨âÁû¹q¦À´N¥i¥H½ü´À¥æ´«¨Ï¥Î¡ã</p>
-<p class="tidied-201406236574-3 tidied-201409036118-3">&nbsp;</p>
-<p class="tidied-201406236574-3 tidied-201409036118-3">Q: §Ú·Q®³¨Ó·í°µ¦æ¨®°O¿ı¾¹¡A­n¦p¦ó¶}±Ò´`Àô¿ı¼v©O¡H</p>
-<p class="tidied-201406236574-3 tidied-201409036118-3">A: ¦b³]©w¤¤ ¥´¶}¡u´`Àô¿ı¼v¡v¿ï¾Ü 3, 5, 10 ¤ÀÄÁ ¥ô¦ó¤@­Ó¿ï¶µ¡A³o¼Ë´N¥i¥H¦Û°Ê±N¼v¤ù¤Á¦¨¤pÀÉ®×¡A¨Ã¥B¦b°O¾Ğ¥d¿ıº¡¥H«á¡A¦Û°Ê§R±¼³ÌÂÂªºÀÉ®×¡C</p>
-<p class="tidied-201406236574-3 tidied-201409036118-3">&nbsp;</p>
-<p class="tidied-201406236574-3 tidied-201409036118-3">&nbsp;Q: &nbsp; ¦³¤º¥I°O¾ĞÅé¶Ü¡H</p>
-<p class="tidied-201406236574-3 tidied-201409036118-3">A: &nbsp; ¨S¦³¤º«Ø°O¾ĞÅé³á¡A°O¾Ğ¥d³W®æ«ØÄ³¨Ï¥Î¡GMirco SD Class10 uhs-i &nbsp;1080P®æ¦¡¤U &nbsp;8G¥i¥H¿ı¼v¬ù¤@­Ó¤p®É 16G ¬ù¨â­Ó¤p®É 32G¬ù¥|­Ó¤p®É</p>
-<p class="tidied-201406236574-3 tidied-201409036118-3">&nbsp;</p>
-<p class="tidied-201406236574-3 tidied-201409036118-3">Q: ¨º¦³³q¹q¦Û°Ê¿ı¼v¡BÂ_¹q¦Û°ÊÃö¾÷ªº¥\¯à¶Ü¡H</p>
-<p class="tidied-201406236574-3 tidied-201409036118-3">A: ¦³¡A½Ğ¥´¶}¿ï³æ¤¤ªº¡u¨®¸ü¼Ò¦¡¡v§Y¥i¡C</p>
-<p class="tidied-201406236574-3 tidied-201409036118-3">&nbsp;</p>
-<p class="tidied-201406236574-3 tidied-201409036118-3">Q: ­ì¼t°t¥ó¥]¤¤¡A¬O§_¦³ªş¤W¹q¦À</p>
-<p class="tidied-201406236574-3 tidied-201409036118-3">A: &nbsp;¬Oªº¡A¼Ğ·Ç­ì¼t°t¥ó¥]¦³ªş¤W¤@Áû¹q¦À¡A¤@Áû¥i¥Î70-90¤ÀÄÁ</p>
-<p class="tidied-201406236574-3 tidied-201409036118-3">&nbsp;</p>
-<p class="tidied-201406236574-3 tidied-201409036118-3">Q: ¶´Åé¸Ó¦p¦ó§ó·s</p>
-<p class="tidied-201406236574-3 tidied-201409036118-3">A: ­ìª©¶´Åé½Ğ¦b<a  href="javascript:top.external_link('http%3A%2F%2Feasonkao.dscloud.me%3A5000%2Ffbsharing%2FxEfVT89G');" target="_top" >³o¸Ì¤U¸ü</a>¡A¨Ã¥B«ö·Ó¤U¦C§ó·s¤è¦¡¶i¦æ§ó·s¡CSJCAM LOGO <a  href="javascript:top.external_link('http%3A%2F%2Fwww.sjcam.com%2Fen%2Fcontent%2F9-sjcam-sj4000-action-camera-firmware');" target="_top" >¶´Åé½Ğ¨ì©x¤èºô¯¸¤U¸ü</a></p>
-<p class="tidied-201406236574-3 tidied-201409036118-3">§ó·s¶´Åé¤è¦¡¡G</p>
-<p class="tidied-201501283118-3"><span class="tidied-201501283118-2">1. ±N°O¾Ğ¥d¥ÎSJ4000 ®æ¦¡¤Æ</span></p>
-<p class="tidied-201501283118-3"><span class="tidied-201501283118-2">2. ±NFW96650A.bin ©ñ¤J°O¾Ğ¥d</span></p>
-<p class="tidied-201501283118-3"><span class="tidied-201501283118-2">3. ½Ğ½T»{¹q¦À¹q¶q¦b50¢H¥H¤W¡A±N°O¾Ğ¥d´¡¤J SJ4000 ¡]ª`·N¡I¡I¡I­Y¦w¸Ë¨ì¤@¥b¨S¹q¡A±N·|·l·´¾÷¾¹µLªk­×´_¡A¦¹ª¬ªp¦b«O©T½d³ò¥~¡^</span></p>
-<p class="tidied-201501283118-3"><span class="tidied-201501283118-2">4. ¶}¾÷¡Aµ¥45¬í«á¡A¾÷¾¹·|¦Û°Ê¶}±Ò¡A¶´Åé§ó·s§¹¦¨</span></p>
-<p class="tidied-201501283118-3"><span class="tidied-201501283118-5">5.±N¥d®³¥X¨Ó§â<span class="tidied-201501283118-4">­è­è</span>¥á<span class="tidied-201501283118-4">¶i¥hªº</span>ÀÉ<span class="tidied-201501283118-4">®×§R±¼¡A</span>©Î¥ÎSJ4000 ±N°O¾Ğ¥d®æ¦¡¤Æ<span class="tidied-201501283118-4">¡A</span>¤£µM¥H«á¨C¦¸¶}¾÷³£·|§ó·s¶´Åé¤@¦¸</span></p>
-<p class="tidied-201501283118-3">&nbsp;</p>
-<p class="tidied-201406236574-3 tidied-201409036118-3">Q: ³o¥x¬O¥¿ª©ÁÙ¬O°ª¯Å¥é«_ª©¡H</p>
-<p class="tidied-201406236574-3 tidied-201409036118-3">A: ³o¥x¬O¥¿ª©ªº¡A<a  href="http://goods.ruten.com.tw/item/show?21406181576988" target="_blank">°ª¥éª©ªº°Ñ¦Ò³o¸Ì</a>¡A¨ä¹ê®ÄªG¤]¬O¤£¿ù¡C</p>
-<p class="tidied-201406236574-3 tidied-201409036118-3">&nbsp;</p>
-<p class="tidied-201406236574-3 tidied-201409036118-3">Q: «ç»ò¼Ë¤À¿ë¬O°ª¥éÁÙ¬O¥¿ª©©O¡H</p>
-<p class="tidied-201406236574-3 tidied-201409036118-3">A:&nbsp;<span class="tidied-201502054484-1">¨ä¥L°ª¥é1:1 ³sµú96650 &nbsp;§ó·sSJCAM ©xºô¶´Åé«á¡A«ö¶s¦ì¸m·|¿ù¶Ã¡AµLªk¥¿±`Äá¼v¡ã³o¬O³Ì§Ö½T»{§A¤â¤W¾÷¾¹¬O§_¬O°ª¥éª©³Ì§Öªº¤èªk¡C¥t¥~¡A¥´¶}­±ªO¡A§A¤]¥i¥H¬İ¨ì¡A­n¬O¦³Power¦r¼Ëªº¤~¬O¥¿ª©</span></p>
-<p class="tidied-201406236574-3 tidied-201409036118-3"><span class="tidied-201502054484-1"><img  src="http://i.imgur.com/gQnp66q.png" border="0" alt="" width="361" height="237"/></span></p>
-<p class="tidied-201406236574-3 tidied-201409036118-3">&nbsp;</p>
-<p class="tidied-201406236574-3 tidied-201409036118-3">&nbsp;</p>
-<p class="tidied-201406236574-3 tidied-201409036118-3 tidied-201501272350-2"><span class="tidied-201501272350-1"><strong>³W®æ¡G</strong></span></p>
-<table class="tidied-201501272350-5" border="1" cellspacing="0" cellpadding="0">
-<tbody>
-<tr>
-<th class="tidied-201501272350-3">
-<p>LIQUID CRYSTAL DISPLAY</p>
-<p>²G´¹¿Ã¹õ</p>
-</th>
-<td>1.5¦TLTPS</td>
-</tr>
-<tr>
-<th class="tidied-201501272350-3">
-<p>ÃèÀY¤Ø¤o</p>
-<p>LENS&nbsp;</p>
-</th>
-<td>
-<p class="tidied-201501272350-4"><strong>170¢XA+ HD wide-angle lens, 6G lens ¶W¼s¨¤</strong></p>
-</td>
-</tr>
-<tr>
-<th class="tidied-201501272350-3">
-<p>»y¨¥</p>
-<p>LANGUAGE OPTIONS&nbsp;</p>
-</th>
-<td>
-<p class="tidied-201501272350-4">English / German / French / Spanish / Italian / Portuguese / Chinese Traditional / Chinese Simplified / Japanese / Russian</p>
-</td>
-</tr>
-<tr>
-<th class="tidied-201501272350-3">
-<p>¿ı¼v¸ÑªR«×</p>
-<p>RESOLUTION OF VIDEOS RECORDED</p>
-</th>
-<td>
-<p class="tidied-201501272350-4">1080P (1920*1080 ) 30FPS</p>
-<p class="tidied-201501272350-4">720P (1280*720) 60FPS</p>
-<p class="tidied-201501272350-4">VGA ( 848*480) 60FPS</p>
-<p class="tidied-201501272350-4">QVGA (640*480) 60FPS</p>
-</td>
-</tr>
-<tr>
-<th class="tidied-201501272350-3">
-<p>¼v¹³³W®æ</p>
-<p>VIDEO FORMAT</p>
-</th>
-<td>
-<p class="tidied-201501272350-4">MOV</p>
-</td>
-</tr>
-<tr>
-<th class="tidied-201501272350-3">
-<p>¼v¤ùÀ£ÁY³W®æ</p>
-<p>COMPRESSED FORMAT OF VIDEOS</p>
-</th>
-<td>
-<p class="tidied-201501272350-4">H.264</p>
-</td>
-</tr>
-<tr>
-<th class="tidied-201501272350-3">
-<p>·Ó¬Û¸ÑªR«×</p>
-<p>RESOLUTION OF PHOTOS</p>
-</th>
-<td>
-<p class="tidied-201501272350-4">12M / 8M / 5M</p>
-</td>
-</tr>
-<tr>
-<th class="tidied-201501272350-3">
-<p>¾A¥Î°O¾Ğ¥d³W®æ</p>
-<p>STORAGE</p>
-</th>
-<td>
-<p class="tidied-201501272350-4">Micro SD</p>
-</td>
-</tr>
-<tr>
-<th class="tidied-201501272350-3">
-<p>©ç·Ó¼Ò¦¡</p>
-<p>SHOOTING MODE</p>
-</th>
-<td>
-<p class="tidied-201501272350-4">Single Shot / Self-timer (2s / 5s / 10s / Continuous Shooting</p>
-</td>
-</tr>
-<tr>
-<th class="tidied-201501272350-3">
-<p>©ç·ÓÀW²v</p>
-<p>FREQUENCY OF OPTICAL SOURCE</p>
-</th>
-<td>
-<p class="tidied-201501272350-4">50Hz / 60Hz</p>
-</td>
-</tr>
-<tr>
-<th class="tidied-201501272350-3">
-<p>USB¤¶­±</p>
-<p>USB INTERFACE</p>
-</th>
-<td>
-<p class="tidied-201501272350-4">USB2.0</p>
-</td>
-</tr>
-<tr>
-<th class="tidied-201501272350-3">
-<p>¹qÀ£</p>
-<p>POWER SOURCE INTERFACE</p>
-</th>
-<td>
-<p class="tidied-201501272350-4">5V1A</p>
-</td>
-</tr>
-<tr>
-<th class="tidied-201501272350-3">
-<p>¹q¦À®e¶q</p>
-<p>BATTERY CAPACITY</p>
-</th>
-<td>
-<p class="tidied-201501272350-4">900MAH</p>
-</td>
-</tr>
-<tr>
-<th class="tidied-201501272350-3">POWER DISSIPATION</th>
-<td>
-<p class="tidied-201501272350-4">400mA@4.2V</p>
-</td>
-</tr>
-<tr>
-<th class="tidied-201501272350-3">
-<p>¥i°O¿ı®É¶¡</p>
-<p>RECORDING TIME</p>
-</th>
-<td>
-<p class="tidied-201501272350-4">1080P/ About 70 minutes</p>
-</td>
-</tr>
-<tr>
-<th class="tidied-201501272350-3">
-<p>¥R¹q©Ò»İ®É¶¡</p>
-<p>CHARGING TIME</p>
-</th>
-<td>
-<p class="tidied-201501272350-4">About 3.5 hours</p>
-</td>
-</tr>
-<tr>
-<th class="tidied-201501272350-3">
-<p>¥i¬Û®e§@·~¨t²Î</p>
-<p>OPERATING SYSTEM (OS)</p>
-</th>
-<td>
-<p class="tidied-201501272350-4">Windows XP/VistaorAbove/Win7/Mac os</p>
-</td>
-</tr>
-<tr>
-<th class="tidied-201501272350-3">
-<p>¤Ø¤o</p>
-<p>DIMENSION</p>
-</th>
-<td>
-<p class="tidied-201501272350-4">59.27*41.13*29.28</p>
-</td>
-</tr>
-</tbody>
-</table>
-<p class="tidied-201501272350-6">&nbsp;</p>
-<p class="tidied-201406236574-3 tidied-201409036118-3"><span class="tidied-201501272350-7">&nbsp;</span></p>
-</div>  </body>
+    <body id="wwwRutenComTw" class="">
+    <div class="base-theme">
+      <div class="layout">
+                
+
+<div class="page-header">
+  <div class="site-menu">
+    <h1 class="logo">
+      <a href="http://www.ruten.com.tw" title="å‰å¾€éœ²å¤©æ‹è³£é¦–é ">
+        <img src="http://www.ruten.com.tw/image/default/ci/logo_s.gif" alt="éœ²å¤©æ‹è³£Logo" />
+      </a>
+    </h1>
+    <p class="user-sign">
+            <span class="sign-in"><a href="https://member.ruten.com.tw/user/login.htm" title="ç™»å…¥é é¢">ç™»å…¥</a></span><span class="sign-up"><a href="https://member.ruten.com.tw/user/register_step1.htm" title="å…è²»è¨»å†Š">å…è²»è¨»å†Š</a></span>    </p>
+    <ul class="list">
+      <li class="search_multi_ways">
+        <form name="serc" action="http://search.ruten.com.tw/search/s000.php" method="get">
+                      <input type="hidden" value="goodsheadbar" name="searchfrom"/>
+            <input type="hidden" id="search_g_class" value="0019000500010008" />
+            <input type="hidden" id="search_seller_user_nick" value="kigosam400" />
+                    <ul id="srchForm">
+            <li class="search_keyword">
+              <span>
+                <input type="text" name="k" value="è«‹è¼¸å…¥é—œéµå­—" id="keyword" onkeydown="if(event.keyCode == 13) check_serc_kw();" onfocus="if (this.value == 'è«‹è¼¸å…¥é—œéµå­—') this.value='';"/>
+              </span>
+            </li>
+                        <li class="type">
+              <span>
+                <select id="search_type" title="æœå°‹é …ç›®ä¸‹æ‹‰é¸å–®" style="display:none">
+                  <option value="all" selected>æ‰¾éœ²å¤©å…¨ç«™å•†å“</option>
+                  <option value="class">æ‰¾æ­¤åˆ†é¡å•†å“</option>
+                  <option value="seller">æ‰¾æ­¤è³£å ´å•†å“</option>
+                </select>
+              </span>
+
+            </li>
+                        <li class="search-btn">
+              <span>
+                <input type="button" name="serach_button" value="æœå°‹" class="btn" onclick="check_serc_kw()" />
+              </span>
+            </li>
+          </ul>
+        </form>
+      </li>
+      <li class="sell">
+        <a href="http://mybid.ruten.com.tw/upload/step1.htm" title="æˆ‘è¦è³£æ±è¥¿"><span>è³£æ±è¥¿</span></a>
+      </li>
+      <li class="my-bid">
+        <a href="http://mybid.ruten.com.tw/master/my.php" title="é€²å…¥æˆ‘çš„æ‹è³£ç®¡ç†ä¸­å¿ƒ"><span>æˆ‘çš„æ‹è³£</span></a>
+      </li>
+    </ul>
+  </div>
+</div>
+
+<script type="text/javascript">
+function check_serc_kw(){
+  if($("#keyword").val() == 'è«‹è¼¸å…¥é—œéµå­—'){
+    $("#keyword").val('');
+  }
+  obj = $('#search_type');
+  if(obj.length>0){
+    search_type = $('#search_type option:selected').val();
+    if(search_type==='seller'){
+      seller_user_nick = $('#search_seller_user_nick').val();
+      $('form[name=serc]').append('<input type="hidden" name="s" value="'+seller_user_nick+'" />');
+      $('form[name=serc]').attr('action', 'http://search.ruten.com.tw/search/ulist00.php');
+    }else if(search_type==='class'){
+      g_class = $('#search_g_class').val();
+      $('form[name=serc]').append('<input type="hidden" name="c" value="'+g_class+'" />')
+    }
+  }
+  document.serc.submit();
+}
+</script>
+                				
+        <div class="ad-467" id="ad-467"></div>
+				
+                        <div class="breadcrumb">
+          <p class="dir">
+            <span class="ruten-home"> <a href="http://www.ruten.com.tw" title="å›åˆ°éœ²å¤©æ‹è³£é¦–é ">éœ²å¤©æ‹è³£</a></span>
+             &gt; <span> <a href="http://class.ruten.com.tw/category/main?0019" > äº¤é€šå·¥å…· </a> </span>&nbsp;&gt; <span> <a href="http://class.ruten.com.tw/category/main?00190005" > æ©Ÿè»Šç™¾è²¨ </a> </span>&nbsp;&gt; <span class="located"> <a href="http://class.ruten.com.tw/category/main?001900050001" > é¨å£«ç”¨å“ </a> </span>&nbsp;&gt; <span class="located"> <a href="http://class.ruten.com.tw/category/sub00.php?c=0019000500010008" > è¡Œè»Šè¨˜éŒ„å™¨ </a> </span>
+            
+          </p>
+        </div>
+                        
+        <div class="main-content">
+          
+                    <div class="auction-data">
+            <h2 class="">[æ¥µé™å°ˆè³£åº—]ç¾è²¨ SJ4000 é‹å‹•ç›¸æ©Ÿ è¡Œè»Šç´€éŒ„å™¨ æ»‘é›ª GoPro4 gopro ç¥ç¥•å‡ç´šç‰ˆè«‹line</h2>
+                        <div class="product-intro">
+              
+              <p class="status"><label class="title">å•†å“ç‹€æ³ï¼š</label><span class="content">å…¨æ–°</span></p>
+              
+              
+
+
+
+              <div class="product-thumb"><span></span><span class="image"><a title="æª¢è¦–å•†å“"><img src="http://b.rimg.com.tw/s2/f/47/f4/21406227445748_940_m.jpg" alt="å•†å“åœ–ç‰‡" /></a></span></div>
+                            
+                            <div class="deliver-img">
+                            
+              <p class="paylink_deliver"><label class="title">PChomePayæ”¯ä»˜é€£ä»˜æ¬¾ï¼š</label><span class="content">éŠ€è¡Œè½‰å¸³</span></p>
+              
+               			  
+              <p class="cvs_cod_deliver"><label class="title">CVSé‹é€æ–¹å¼ï¼š</label><span class="content">å–è²¨ä»˜æ¬¾</span></p>
+              
+              
+              <p class="seven_cod_deliver"><label class="title">7-11é‹é€æ–¹å¼ï¼š</label><span class="content">å–è²¨ä»˜æ¬¾</span></p>
+              
+
+              
+
+              </div>
+              <div class="ultra-info">
+                <ul>
+                  
+                  
+                  <li class="place-holder">&nbsp;</li>
+                </ul>
+              </div>
+              <div class="ultra-option">
+                <p><label class="title">å•†å“ç·¨è™Ÿ</label>ï¼š<span class="content">21406227445748</span></p>
+                <ul>
+                  
+                  <li id="report_violate">æª¢èˆ‰</li>
+                  
+                  <li class="place-holder">&nbsp;</li>
+                </ul>
+              </div>
+              <p class="product-memo-switch"><label class="title">å•†å“å‚™è¨»</label></p>
+              <div class="product-memo" id="product-memo">
+                <ul>
+                  <li class="status"><label class="title">ç‰©å“ç‹€æ³ï¼š</label><span class="content">å…¨æ–°</span></li>
+                  <li class="location"><label class="title">ç‰©å“æ‰€åœ¨åœ°ï¼š</label><span class="content">å°ç£.å°åŒ—å¸‚</span></li>
+                  <li class="upload-time"><label class="title">ä¸Šæ¶æ™‚é–“ï¼š</label><span class="content"><span class="date">2014-06-22</span><span class="time">01:40:25</span></span></li>
+                  
+                                    
+                  <li class="initiation"><label class="title">ç‰©å“é–‹å§‹åƒ¹æ ¼ï¼š</label><span class="content">1899å…ƒ</span></li>
+                  
+                  
+                  <li class="putforward"><label class="title">å¯èƒ½æœƒæå‰çµæŸè²©å”®</label></li>
+                  
+                </ul>
+              </div>
+            </div>
+            <div class="product-auction-info">
+              <div class="purchase-section">
+                <form action="" method="post" class="useless_form">
+                                <ul class="info">
+                  <li class="price"><label class="title">ç›´è³¼åƒ¹</label>ï¼š<span class="content"><span class="sign">&#36;</span><span class="dollar">1,899</span></span><p class="qna"><a href="qa?21406227445748#qna" title="é€£çµè‡³å•èˆ‡ç­”é é¢">å•èˆ‡ç­”</a></p><p class="grouping-buy"><a href="http://mybid.ruten.com.tw/secret/secret_leave.php?user_nick=kigosam400&sec_show=1&g_no=21406227445748&gb=Y" title="é€£çµè‡³è­°åƒ¹é é¢">è­°åƒ¹</a></p></li>
+                  
+                  <li class="amount"><label for="qty">æ•¸é‡</label>ï¼š<input name="qty" value="1" id="qty" size="1" maxlength="2" /></li>
+                </ul>
+
+								                                
+                                
+                                
+                <span class="buy"><input type="button" value="é¦¬ä¸Šè³¼è²·" id="buy_now_button" /></span>
+                <span class="private"><input type="checkbox" name="private" id="private" /><label for="private">ä¸å…¬é–‹äº¤æ˜“å…§å®¹</label>(<span class="more"><a href="javascript:void(0)" title="ä¸å…¬é–‹äº¤æ˜“èªªæ˜" id="private_tips_link">èªªæ˜</a></span>)</span>
+                
+                                                
+                                                
+                
+                                                
+                
+                                </form>
+
+
+									
+									<div class="custom_spec">
+										<div><a href="#custom_spec_block" title="æŸ¥çœ‹å•†å“è¦æ ¼" id="btn_show_custom_spec_block">æŸ¥çœ‹å•†å“è¦æ ¼</a></div>
+										<div class="custom_spec_block" id="custom_spec_block">
+											<p><a href="#" title="é—œé–‰å•†å“è¦æ ¼" id="btn_hide_custom_spec_block"><span>é—œé–‰</span></a></p>
+											<div class="custom_spec_total_num"><h6>å•†å“è¦æ ¼è¨ˆæœ‰7æ¬¾ï¼š</div>
+											
+											<div class="sub0"><p>é»‘è‰²</p></div>
+											
+											<div class="sub1"><p>ç™½è‰²</p></div>
+											
+											<div class="sub2"><p>é»ƒè‰²</p></div>
+											
+											<div class="sub3"><p>è—è‰²</p></div>
+											
+											<div class="sub4"><p>2015æ–°è‰² å¤§ç´…è‰²</p></div>
+											
+											<div class="sub5"><p>é‡‘è‰²</p></div>
+											
+											<div class="sub6"><p>éŠ€è‰²</p></div>
+											
+											
+										</div>
+									</div>
+									
+
+                                
+                                
+                <p class="track"><a href="javascript:void(0)" title="åŠ å…¥è¿½è¹¤" id="add_watchlist_link">åŠ å…¥è¿½è¹¤</a></p>
+                
+																
+															</div>
+                            
+                            <div class="bid-info">                <div class="tradeinfo-section">
+                  <ul class="quantity">
+                    
+                    <li class="remain-count"><label class="title">å°šé¤˜æ•¸é‡</label>ï¼š<span class="content"><span class="number">49</span>(<a href="http://goods.ruten.com.tw/item/statement.html" title="å°šé¤˜æ•¸é‡èªªæ˜" target="_blank"><span>èªªæ˜</span></a>)</span></li>
+                    <li class="sold-count"><label class="title">å·²è³£æ•¸é‡</label>ï¼š<span class="content"><span class="number">421</span>(<a href="history?21406227445748#log" title="æŸ¥çœ‹å•†å“éŠ·å”®ç´€éŒ„"><span>éŠ·å”®ç´€éŒ„</span></a>)</span></li>
+                    
+                    
+                  </ul>
+                  <ul class="type">
+                                        <li class="pay">
+                      <label class="title">ä»˜æ¬¾æ–¹å¼</label>ï¼š
+                      <ul>
+                        
+                          
+                          <li class="PW_PCHOMEPAY_CREDIT">PChomePayæ”¯ä»˜é€£ ä¿¡ç”¨å¡</li>
+                          
+                          
+                          
+                          <li class="sub1 PW_PAYLINK">PChomePayæ”¯ä»˜é€£ ç¾é‡‘ (ATMã€é¤˜é¡)</li>
+                          
+                          <li class="sub2 PW_CVS_COD">å…¨å®¶ã€OKã€èŠçˆ¾å¯Œå–è²¨ä»˜æ¬¾</li>
+                          
+                          <li class="sub3 PW_SEVEN_COD">7-11å–è²¨ä»˜æ¬¾</li>
+                          
+                          <li class="sub4 PW_F2F">é¢äº¤è‡ªå–</li>
+                          
+                        
+                      </ul>
+                    </li>
+                                        
+                                        <li class="ship"><label class="title">é‹é€æ–¹å¼</label>ï¼š<ul><li class="sub0"><span class="ship-type">éƒµå¯„å¯„é€</span><span class="cost">100å…ƒ</span></li><li class="sub1"><span class="ship-type">å®…é…/å¿«é</span><span class="cost">160å…ƒ</span></li><li class="sub2"><span class="ship-type">é›¢å³¶å¯„é€</span><span class="cost">220å…ƒ</span></li><li class="sub3"><span class="ship-type">å…¨å®¶ã€OKã€èŠçˆ¾å¯Œå–è²¨ä»˜æ¬¾</span><span class="cost">85å…ƒ</span></li><li class="sub4"><span class="ship-type">7-11å–è²¨ä»˜æ¬¾</span><span class="cost">60å…ƒ</span></li><li class="sub5"><span class="ship-type">é¢äº¤è‡ªå–</span><span class="cost"></span></li></ul>
+                    
+                    <div class="shipping-rules">
+                      <p><a href="#rule-block" title="æŸ¥çœ‹åˆä½µé‹è²»è¦å‰‡" id="rules-view">åˆä½µé‹è²»è¦å‰‡</a></p>
+                      <div class="rule-block" id="rule-block">
+                        <p><a href="#" title="é—œé–‰è¦å‰‡èªªæ˜" id="rules-hide"><span>é—œé–‰</span></a></p>
+                        
+                        <div class="sub1"><h6>éƒµå¯„å¯„é€</h6><p>2ä»¶ä»¥ä¸Šä¸€å¾‹ç‚ºå›ºå®šé‹è²»80å…ƒã€‚</p></div>
+                        
+                        <div class="sub2"><h6>å®…é…/å¿«é</h6><p>2ä»¶ä»¥ä¸Šä¸€å¾‹ç‚ºå›ºå®šé‹è²»130å…ƒã€‚</p></div>
+                        
+                        <div class="sub3"><h6>7-11å–è²¨ä»˜æ¬¾</h6><p>2ä»¶ä»¥ä¸Šä¸€å¾‹ç‚ºå›ºå®šé‹è²»60å…ƒã€‚</p></div>
+                        
+                        <div class="sub4"><h6>å…¨å®¶ã€OKã€èŠçˆ¾å¯Œå–è²¨ä»˜æ¬¾</h6><p>2ä»¶ä»¥ä¸Šä¸€å¾‹ç‚ºå›ºå®šé‹è²»70å…ƒã€‚</p></div>
+                        
+                        
+                      </div>
+                    </div>
+                    
+                    </li>
+                                        
+                    <li class="ship-cost"><label class="title">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</label><span class="content" style=""><span class="ship-info">(å¯é¢äº¤ï¼Œç‰©å“åœ¨å°ç£.å°åŒ—å¸‚)</span></span></li>
+                  </ul>
+                  <p class="seller-remittance-info"><a href="billdata_full.php?21406227445748" title="æŸ¥çœ‹è³£å®¶åŒ¯æ¬¾è³‡è¨Š">çµ¦è²·å®¶çš„åŒ¯æ¬¾è³‡è¨Š</a></p>
+                  
+                                    
+                                  </div>
+                <div class="seller-info">
+                                       <h3>è³£å®¶è³‡è¨Š</h3>
+                    
+                    <p class="favorite"><a href="javascript:void(0)" title="åŠ å…¥æˆ‘çš„æœ€æ„›è³£å®¶" class="add_friend_list"><span>åŠ å…¥æœ€æ„›</span></a></p>                                         <div class="jqmWindow">
+                      <div class="favorite-seller">
+                        <form action="" method="post" class="useless_form">
+                        <h4><span>åŠ å…¥æœ€æ„›è³£å®¶</span></h4>
+                        <ul class="seller-info">
+                          <li class="account">
+                            <span class="title">æœƒå“¡å¸³è™Ÿ</span>ï¼š
+                            <span class="content">kigosam400</span>
+                          </li>
+                          <li class="group">
+                            <label for="sellergroup">è³£å®¶ç¾¤çµ„</label>ï¼š
+                            <select name="sellergroup" id="sellergroup"></select>
+                            <span class="tip">éå¿…å¡«</span>
+                          </li>
+                          <li class="memo">
+                            <label for="desc">è¨»è¨˜</label>ï¼š
+                            <textarea id="desc" rows="4" cols="50"></textarea>
+                            <span class="tip">éå¿…å¡«</span>
+                            <p>é‚„å¯å†è¼¸å…¥<span>250</span>å€‹ä¸­æ–‡å­—</p>
+                          </li>
+                        </ul>
+                        <p class="tip">æ–°è²¨é€šçŸ¥-ç•¶kigosam400æœ‰æ–°å•†å“ä¸Šæ¶æ™‚ï¼Œéœ²å¤©æœƒmailé€šçŸ¥æ‚¨ã€‚</p>
+                        <ul class="setting">
+                          <li class="title">è«‹é¸æ“‡æ‚¨çš„å¯„é€è¨­å®šï¼š
+                            <ul class="option">
+                              <li><input type="radio" name="newalert" id="none" value="0" checked="checked" /><label for="none">ä¸è¦å¯„é€</label></li>
+                              <li><input type="radio" name="newalert" id="daily" value="1" /><label for="daily">æ¯å¤©ä¸€æ¬¡</label></li>
+                              <li><input type="radio" name="newalert" id="weekly" value="7" /><label for="weekly">æ¯é€±ä¸€æ¬¡</label></li>
+                            </ul>
+                          </li>
+                        </ul>
+                        <p class="btn"><label for="sendbtn">ç¢ºå®šåŠ å…¥æœ€æ„›è³£å®¶åå–®</label><span class="add"><input id="sendbtn" type="button" value="ç¢ºå®šæ–°å¢"/></span><span class="cancel"><a href="javascript:void(0)" title="å–æ¶ˆåŠ å…¥æœ€æ„›è³£å®¶åå–®" class="jqmClose">å–æ¶ˆ</a></span></p>
+                        </form>
+                      </div>
+                    </div>
+                                        
+                    <p class="seller"><span class="user-id"><a href="http://class.ruten.com.tw/user/index00.php?s=kigosam400" title="æŸ¥çœ‹è³£å®¶è³‡æ–™">kigosam400</a></span><span class="evaluation">(<a href="http://mybid.ruten.com.tw/credit/point?kigosam400" title="æŸ¥çœ‹è³£å®¶è©•åƒ¹">1182</a>)</span></p>
+										<p class="seller"><span class="seller_index"><a href="http://class.ruten.com.tw/user/index00.php?s=kigosam400" title="å‰å¾€è³£å ´é¦–é ">è³£å ´é¦–é </a></span></p>
+                    <div class="valida-info">
+                      <ul>
+                        
+                        <li class="phone" title="æ‰‹æ©Ÿèªè­‰å®Œæˆ"><span>æ‰‹æ©Ÿèªè­‰</span></li>
+                        
+                        
+                        
+                        <li class="mail" title="éƒµä»¶èªè­‰å®Œæˆ"><span>éƒµä»¶èªè­‰</span></li>
+                        
+                        
+                        <li class="safe-pc-v2" title="å®‰å…¨é›»è…¦é–‹é€šè³£å®¶"><span>å®‰å…¨é›»è…¦é–‹é€šè³£å®¶</span></li>
+                        
+                        
+                      </ul>
+                    </div>
+                    <p class="seller-logdate">ä¸Šæ¬¡ç™»å…¥ï¼š2015-03-17</p>
+                    <p class="all-product"><label>å…¨éƒ¨å•†å“ï¼š</label><span class="product-view"><a href="http://class.ruten.com.tw/user/index00.php?s=kigosam400" title="æŸ¥çœ‹è³£å®¶å…¨éƒ¨å•†å“">43</a></span></p>
+										<p class="all-credit"><label>è©•åƒ¹åˆ†æ•¸ï¼š</label><span class="credit-view"><a href="http://mybid.ruten.com.tw/credit/point?kigosam400" title="æŸ¥çœ‹è³£å®¶è©•åƒ¹">1182</a></span>&nbsp;<span class="credit-view-check"><a href="http://mybid.ruten.com.tw/credit/point?kigosam400" title="æŸ¥çœ‹è³£å®¶è©•åƒ¹">æŸ¥çœ‹</a></span></p>
+                    <div class="info">
+                      <ul>
+                        <li class="about"><a href="http://mybid.ruten.com.tw/credit/rule_p?kigosam400" title="æŸ¥çœ‹è³£å®¶è³‡æ–™"><span>é—œæ–¼æˆ‘</span></a></li>
+                                                
+                        
+                      </ul>
+                    </div>
+                                                         
+                                    
+                                  </div>
+              </div>            </div>
+            
+            <div class="sharing-toolkits">
+              <h6>å–œæ­¡é€™å•†å“å—?æŒ‰è®šåŠ+1æ¨è–¦çµ¦ä½ çš„æœ‹å‹å§ï¼</h6>
+              <ul>
+                <li class="facebook-share"><a href="javascript:void(0)" id="js_publish_to_facebook_link" title="åˆ†äº«è‡³æˆ‘çš„Facebook"><span>æ¨åˆ°Facebook</span></a></li>
+                <li class="facebook" id="facebook" style="display:none;">
+                  <iframe id="fb_iframe" src="" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:80px; height:21px;" allowTransparency="true"></iframe>
+                </li>
+                <li class="google-plus"><div id="plusone-div"></div></li>
+              </ul>
+            </div>
+            
+            <p class="last-updated"><span class="content">å•†å“åƒ¹æ ¼èˆ‡é‹è²»æ›´æ–°æ™‚é–“:<span class="date">2015-03-10</span><span class="time">00:30</span></span></p>
+
+          </div>
+                              <div class="auction-detail-data">
+            <ul class="switch-tab">
+                            <li class="auc located" id="auc"><a href="show?21406227445748#auc" title="æª¢è¦–æ‹è³£å•†å“å®Œæ•´è³‡è¨Š"><span>æ‹è³£æª”æ¡ˆ</span></a></li>
+              <li class="qna" id="qna"><a href="qa?21406227445748#qna" title="é—œæ–¼æœ¬å•†å“çš„å•èˆ‡ç­”"><span>å•èˆ‡ç­”</span></a>(<a href="qa?21406227445748#qna" title="é—œæ–¼æœ¬å•†å“çš„å•èˆ‡ç­”"><span class="count">321</span></a>)</li>
+              <li class="log" id="log"><a href="history?21406227445748#log" title="é—œæ–¼æœ¬å•†å“çš„å‡ºåƒ¹ç´€éŒ„"><span>å‡ºåƒ¹ç´€éŒ„</span></a>(<a href="history?21406227445748#log" title="é—œæ–¼æœ¬å•†å“çš„å‡ºåƒ¹ç´€éŒ„"><span class="count">454</span></a>)</li>
+            </ul>
+                        
+            <div class="product-intro">
+              <div class="seller-description">
+                
+                <h2 class="title"><span>æ¥µé™å°ˆè³£åº— SJ4000 SJ2000</span></h2>
+                <div class="description">
+                  
+                  <div class="product-thumb">
+                    <span></span><span class="image"><a title="é€²å…¥è³£å ´" href="http://class.ruten.com.tw/user/index00.php?s=kigosam400"><img src="http://img.ruten.com.tw/board/k/i/kigosam400.833.jpg?4755253" alt="è³£å ´åœ–ç¤º"/></a></span>
+                  </div>
+                  
+                  <div class="content">
+                    <div class="board-intro">
+                      <div><br/>
+<p>3/14-16 è€é—†å‡ºåœ‹ä¸åœ¨ã€‚3/17èµ·æ­£å¸¸ä¾›è²¨ [æ¥µé™å°ˆè³£åº—] L i n e: extremeshop &nbsp;æ™‚é–“ï¼šé€±ä¸€~é€±å…­ 10:00~20:00ï¼Œé€±æ—¥ä¸ç‡Ÿæ¥­<br/>
+<br/>
+é¢äº¤åœ°é» ï¼š10AM-7:00PM å…§æ¹–æ¸¯å¢˜ç‘å…‰è·¯å£<br/>
+å‡ºè²¨æ™‚é–“ï¼šæ¯æ—¥10ï¼š00pm<br/>
+è²¨é‹æ™‚é–“ï¼š7-11å–è²¨ä»˜æ¬¾ç•¶å¤©æ™šä¸Š10:00ä»¥å‰ä¸‹æ¨™ï¼Œå¾Œå¤©ä¸Šåˆå…«é»å‰å¯åˆ°è²¨ï¼Œå…¨å®¶ã€èŠçˆ¾å¯Œéœ€å¤šä¸€å¤©<br/>
+é»‘è²“å®…æ€¥ä¾¿ï¼šå¤§å°åŒ—åœ°å€ã€æ¡ƒåœ’ç•¶æ—¥ä¸‹æ¨™å¾Œå¤©å–è²¨</p>
+</div>
+                    </div>
+                  </div>
+                </div>
+                
+              </div>
+              
+              <div class="product-images">
+                
+                <p id="arrow_detail" class="more-info"><a title="æª¢è¦–æ›´å¤šå•†å“è³‡è¨Š" id="more_info_a_link"><span>æ›´å¤šæœ¬å•†å“è³‡è¨Š</span></a></p>
+                
+                
+              </div>
+              <div class="product-isbn"></div>
+              <div class="product-content">
+                
+				<iframe src="http://goods.ruten.com.tw/item/goods_comments.php?id=21406227445748&amp;k=079e3d76&amp;o=1426128476&amp;t=" width="900" height="800" id="embedded_goods_comments" marginheight="0" marginwidth="0" frameborder="0" name="embedded_goods_comments" scrolling="no">å•†å“èªªæ˜</iframe>
+                
+                
+              </div>
+              
+            </div>
+            
+                                    
+                                    
+                        <p class="ad-text"></p>           </div>
+                              <div class="seller-featured" style="display:none;">
+            <h3 class="title"><span>è³£å®¶ç²¾é¸å•†å“</span></h3>
+            <div class="content">
+              <ul class="block" id="best_goods_4">
+              <li class="place-holder">&nbsp;</li>
+              </ul>
+            </div>
+            <p class="seller-market"><span>æ­¡è¿åƒè§€æˆ‘çš„è³£å ´ï¼š</span><a href="http://class.ruten.com.tw/user/index00.php?s=kigosam400" title="å‰å¾€è³£å®¶è³£å ´">æ¥µé™å°ˆè³£åº— SJ4000 SJ2000</a></p>
+          </div>
+                              
+                              
+          <p class="to-top"><span>&#9650;<a href="#" title="è¿”å›é é¢æœ€ä¸Šæ–¹">TOP</a></span></p>
+          
+                  </div>
+                <div class="side-advertise">
+          <div class="cat-ad place-holder">
+          <h3 class="title"><span>åˆ†é¡ç²¾é¸</span></h3>
+            <div class="product-thumb">
+                <span></span>
+                <span class="image cat-ad-text"></span>
+            </div>
+          </div>
+
+                    
+          <div class="sponsor-adver">
+            <h3 class="title"><span>é—œè¯å»£å‘Š</span></h3>
+            
+            <p class="post-ad"><span><a href="http://mkt.ruten.com.tw/adb/3.html" title="æˆ‘è¦åˆŠç™»å»£å‘Š">æˆ‘è¦åˆŠç™»</a></span></p>
+            
+            <div class="content">
+              <ul class="ads" id="kwad">
+                                                                                <li class="place-holder">&nbsp;</li>
+              </ul>
+            </div>
+            <p class="report"><span><a href="http://www.ruten.com.tw/system/00020001.htm" title="æˆ‘è¦æª¢èˆ‰">æˆ‘è¦æª¢èˆ‰</a></span></p>
+          </div>
+
+                    <div class="google-ads-type3" id="gads_content_1_block" style="display:none;">
+            <h3 class="title"><span><a id="gads_content_1_title" href="#" style="color:000000">è´ŠåŠ©é€£çµ</a></span></h3>
+            <div class="content" id="gads_content_1">
+            </div>
+          </div>
+          
+					<div class="ad-521"></div>
+
+										<div class="google-ads-type3" id="gads_content_2_block" style="display:none;">
+						<h3 class="title"><span><a id="gads_content_2_title" href="#" style="color:000000">è´ŠåŠ©é€£çµ</a></span></h3>
+						<div class="content" id="gads_content_2"></div>
+					</div>
+										<div class="ad-522"></div>
+          
+					          
+        </div>
+                            <!-- 12. é å°¾è³‡è¨Šå€å¡Š -->
+    <div class="site-info">
+      <ul>
+        <li class="about"><a href="http://www.ruten.com.tw/about/about_us.htm" title="é—œæ–¼éœ²å¤©æ‹è³£">é—œæ–¼éœ²å¤©</a></li>
+        <li class="cm"><a href="http://www.ruten.com.tw/system/index.html" title="éœ²å¤©å®¢æœä¸­å¿ƒ">å®¢æœä¸­å¿ƒ</a></li>
+        <li class="qa"><a href="http://www.ruten.com.tw/system/server_center.htm?000500010001" title="ç¶²ç«™å¸¸è¦‹å•é¡Œ">å¸¸è¦‹å•é¡Œ</a></li>
+        <li class="security"><a href="http://www.ruten.com.tw/security/index.html" title="é—œæ–¼äº¤æ˜“å®‰å…¨èªªæ˜">äº¤æ˜“å®‰å…¨</a></li>
+        <li class="member"><a href="http://www.ruten.com.tw/system/server_center.htm?00060001" title="æœƒå“¡åˆç´„å…§å®¹">æœƒå“¡åˆç´„</a></li>
+        <li class="privacy"><a href="http://www.ruten.com.tw/system/server_center.htm?00060002" title="éš±ç§æ¬Šè²æ˜é …ç›®">éš±ç§æ¬Šè²æ˜</a></li>
+        <li class="export"><a href="http://twexport.ebay.com/" title="eBayè·¨åœ‹äº¤æ˜“æœå‹™" target="_blank">eBayè·¨åœ‹äº¤æ˜“</a></li>
+        <li class="jobs"><a href="http://www.104.com.tw/jobbank/cust_job/introduce.cfm?j=5a3a432634463e6956583a1d1d1d1d5f2443a363189j97" class="bk13" target="_new">å¾µäºº</a></li>
+      </ul>
+      <p>éœ²å¤©å¸‚é›†åœ‹éš›è³‡è¨Šè‚¡ä»½æœ‰é™å…¬å¸ç‰ˆæ¬Šæ‰€æœ‰ï¼Œè½‰è¼‰å¿…ç©¶â€§Copyright&copy;ã€€PChome eBay Co., Ltd.</p>
+    </div>
+<!-- ts code start -->
+<script type="text/javascript">
+(function(R,u,t,e,n,T,S){
+t=R[t]=function(){(t.queue=t.queue||[]).push(arguments);};
+t.host=n;T=u.createElement(e);T.async=1;T.src=n+'/ts_async.js?1';
+S=u.getElementsByTagName(e)[0];S.parentNode.insertBefore(T,S);
+}(window,document,'_ts_js_fn','script','http://ts.ruten.com.tw'));
+
+_ts_js_fn('init');
+_ts_js_fn('userSet', 'seller=kigosam400');
+_ts_js_fn('userSet', 'g_class=0019000500010008');
+_ts_js_fn('run');
+</script>
+<!-- ts code end -->
+<script type="text/javascript">
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+ga('create', 'UA-40451066-2', 'ruten.com.tw');
+ga('send', 'pageview');
+</script>
+              </div>
+    </div>
+    
+            <iframe id="gads_goods1_loader" scrolling="no" width="0" height="0"></iframe>
+    <iframe id="gads_goods2_loader" scrolling="no" width="0" height="0"></iframe>
+    
+    <div id="js_area" style="display: none">
+      <div id="goods_spec"></div>
+    </div>
+    <script type="text/javascript" src="http://www.ruten.com.tw/js/jquery-1.7.1.min.js?v=2013061901.js"></script>
+    <script type="text/javascript" src="http://www.ruten.com.tw/js/jQuery_mousewheel_plugin.js?v=2013061901.js"></script>
+    <script type="text/javascript" src="http://www.ruten.com.tw/js/jquery.dimensions.js?v=2013061901.js"></script>
+    <script type="text/javascript" src="http://www.ruten.com.tw/js/jquery.bgiframe.pack.js?v=2013061901_20131205.js"></script>
+    <script type="text/javascript" src="http://www.ruten.com.tw/js/jquery.tooltip.js?v=2013061901.js"></script>
+    <script type="text/javascript" src="http://www.ruten.com.tw/js/jqModal.js?v=2013061901.js"></script>
+    <script type="text/javascript" src="http://www.ruten.com.tw/js/jquery.jqURL.js?v=2013061901.js"></script>
+    <script type="text/javascript" src="http://www.ruten.com.tw/js/secret_button_ar.js?v=2013061901.js"></script>
+    <script type="text/javascript" src="http://www.ruten.com.tw/js/ahd_flash.js?v=2013061901_20140114.js"></script>
+    <script type="text/javascript" src="http://www.ruten.com.tw/js/external_link.js?v=2013061901.js"></script>
+    <script type="text/javascript" src="http://www.ruten.com.tw/js/ahd_loader_openx.js?v=2013061901_20130916?>"></script>
+    <script type="text/javascript">/*<![CDATA[*/check_g_class = "0019000500010008";
+if(check_g_class.substring(0, 4)=='0025'){
+	flag_forbidden_googleAd = true;
+}
+
+function Form_addPair(_form, _key, _value){
+    return _form.append($('<textarea name="' + _key + '"/>').val( _value ));
+}
+
+function fn_check_all_digi(_input){
+  var re = /^[0-9]+$/;
+  return (re.exec(_input)) != null;
+}
+
+function fn_add_watchlist(_g_no){
+  $.ajax({
+    type: 'POST'
+    , url:'/item/addFav.php'
+    , data: { 'g_no': _g_no, 'tourl': location.href}
+    , dataType: 'text'
+    , error: function(){
+	    alert("ç³»çµ±å¿™ç¢Œä¸­ï¼Œè«‹ç¨å¾Œå†è©¦");
+    }
+    , success: function(data,textStatus){
+		  if(data=="OK,IT_IS_SUCCESS"){
+		  	alert("å·²ç¶“å°‡æ­¤å•†å“åŠ å…¥ã€Œè¿½è¹¤ä¸­ã€!");
+	    }else if(data=="ERROR,QUERY" || data==""){
+		    alert("ç³»çµ±å¿™ç¢Œä¸­ï¼Œè«‹ç¨å¾Œå†è©¦");
+	    }else if(data=="ERROR,NO G_NO"){
+		    alert("å•†å“ä¸å­˜åœ¨");
+	    }else if(data=="ERROR,HAVE BEEN MAX"){
+		    alert("æ‚¨è¨­å®šè¦è¿½è¹¤çš„å•†å“è¶…é1000å€‹çš„ä¸Šé™");
+	    }else{
+		    alert("è«‹å…ˆç™»å…¥æœƒå“¡ï¼");
+	    }
+	  }
+   });
+}
+
+function fn_submit_question(){
+  var aform = $('<form method="post"/>');
+  var msg = $('#msgBox').val();
+  var userauth = $('#captchaInput').val();
+  var authno = $('#authno').val();
+  var pre_check = $('#pre_check').val();
+  if(msg.length == 0){
+    alert("å•é¡Œå…§å®¹è«‹å‹¿ç©ºç™½");
+    return;
+  }
+  if(msg.length > 500){
+    alert("å•é¡Œå…§å®¹éé•·ï¼Œè«‹å‹¿è¼¸å…¥è¶…é250å€‹ä¸­æ–‡å­—");
+    return;
+  }
+  if(userauth.length > 5){
+    alert("å®‰å…¨ç¢¼éé•·ï¼Œè«‹å‹¿è¼¸å…¥è¶…é5å€‹æ•¸å­—");
+    return;
+  }
+  if(discrete_power(userauth.toString()) != pre_check){
+    alert( "æ‚¨è¼¸å…¥çš„å®‰å…¨ç¢¼ä¸æ­£ç¢º" ) ;
+    return;
+  }
+  aform.attr('action', 'qna_ins.php');
+  Form_addPair(aform, 'g_no', context.g_no);
+  Form_addPair(aform, 'content', msg);
+  Form_addPair(aform, 'userauth', userauth);
+  Form_addPair(aform, 'authno', authno);
+  aform.appendTo('#js_area');
+  aform.submit();
+}
+
+function fn_remove_question(){
+  var aform = $('<form method="post"/>');
+  var selecteds;
+  selecteds = $('.qa_admin_checkbox:checked');
+  if(selecteds.length == 0){
+    alert('æ‚¨æ²’æœ‰å‹¾é¸ä»»ä½•è³‡æ–™');
+    return;
+  }
+  if(!confirm('ç¢ºå®šè¦åˆªé™¤å—?')){
+    return;
+  }
+  aform.attr('action', 'qna_del.php');
+  $.each(selecteds, function(){
+    Form_addPair(aform, 'del_code[]', $(this).val());
+  });
+  aform.appendTo('#js_area');
+  aform.submit();
+}
+
+function second_stage_image_loader(){
+  if (!bMouseWheel){
+	  var link = $(".user-id a").attr('href');
+    $("#arrow_detail").hide();
+    for(var i=0;i<3;i++){
+      if(context.goods_img[i]){
+        $('<img alt="å•†å“åœ–ç‰‡"/>').attr('src',context.img_host+'/'+context.goods_img[i]).appendTo('.product-images');
+      }
+      if (i==0) $('.product-images').append($('#goods_spec').html());
+    }
+	if(context.use_pchomeopay){
+		var pchomepay_img = $('<a target="_blank" href="'+ link +'" />');
+		$('<img alt="å‰å¾€è³£å®¶è³£å ´"/>').attr('src',context.www_host+'/images/20120912_800150-3.gif').appendTo(pchomepay_img);
+		pchomepay_img.appendTo('.product-images');
+	}
+  }
+  bMouseWheel = true;
+}
+
+
+function chang_authno(){
+  pics = context.auth_no_arr;
+  var idx = Math.floor(Math.random()*pics.length);
+	var authno = pics[idx].authno;
+  var pre_check = pics[idx].pre_check;
+  $('#pic').attr('src', '/item/captcha.php?authnum='+authno);
+  $('#authno').val(authno);
+  $('#pre_check').val(pre_check);
+}
+function compile(code)
+{
+  var c=String.fromCharCode(code.charCodeAt(0)+code.length);
+  for(var i=1;i<code.length;i++){
+  c+=String.fromCharCode(code.charCodeAt(i)+code.charCodeAt(i-1));
+   }
+  return (c);
+}
+
+function discrete_power(c)
+{
+  var p = [3, 5, 7, 11, 13, 17, 19];
+  var c = '' + c;
+  var sum = 0;
+  for(i = 0; i < c.length; i++){
+    sum += ((parseInt(c.substr(i, 1)) + i + 1) *
+    (2 << (c.length - i - 1))) % (p[i]);
+  }
+  return sum;
+}
+
+function alert_cancelling(){
+  alert('å–æ¶ˆäº¤æ˜“ä¸­çš„å•†å“ç„¡æ³•çµå¸³ï¼Œè‹¥ç‚ºå°æ–¹æå‡ºå–æ¶ˆäº¤æ˜“çš„è¦æ±‚è«‹å„˜é€Ÿå›æ‡‰ã€‚');
+}
+
+function alert_checkouted(t_no){
+  alert('æ­¤å•†å“å·²ç¶“çµå¸³äº†ï¼Œè‹¥æ‚¨è¦å–æ¶ˆäº¤æ˜“ï¼Œè«‹å…ˆè‡³çµå¸³æ˜ç´°é æå‡ºä¿®æ”¹è¨‚å–®ã€‚');
+  window.location = context.mybid_host + '/master/view_transaction.php?tno=' + t_no ;
+}
+
+function fn_load_gads(conf_js, loader_iframe, target_block, www_host, global_google_max_num_ads){
+
+  //åˆ¤æ–·æ˜¯å¦è¨­å®šäº†global_google_max_num_ads;é è¨­å€¼ç‚º1å€‹google ad
+  global_google_max_num_ads = global_google_max_num_ads || "1";
+
+  var doc = fn_get_iframe(loader_iframe);
+  var watch_dog = null;
+  var conf_js_url = www_host + '/js/' + conf_js;
+  var content = '<html><head>'
+  + '<script>global_google_max_num_ads="'+global_google_max_num_ads+'";'
+	+ 'google_page_url = "'+location.href+'";</sc'
+  + 'ript>'
+  +'<script type="text/javascript" src="'
+  + conf_js_url
+  + '"></scr'
+  + 'ipt></head><body>'
+  + '<script src="http://pagead2.googlesyndication.com/pagead/show_ads.js"></sc'
+  + 'ript>'
+  + fn_check_need_close()
+  + '</body></html>'
+  ;
+
+  if(doc === null){
+	return;
+  }
+  doc.write(content);
+  if($.browser.msie){
+    watch_dog = function(){
+      if(document.getElementById(target_block) && document.getElementById(target_block).innerHTML !== '') {
+        doc.close();
+        return;
+      }
+    setTimeout(watch_dog, 800);
+   };
+   watch_dog();
+ }
+}
+
+function fn_check_need_close(){
+  if(!$.browser.msie){
+    return '<script>document.close();</sc' + 'ript>';
+  }else{
+    return '';
+  }
+}
+
+function fn_get_iframe(name){
+  if(document.getElementById(name) === null){
+    return null;
+  }
+  if(document.getElementById(name).contentDocument){
+    return document.getElementById(name).contentDocument;
+  }else if(document.getElementById(name).contentWindow){
+    return document.getElementById(name).contentWindow.document;
+  }else{
+    return document.getElementById(name);
+  }
+}
+
+function fn_extract_fc_class(g_class){
+  return g_class.substr(0, 4);
+}
+
+var bMouseWheel = false;
+var lulupop_hideTimeout = null;
+var context = {"mybidu_host":"http:\/\/mybidu.ruten.com.tw","mybid_host":"http:\/\/mybid.ruten.com.tw","g_no":"21406227445748","g_num":"470","g_sold_num":"421","domain":"ruten.com.tw","d_prepend":"","img_host":"http:\/\/img.ruten.com.tw","kwad_host":"http:\/\/kwad.ruten.com.tw","ahd_host":"http:\/\/ahd.ruten.com.tw","is_seller":0,"js_google_version":"2013051501","use_cvscpd":true,"use_7":true,"use_pchomeopay":true,"seller_user_nick":"kigosam400","goods_img":["s2\/f\/47\/f4\/21406227445748_940.jpg","s2\/f\/47\/f4\/21406227445748_60.jpg","s2\/f\/47\/f4\/21406227445748_912.jpg"],"g_class":"0019000500010008","login_name":"","ms":"jRFdFFUURk1SHXuXxY3NkW2dBonRPdJb00ZAM2oUUBBQANki0KrMu97XQIYGiM6MFp8dntkA16bTl0AnjzCST1QAh0-QUo8Az4vPhsSpz6XKid2wjEmORUZNUx1RGFkZRk1UHVAGjRVdEVgZWQaNFl0UVxBGTVcdURhZGUZNWB1iBo0ZXRRSEUZNURBdFlERVhdSEkZNURFdBo0RUh1UFVQzMzMy","g_mode":"B","g_direct_price":1899,"is_nbc":false};
+var clear_show_msg = true;
+
+function fetch_ad_goods(){
+	try{
+		if(context.is_cstore != true && context.is_nbc!=true){
+	 $.get(context.ahd_host + '/ahd/goods.php', {fc_class: context.g_class}, function(data){
+				$(function(){
+					if(data['hola'] !== undefined && data.hola != null){
+						$('.ad-text').html(data.hola);
+					}
+					if(data['521'] !== undefined && data['521'] != null && context.is_cstore != true){
+						show_ad('ad-521', data['521']);
+						$('.ad-521').show();
+					}
+					if(data['522'] !== undefined && data['522'] != null && context.is_cstore != true){
+						show_ad('ad-522', data['522']);
+						$('.ad-522').show();
+					}
+					if(data['cat'] !== undefined && data.cat != null && context.is_cstore != true){
+						show_ad('cat-ad-text', data.cat);
+						$('.cat-ad').show();
+					}
+					if(data['I02'] !== undefined && data.I02 != null && context.is_cstore != true){
+							show_ad('ad-467', data.I02);
+							$('.ad-467').show();
+						}
+				});
+			},
+			'jsonp'
+		);
+	 }
+	}catch(e){}
+
+  var url = window.location.pathname;
+    if(url != '/item/show' && url != '/item/qa' && url != '/item/history'){
+      }else if(context.is_nbc){
+      }else if(context.is_cstore && !context.use_kwa){
+      }else if(context.is_cstore && context.use_kwa){
+	$.ajax({
+      url:      context.kwad_host+ '/item/get_best_goods_8.php',
+      cache:    false,
+      dataType: 'jsonp',
+      data:     { s: context.seller_user_nick, p: 1, ts: (new Date().getTime())},
+      success:  function(data) {
+        html = '';
+		for(idx in data) {
+          ad = data[idx];
+          if (idx == 'no_ad') {
+            html += '<li style="padding-left:0px;">';
+                        html += '<\/li>';
+          } else {
+            html += '<li>';
+            html += '<div class="product-thumb"><span><\/span><span class="image"><a href="' + context.goods_host + '/item/show?' + ad.g_no + '" title="" target="_blank"><img src="' + ad.image_path+ '" alt="' + ad.slogan+ '" /><\/a><\/span><\/div>';
+            html += '<h4><a href="' + context.goods_host + '/item/show?' + ad.g_no + '" title="æŸ¥çœ‹å•†å“è³‡è¨Š" target="_blank">' + ad.slogan+ '<\/a><\/h4>';
+            html += '<p class="price"><span class="dollar">' + ad.g_now_price+ '<\/span><span class="unit">å…ƒ<\/span><\/p>';
+            html += '<\/li>';
+          }
+        }
+        src = $('#kwad').html();
+        $('#kwad').html(html+src);
+
+
+	  }
+    });
+  }else{
+    $.ajax({
+      url:      context.kwad_host+ '/item/ahd_kwad_class.php',
+      cache:    false,
+      dataType: 'jsonp',
+      data:     { c: context.g_class, p: 1, ts: (new Date().getTime())},
+      success:  function(data) {
+        html = '';
+        var white_ad_num = 0;
+		for(idx in data) {
+          ad = data[idx];
+          white_ad_num ++;
+          if (idx == 'no_ad') {
+                      } else if(ad.kwad_id.length == 14) {
+            html += '<li>';
+            html += '<div class="product-thumb"><span><\/span><span class="image"><a href="' + context.point_host+'/kw/keyword_ad_click.php?g=' + ad.g_no+ '&a=' + ad.main_id+ '" title="" target="_blank"><img src="' + ad.image_path+ '" alt="' + ad.slogan+ '" /><\/a><\/span><\/div>';
+            html += '<h4><a href="' + context.point_host+'/kw/keyword_ad_click.php?g=' + ad.g_no+ '&a=' + ad.main_id+ '" title="æŸ¥çœ‹å•†å“è³‡è¨Š" target="_blank">' + ad.slogan+ '<\/a><\/h4>';
+            html += '<p class="price"><span class="dollar">' + ad.g_now_price+ '<\/span><span class="unit">å…ƒ<\/span><\/p>';
+            html += '<\/li>';
+          } else {
+            if (typeof(ad.ad_type) !== 'undefined' && ad.ad_type == '2') {
+              html += '<li class="external-text-ads">';
+              html += '<h4><a target="_blank" href="' + context.point_host+'/kw/keyword_ad_click.php?i='+ ad.kwad_id + '&a='+ ad.main_id+ '" title="é€£çµè‡³'+ad.title+'ç¶²ç«™">'+ad.title+'</a></h4>';
+              html += '<p><a target="_blank" href="' + context.point_host+'/kw/keyword_ad_click.php?i='+ ad.kwad_id + '&a='+ ad.main_id+ '" title="é€£çµè‡³'+ad.title+'ç¶²ç«™">'+ad.content+'</a></p>';
+              html += '<cite><a target="_blank" href="' + context.point_host+'/kw/keyword_ad_click.php?i='+ ad.kwad_id + '&a='+ ad.main_id+ '" title="é€£çµè‡³'+ad.title+'ç¶²ç«™">'+ ad.url.substring(0,30)+ '</cite>';
+              html += '</li>';
+            } else {
+              html += '<li class="keyword-ads">';
+              if (ad.image != '') {
+                html += '<div class="product-thumb"><span></span><span class="image"><a target="_blank" href="' + context.point_host+'/kw/keyword_ad_click.php?i='+ ad.kwad_id + '&a='+ ad.main_id+ '" title=""><img src="'+ ad.image+ '" alt="'+ ad.slogan+ '" /></a></span></div>';
+              }
+              html += '<h4><a target="_blank" href="' + context.point_host+'/kw/keyword_ad_click.php?i='+ ad.kwad_id + '&a='+ ad.main_id+ '" title="æŸ¥çœ‹å•†å“è³‡è¨Š">'+ ad.slogan+ '</a></h4>';
+              html += '<p class="product-link"><a target="_blank" href="' + context.point_host+'/kw/keyword_ad_click.php?i='+ ad.kwad_id + '&a='+ ad.main_id+ '" title="å»£å‘Šé€£çµä½å€">'+ ad.url.substring(0,30)+ '</a></p>';
+              html += '</li>';
+            }
+          }
+        }
+        src = $('#kwad').html();
+        document.getElementById('kwad').innerHTML = html+src;
+
+      }
+    });
+  }
+
+  if(context.is_cstore && context.use_4ca){
+    $('.seller-featured').show();
+    $.ajax({
+      url:      context.kwad_host+ '/item/get_best_goods_4.php',
+      cache:    false,
+      dataType: 'jsonp',
+      data:     { s: context.seller_user_nick, p: 1, ts: (new Date().getTime())},
+      success:  function(data) {
+        html = '';
+        i = 0;
+        for(idx in data) {
+            ad = data[idx];
+            i++;
+            html += '    <li class="sub'+i+'">';
+            html += '      <div class="product-thumb">';
+            html += '        <span><\/span><span class="image"><a href="' + context.goods_host + '/item/show?' + ad.g_no + '" title="æŸ¥çœ‹å•†å“é é¢"><img src="' + ad.image_path+ '" alt="å•†å“åœ–ç‰‡" /><\/a><\/span>';
+            html += '      <\/div>';
+            html += '      <p class="product-title"><a href="' + context.goods_host + '/item/show?' + ad.g_no + '" title="æŸ¥çœ‹å•†å“é é¢">' + ad.slogan+ '<\/a><\/p>';
+            html += '      <ul>';
+            html += '        <li class="now">';
+            html += '          <label class="title">ç›®å‰å‡ºåƒ¹ï¼š<\/label><span class="price"><span class="dollar">' + ad.g_now_price+ '<\/span><span class="unit">å…ƒ<\/span><\/span>';
+            html += '        <\/li>';
+            html += '        <li class="direct">';
+            html += '          <label class="title">ç›´è³¼åƒ¹ï¼š<\/label><span class="price"><span class="dollar">' + ad.g_direct_price+ '<\/span><span class="unit">å…ƒ<\/span><\/span>';
+            html += '        <\/li>';
+            html += '      <\/ul>';
+            html += '     <\/li>';
+        }
+        src = $('#best_goods_4').html();
+        $('#best_goods_4').html(html+src);
+      }
+    });
+  }
+
+  	if(typeof flag_forbidden_googleAd === "undefined"){
+		fn_load_gads('gads_goods1.js?'+context.js_google_version, 'gads_goods1_loader', 'gads_content_1', context.www_host);
+		fn_load_gads('gads_goods2.js?'+context.js_google_version+'_20140311', 'gads_goods2_loader', 'gads_content_2', context.www_host);
+	}
+}
+
+$(function(){
+  var hosts = ['www', 'mybid', 'goods', 'point', 'member', 'class', 'mkt'];
+  $(hosts).each(function(){
+    context[''+this+'_host'] = 'http://' + context.d_prepend + this + '.' + context.domain;
+  });
+
+		objSearchType = $("form[name=serc]").find("#search_type");
+  search_option = objSearchType.children();
+	num_search_option = search_option.length;
+	if(num_search_option>0){
+		_htmlList = '<ul class="drop-down-list" style="display:none">';
+		for(i=0;i<num_search_option;i++){
+			search_type = $(search_option[i]).attr('value');
+			_htmlList += '<li class="sub'+(i+1)+'" key="'+i+'" search_type="'+search_type+'"><span>'+search_option[i].innerHTML+'</span></li>';
+		}
+		_htmlList += '</ul>';
+		_html = '<div class="drop-down-menu" style="position:absolute;"><p class="option-now">'+search_option[0].innerHTML+'</p><p class="drop-down-btn"><a href="#"><span>é¸å–é¡åˆ¥</span></a></p>'+_htmlList+'</div>';
+		objSearchType.after(_html);
+
+		objMenu = $("form[name=serc]").find(".drop-down-menu");
+		objList    = objMenu.find("ul.drop-down-list");
+
+		objMenu.mouseout(function(e){
+			xM = e.pageX;
+			yM = e.pageY;
+			lMenu = objMenu.offset().left;
+			rMenu = lMenu + objMenu.width();
+			tMenu = objMenu.offset().top;
+			bMenu = tMenu + objMenu.height();
+			if(!(lMenu<=xM && xM<=rMenu && tMenu<=yM && yM<=bMenu)){
+				objList.hide();
+				objMenu.find("p.drop-down-btn").find("a").removeClass('over');
+			}
+		});
+		objMenu.find("p.drop-down-btn, p.option-now").mouseover(function(){
+			objList = objMenu.find("ul.drop-down-list");
+			objList.show();
+			objMenu.find("p.drop-down-btn").find("a").addClass('over');
+		});
+		objMenu.find("ul.drop-down-list li").click(function(){
+			s_text = $(this).html();
+			s_type = $(this).attr('search_type');
+			objMenu.find("p.option-now").html(s_text);
+			$("form[name=serc]").find("#search_type").attr("value", s_type);
+			objList.hide();
+		});
+		objMenu.find("ul.drop-down-list li").mouseover(function(){
+			$(this).css({color:'#FFFFFF', backgroundColor:'#FEA338'});
+		}).mouseout(function(){
+			$(this).css({color:'#000000', backgroundColor:'#FFFFFF'});
+		});
+	}
+
+    if(context.g_class == '000700080001'){
+    $('#bid_button').attr('disabled','disabled').css('cursor','default')
+    .parent(':first').css('background', 'transparent url('+context.www_host+'/image/default/bg/bg-main-goods-new.gif) no-repeat scroll -677px -133px')
+    .prev().children().attr('disabled','disabled').css('background', 'silver');
+    $('#buy_now_button').attr('disabled','disabled').css('cursor','default')
+    .parent(':first').css('background', 'transparent url('+context.www_host+'/image/default/bg/bg-main-goods-new.gif) no-repeat scroll -677px -133px');
+    $('#qty').attr('disabled','disabled').css('background', 'silver');
+  }
+
+  $("div.jqmWindow").bgiframe();
+    $("div.valida-info ul li.online").hover(
+    function(){ $("#rutenmsg").show(); },
+    function(){ $("#rutenmsg").hide(); }
+  );
+    $("li.remain-count span.content a").click(function(e){
+    var target_url = $(this).attr('href');
+    e.preventDefault();
+    $.jqURL.loc(target_url,{w:200,h:200,wintype:'_blank'});
+    return false;
+  });
+
+    $("div.product-auction-info div.purchase-section div > span > input").click(
+    function(){
+      alert('å•†å“ç›®å‰å·²å”®å®Œï¼');
+      return false;
+  });
+
+    $('#report_violate').click(function(){
+    location.href='violate.htm?'+context.g_no;
+  })
+    var private_tips_links = [ '#private_tips_link', '#private_tips_link2' ];
+  $.each(private_tips_links, function(){
+    $(this.toString()).click(function(){
+      open(context.mybid_host+'/credit/private_what.php', 'tips', 'loaction=0,height=600,width=840,scrollbars=yes');
+    });
+  });
+    $('#atm_send_tips').click(function(){
+    open('http://event.ruten.com.tw/pm/atm.html', 'tips', 'loaction=0,height=600,width=920,scrollbars=yes');
+  });
+    $('#rutenmsg_tips').click(function(){
+    open(context.mkt_host+'/tool/alert.htm', 'tips', 'loaction=0,height=600,width=920,scrollbars=yes');
+  });
+    $('#remain_count_tooltip').click(function(){
+    open('/item/statement.html', 'tips', 'loaction=0,height=10,width=480,scrollbars=yes');
+    });
+    $('#add_watchlist_link').click(function(){
+    fn_add_watchlist(context.g_no);
+  });
+    $('a.wisper_link').click(function(){
+    var re = /^wisper[0-9]?:([^:]+):(.*)$/;
+    var matches = re.exec($(this).attr('id'));
+    check_secret_open(Array(context.goods_host,matches[1],3,context.g_no,matches[2],context.mybid_host));
+  });
+    var view_clock_links = [ '#view_clock_link', '#view_clock_link2' ];
+  $.each(view_clock_links, function(){
+    $(this.toString()).click(function(){
+      open($(this).attr('rel'), 'clock_'+context.g_no, 'loaction=0,height=200,width=480');
+    });
+  });
+    $('.delivery_notify_a_links').click(function(){
+    var re = /^delivery_notify:([0-9]+)$/;
+    var matches = re.exec($(this).attr('id'));
+    if(context.cancelling_map[matches[1]] !== undefined){
+      alert('å–æ¶ˆäº¤æ˜“ä¸­çš„å•†å“ç„¡æ³•ç™¼é€å‡ºè²¨é€šçŸ¥ï¼Œè‹¥ç‚ºå°æ–¹æå‡ºå–æ¶ˆäº¤æ˜“çš„è¦æ±‚è«‹å„˜é€Ÿå›æ‡‰ã€‚');
+      return;
+    }else{
+      open(context.mybid_host+'/master/notify_delivery.php?cno='+matches[1], 'delivery_notify'
+        ,'resizable=no,scrollbars=yes,width=590,height=475');
+    }
+  });
+    $('.pay_notify_a_links').click(function(){
+    var re = /^pay_notify1?:([^:]+):([^:]*):(.*)$/;
+    var matches = re.exec($(this).attr('id'));
+    var order_id, seller, seller_id;
+    order_id = matches[1];
+    seller = matches[2];
+    seller_id = matches[3];
+    if(context.cancelling_map[matches[1]] !== undefined){
+      alert('å–æ¶ˆäº¤æ˜“ä¸­çš„å•†å“ç„¡æ³•ç™¼é€å·²ä»˜æ¬¾é€šçŸ¥ï¼Œè‹¥ç‚ºå°æ–¹æå‡ºå–æ¶ˆäº¤æ˜“çš„è¦æ±‚è«‹å„˜é€Ÿå›æ‡‰ã€‚');
+      return;
+    }else{
+      open(context.mybid_host+'/master/notify.htm?order_id='+order_id+'&seller='
+        +seller+'&seller_id='+seller_id+'&from=1','pay_notify','width=600,height=720,scrollbars=1');
+    }
+  });
+    $('#end_auc_a_link').click(function(){
+    if (confirm('ç¢ºå®šæå‰çµæŸ?')){
+      open(context.mybid_host+'/master/action_sellnow.php?over&'+context.g_no,'_self');
+    }
+  });
+    $('#outof_shelves_a_link').click(function(){
+    if (confirm('ç¢ºå®šå¼·è¿«ä¸‹æ¶?')) {
+      open(context.mybid_host+'/master/action_sellnow.php?down&'+context.g_no,'_self');
+    }
+  });
+
+    $('.add_friend_list').click(function(){
+  $.ajax({
+    type: 'POST'
+    , url:'/item/addFr.php'
+    , data: { 'seller_user_nick': context.seller_user_nick}
+    , dataType: 'json'
+    , error: function(){
+	    alert("ç³»çµ±å¿™ç¢Œä¸­ï¼Œè«‹ç¨å¾Œå†è©¦");
+    }
+    , success: function(data){
+		if(data.status == 'NO_LOGIN'){
+		  	alert('è«‹å…ˆç™»å…¥æœƒå“¡ï¼');
+	    }else if(data.status == 'OVERFLOW'){
+		    alert('æœ€æ„›è³£å®¶åå–®æœ€å¤šæ–°å¢1000ç­†ï¼');
+	    }else if(data.status == 'EXISTS'){
+		    alert(context.seller_user_nick+'å·²ç¶“æ˜¯ä½ çš„æœ€æ„›è³£å®¶');
+	    }else if(data.status == 'GO_ON'){
+			alert('å·²å°‡æ­¤è³£å®¶åŠ å…¥ã€Œæœ€æ„›è³£å®¶ã€ï¼');
+	    }else{
+			alert("ç³»çµ±å¿™ç¢Œä¸­ï¼Œè«‹ç¨å¾Œå†è©¦");
+		}
+	  }
+   });
+
+  });
+
+    $('.atm_send_a_links').click(function(){
+    var re = /^atm_send1?:([^:]+):([^:]*):(.*)$/;
+    var matches = re.exec($(this).attr('id'));
+    var aform = $('<form method="post"/>');
+    aform.attr('action', context.point_host+'/webatm/atm_confirm.php');
+    Form_addPair(aform, 'ogid', matches[1]);
+    Form_addPair(aform, 'seller', matches[2]);
+    Form_addPair(aform, 'seller_id', matches[3]);
+    aform.appendTo('#js_area');
+    aform.submit();
+  });
+
+    if($('#more_info_a_link').size() > 0){
+    $('#more_info_a_link').click(second_stage_image_loader);
+    $('body').mousewheel(function(objEvent, intDelta){
+        if (intDelta < 0) {
+            second_stage_image_loader();
+        }
+    });
+    window.onscroll = second_stage_image_loader;
+    window.document.onkeyup = function (evt) {
+      if (document.all){
+        evt = event;
+      }
+      if (evt.keyCode == 37){
+                $("#product_prev").click();
+      }else if (evt.keyCode == 39){
+                $("#product_next").click();
+      }else if (evt.keyCode == 40){
+                second_stage_image_loader();
+      }
+    };
+  }
+    $('#chang_authno_a_link').click(chang_authno);
+
+  if($('.captcha-img').size() > 0){
+    pics = context.auth_no_arr;
+    var idx = Math.floor(Math.random()*pics.length);
+    var authno = pics[idx].authno;
+    var pre_check = pics[idx].pre_check;
+    auth_str= '<img src="captcha.php?authnum='+authno+'" name="pic" id="pic">';
+    auth_str+= '<input type="hidden" name="authno" id="authno" value="'+authno+'">\n';
+    auth_str+= '<input type="hidden" name="pre_check" id="pre_check" value="'+pre_check+'">\n';
+    $('.captcha-img').html(auth_str);
+  }
+
+  $('.useless_form').submit(function(){return false;});
+
+    $('#submit_question_button').click(fn_submit_question);
+
+    $('.reply_question_button').click(function(){
+    var re = /^reply_question:(.*)$/;
+    var matches = re.exec($(this).attr('id'));
+    location.href='qans?qid='+context.g_no + ',' + matches[1];
+  });
+
+    $('.qa_admin_select_all_button').click(function(){
+    $('.qa_admin_checkbox').attr('checked', 'checked');
+  });
+
+    $('.qa_admin_reset_button').click(function(){
+    $('.qa_admin_checkbox').removeAttr('checked');
+  });
+
+    $('.qa_admin_remove_button').click(fn_remove_question);
+
+    $('#buy_now_button').click(function(){
+    var aform = $('<form method="post"/>');
+    aform.attr('action', '/bid-offer/offer.php');
+    Form_addPair(aform, 'bid_hidden', '1');     Form_addPair(aform, 'bidmoney', context.g_direct_price);
+    if(context.g_mode == 'A'){
+      Form_addPair(aform, 'bidnum', '1');
+    }else if(context.g_mode == 'B'){
+      if( !fn_check_all_digi($('#qty').val())
+      || parseInt($('#qty').val(),10) < 1){
+        alert("è«‹è¼¸å…¥è³¼è²·æ•¸é‡");
+        $('#qty').focus();
+        return;
+      }
+      if( parseInt($('#qty').val(),10) >= 100){
+        alert("å–®æ¬¡è³¼è²·æ•¸é‡ä¸å¯è¶…é99");
+        $('#qty').focus();
+        return;
+      }
+      Form_addPair(aform, 'bidnum', parseInt($('#qty').val()));
+    }else{
+      throw new Error('RuntimeError');
+    }
+    Form_addPair(aform, 'bidcate', 'A');
+    Form_addPair(aform, 'bidurl', location.href);
+    Form_addPair(aform, 'bidtype', context.g_mode);
+    Form_addPair(aform, 'bidpid', context.g_no);
+    Form_addPair(aform, 'gs_class', context.g_class);
+    Form_addPair(aform, 'ms', context.ms);
+    if($('#private').attr('checked')){
+      Form_addPair(aform, 'is_hidden', '1');
+    }
+    aform.appendTo('#js_area');
+    aform.submit();
+  });
+     $('.singleReUpload').click(function(){
+      if(context.g_num > 1 && context.g_sold_num > 0 && confirm("é‡æ–°ä¸Šæ¶æœ¬å•†å“ï¼Œæ˜¯å¦è¦ä¿ç•™åŸä¾†çš„éŠ·å”®æ•¸é‡?"))
+      {
+        window.open(context.mybidu_host+"/upload/step2.htm?g_no="+context.g_no+"&r_g_sold_num=true","_self");
+      }
+      else
+      {
+        window.open(context.mybidu_host+"/upload/step2.htm?g_no="+context.g_no,"_self");
+      }
+  });
+
+    $('#bid_button').click(function(){
+    if( !fn_check_all_digi($('#max').val())
+    || parseInt($('#max').val(),10) < 1){
+      alert("è«‹è¼¸å…¥æ­£ç¢ºçš„å‡ºåƒ¹");
+      $('#max').focus();
+      return;
+    }
+    var aform = $('<form method="post"/>');
+    aform.attr('action', '/bid-offer/offer.php');
+    Form_addPair(aform, 'bidmoney', parseInt($('#max').val(),10));
+    Form_addPair(aform, 'bidnum', '1');
+    Form_addPair(aform, 'bidcate', $('input[name="bid_option"]:checked').val());
+    Form_addPair(aform, 'bidurl', location.href);
+    Form_addPair(aform, 'bidtype', context.g_mode);
+    Form_addPair(aform, 'bidpid', context.g_no);
+    Form_addPair(aform, 'gs_class', context.g_class);
+    Form_addPair(aform, 'ms', context.ms);
+    aform.appendTo('#js_area');
+    aform.submit();
+  });
+
+    $('#fill_check_agree').click(function(){
+    var aform = $('<form method="post"/>');
+    aform.attr('action', 'chang_status.php');
+    Form_addPair(aform, 'anw', 'YES');
+    Form_addPair(aform, 'no', context.filler_no);
+    Form_addPair(aform, 'type', context.filler_type);
+    aform.appendTo('#js_area');
+    aform.submit();
+  });
+
+    $('#fill_check_disagree').click(function(){
+    var aform = $('<form method="post"/>');
+    aform.attr('action', 'chang_status.php');
+    Form_addPair(aform, 'anw', 'NO');
+    Form_addPair(aform, 'no', context.filler_no);
+    Form_addPair(aform, 'type', context.filler_type);
+    aform.appendTo('#js_area');
+    aform.submit();
+  });
+
+    $('a:not([href])').bind('mouseenter', function(ev){
+    $(ev.target).css('text-decoration','underline');
+  }).bind('mouseleave', function(ev){
+    $(ev.target).css('text-decoration','');
+  });
+
+  $('.text_uri').each(function(){
+    text_external_link(this);
+  });
+
+    (function () {
+    var timer,
+        bankInfo,
+        popWindow,
+        $table = $('#ppci_table'),
+        $li = $('li.PW_PCHOMEPAY_CREDIT_N_ZERO'),
+
+    closeTable = function () {
+      timer = 0;
+      $table.is(':visible') && $table.hide();
+    },
+    retrieveBankInfo = function () {
+      var banks;
+      if (bankInfo) {
+        return;
+      }
+
+      $.getJSON(context.mybid_host + '/deliver/ajax_pp_installment_bank.php?callback=?')
+      .done(function (json) {
+        if (json.banks) {
+          bankInfo = json.banks.banks;
+          $('.ppci-bank').each(function () {
+            banks = bankInfo[this.id.replace('ppci_bank_info_', 'installment_')];
+            $(this)
+            .attr('title', banks.join(', '))
+            .text(banks.length + 'å®¶');
+          });
+        }
+      });
+    };
+
+    $('#ppci_table').on('click', 'a', function (e) {
+      var n = this.id.replace('ppci_bank_info_', '');
+      window.onBankTableReady = function (initTable) {
+        initTable(n, bankInfo['installment_' + n].slice(0));      };
+      window.open('pop_pp_installment_bank.html', 'BankTable', 'width=500,height=360,scrollbars=yes');
+      e.preventDefault();
+      e.stopPropagation();
+    });
+
+    $('#ppci_table_toggle')
+    .click(function (e) { e.preventDefault(); })
+    .mouseenter(function () {
+      var pos, dx;
+      if ($table.is(':hidden')) {
+        retrieveBankInfo();
+        pos = $li.position();
+        $table.show();
+                dx = ($table.width() - $li.width()) / 2 +
+             parseInt($li.css('padding-left'), 10) -
+             parseInt($table.css('padding-left'), 10) -
+             parseInt($table.css('border-left-width'), 10);
+        $table
+        .css('top', (pos.top + $li.height() + 3) + 'px')        .css('left', (pos.left - dx) + 'px');
+      }
+    });
+        $table.add($li).hover(function () {
+      timer && clearTimeout(timer);
+    }, function () {
+      timer = setTimeout(closeTable, 300);
+    });
+  }());
+
+    $('#rules-view').click(
+    function(e){
+      e.preventDefault();
+      $('#rule-block').show();
+      return false;
+    }
+  );
+  $('#rules-hide').click(
+    function(e){
+      e.preventDefault();
+      $('#rule-block').hide();
+      return false;
+    }
+  );
+
+    $('#btn_show_custom_spec_block').click(function(e){
+		e.preventDefault();
+
+		objBtn = $('#btn_show_custom_spec_block');
+		$('#custom_spec_block').css({
+																							position: "absolute",
+																							left: (objBtn.offset().left)+"px",
+																							top: (objBtn.offset().top+objBtn.height())+"px",
+																							zIndex: 99
+																						});
+		 $('#custom_spec_block').show();
+		return false;
+  });
+  $('#btn_hide_custom_spec_block').click(function(e){
+		e.preventDefault();
+		$('#custom_spec_block').hide();
+		return false;
+  });
+
+
+    $('.show-msg').focus(function(){
+    if(clear_show_msg){
+      $(this).text("");
+      clear_show_msg = false;
+    }
+  });
+
+  $(".show_detail").click(function(){
+    var re = /^show_detail_([A-Za-z]+)_([0-9]+)$/;
+    var matches = re.exec($(this).attr('id'));
+    var ctrl_no = matches[2];
+
+    if(ctrl_no === null){
+      return;
+    }
+    if(context.buyer_contact[ctrl_no] !== undefined){
+      if(context.buyer_contact[ctrl_no]['tel'] !== undefined){
+        $('#show_detail_tel_'+ctrl_no).text(context.buyer_contact[ctrl_no]['tel']);
+      }
+      if(context.buyer_contact[ctrl_no]['mobile'] !== undefined){
+        $('#show_detail_mobile_'+ctrl_no).html(context.buyer_contact[ctrl_no]['mobile']);
+      }
+    }
+  });
+
+  $('.btn_notify_seller_setup_ppc').click(function(){
+    check_secret_open(Array('http://goods.ruten.com.tw','kigosam400',2,'21406227445748','null','http://mybid.ruten.com.tw'));
+  });
+
+  $('#js_publish_to_facebook_link').click(function(){
+    open('http://www.facebook.com/share.php?u=http://goods.ruten.com.tw/item/show?'+context.g_no, 'publish', 'loaction=0,height=600,width=800,scrollbars=no');
+  });
+
+    try{
+    $('head').append('<script type="text/javascript" src="https://apis.google.com/js/plusone.js">{"parsetags": "explicit", "lang": "zh-TW"}<'+'/script>');
+    var render_plusone_count = 0;
+    window.render_plusone = function(){
+      if(typeof(gapi) !== 'undefined' && typeof(gapi.plusone) !== 'undefined' && typeof(gapi.plusone.render) !== 'undefined'){
+        gapi.plusone.render("plusone-div", {size: 'medium',count: 'true', href: 'http://goods.ruten.com.tw/item/show?'+context.g_no});
+        window.render_plusone = null;
+      }else{
+                if(++render_plusone_count > 20){ return; }
+        setTimeout('window.render_plusone()', 500);
+      }
+    }
+    window.render_plusone();
+  }catch(e){ }
+
+    $( '#fb_iframe' ).attr( 'src', 'http://www.facebook.com/plugins/like.php?href=http%3A%2F%2Fgoods.ruten.com.tw%2Fitem%2Fshow%3F'+context.g_no+'&send=false&layout=button_count&width=80&show_faces=false&action=like&colorscheme=light&font&height=21&appId=134256183307954');
+  $("#facebook").css("display","block");
+
+	fetch_ad_goods();
+
+});
+/*]]>*/</script>
+  </body>
 </html>

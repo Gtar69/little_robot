@@ -1,6 +1,7 @@
+<!DOCTYPE html>
 <html>
   <head>
-    <meta charset="big5">
+    <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1"/>
       <%= stylesheet_link_tag "application" %>
       <%= javascript_include_tag "application" %>
@@ -8,11 +9,45 @@
     <title> URL </title>
 
   </head>
+<body>
+  <%= render "common/navbar"%>
 
-<div id="url" style="display:none"></div>
+  <div class= "container">
+    <div class="row">
+      <div class="col-md-12">
+        <h3> Product Analysis </h3>
+          <table class="table table-bordered table-striped" >
+            <thead>
+              <tr>
+                <td> <strong> Title </strong></td>
+                <td> <strong> Price </strong></td>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td> <%= @title %> </td>
+                <td> <%= @price %> </td>
+              </tr>
 
-<% @array.each do |c| %>
-<div> <%= c %></div>
+            </tbody>
+          </table>
+          <table class="table table-bordered table-striped" >
+            <thead>
+              <tr>
+                <td> <strong> Product Content </strong></td>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <% str="" %>
+                <% @array.each { |u| str= str+ u + "<br />" unless u.blank? } %>
+                <td>  <%= str.html_safe %> </td>
+              </tr>
 
-<% end %>
+            </tbody>
+          </table>
+
+      </div>
+    </div>
+  </div>
 </html>
