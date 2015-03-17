@@ -1,25 +1,7 @@
 
+<div id="url" style="display:none"></div>
 
-<div id="url" style="display:none"><%= @url %></div>
+<% @array.each do |c| %>
+<div> <%= c.encode("Big5", :invalid => :replace, :undef => :replace, :replace => "")%></div>
 
-<div class="loading" > </div>
-
-
-<script type="text/javascript">
-  url = jQuery("#url")[0].innerHTML;
-  url = "http://apidock.com/rails/ActionView/Helpers/FormTagHelper/form_tag"
-  $.ajax({
-    crossDomain: true,
-    type:"GET",
-    contentType: "application/json; charset=utf-8",
-    async:false,
-    url: url,
-    data: { symbol: 'ctsh' },
-    dataType: "jsonp",
-    jsonpCallback: 'fnsuccesscallback',
-    success: function() { alert("Success"); },
-    error: function() { alert('Failed!'); },
-  });
-
-</script>
-
+<% end %> 

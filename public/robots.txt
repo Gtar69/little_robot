@@ -1,201 +1,496 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
 <html>
-<head>
-<title>露天拍賣-台灣 NO.1 拍賣網站</title>
-<meta http-equiv="Content-Type" content="text/html; charset=big5">
-<link href="http://www.ruten.com.tw/css/auction.css" rel="stylesheet" type="text/css">
-<link rel="stylesheet" href="http://www.ruten.com.tw/css/splitpage.css" type="text/css">
-<script language="JavaScript" src="http://www.ruten.com.tw/js/javascript.js" ></script>
-<script language="JavaScript" src="http://www.ruten.com.tw/js/form.js" ></script>
-<script language="JavaScript" src="http://www.ruten.com.tw/js/search.js" ></script>
-</head>
-<body bgcolor="#FFFFFF" leftmargin="0" topmargin="0" >
-<center>
-<!--網頁head開始-->
- <div align="center">
- <link href="http://www.ruten.com.tw/css/new.css" rel="stylesheet" type="text/css">
- <script language="JavaScript" src="http://www.ruten.com.tw/js/form.js" ></script>
- <script type="text/javascript" src="http://www.ruten.com.tw/js/show_login_time.js" ></script>
- <table width="900" border="0" cellpadding="0" cellspacing="0" background="http://www.ruten.com.tw/images/flexible_up-bg.gif">
-  <tr>
-   <td width="700" align="left">
-    <table width="700" border="0" cellpadding="0" cellspacing="0">
-     <tr>
-      <!--<td width="150" height="100" align="center" bgcolor="#FFFFFF"><a href="http://www.ruten.com.tw"><img src="http://www.ruten.com.tw/images/logo.gif" alt="回首頁" width="122" height="75" border="0" longdesc="http://www.ruten.com.tw" /></a></td>-->
-      <td width="150" height="100" align="center" bgcolor="#FFFFFF"><table width="100%" border="0" cellpadding="0" cellspacing="00">
-        <tr>
-          <td>&nbsp;</td>
-          <td align="right" valign="top"><a href="http://www.ruten.com.tw/"><img src="http://www.ruten.com.tw/images/logo.gif" alt="回首頁" width="122" height="75" border="0" longdesc="http://www.ruten.com.tw"></a></td>
-          <td>&nbsp;</td>
-          <!--<td align="right" valign="top"><a href="http://www.ruten.com.tw/"><img src="http://www.ruten.com.tw/images/logo-lu2.gif" alt="回首頁" width="94" height="87" border="0" longdesc="http://www.ruten.com.tw"></a></td>
-          <td width="35" align="left"><img src="http://www.ruten.com.tw/images/logo-lu.gif" width="32" height="62"></td>-->
-        </tr>
-      </table>
-      <a href="http://www.ruten.com.tw"></a></td>
-      <td bgcolor="#FFFFFF"><img src="http://www.ruten.com.tw/images/spacer.gif" width="10" height="1" /></td>
-      <td valign="top" background="http://www.ruten.com.tw/images/flexible_up-bg.gif">
-       <table border="0" cellpadding="0" cellspacing="0">
-        <tr>
-         <td bgcolor="#D7D7D7" class="bk12"><img src="http://www.ruten.com.tw/images/spacer.gif" width="1" height="1" /></td>
-         <td width="5" bgcolor="#FFFFFF" class="bk12">&nbsp;</td>
-         <td width="160" valign="bottom" bgcolor="#FFFFFF" class="normal">
-          <a href="https://member.ruten.com.tw/user/login.htm" class="normal-b">會員登入</a><br />新使用者？ <a href="https://member.ruten.com.tw/user/register_step1.htm">加入會員</a>
-         </td>
-         <td background="http://www.ruten.com.tw/images/flexible_up-bg2.gif">
-          <table border="0" cellpadding="0" cellspacing="0" background="http://www.ruten.com.tw/images/flexible_up-bg2.gif">
-           <tr>
-            <td><img src="http://www.ruten.com.tw/images/spacer.gif" width="1" height="15" /></td>
-           </tr>
-           <tr>
-            <td height="30" valign="top">
-             <table border="0" cellspacing="0" cellpadding="0">
-              <tr>
-               <td class="gy12"><img src="http://www.ruten.com.tw/images/dot_new.gif" width="18" height="6" /><a href="http://www.ruten.com.tw/system/index.html" class="gy13">客服中心</a><img src="http://www.ruten.com.tw/images/dot_new.gif" width="18" height="6" /><a href="http://www.ruten.com.tw/system/server_center.htm?000500010001" class="gy13">常見問題</a><img src="http://www.ruten.com.tw/images/dot_new.gif" width="18" height="6" /><a href="http://www.ruten.com.tw/security/security.html" class="gy13">交易安全</a><img src="http://www.ruten.com.tw/images/dot_new.gif" width="18" height="6" /><a href="http://forum.ruten.com.tw/index.php" class="gy13">討論區</a><img src="http://www.ruten.com.tw/images/dot_new.gif" width="18" height="6" /><a href="http://www.pchome.com.tw" class="gy13" target="_new">PChome</a></td>
-              </tr>
-             </table>
-            </td>
-           </tr>
-           <tr>
-            <td><a href="http://class.ruten.com.tw/category/"><img src="http://www.ruten.com.tw/images/tag1_new.gif" width="87" height="25" border="0" /></a><a href="http://mybid.ruten.com.tw/upload/step1.htm"><img src="http://www.ruten.com.tw/images/tag2_new.gif" width="87" height="25" border="0" /></a><a href="http://mkt.ruten.com.tw/adb/3.html"><img src="http://www.ruten.com.tw/images/tag6_new.gif" width="87" height="25" border="0" /></a><a href="http://mybid.ruten.com.tw/master/my.php"><img src="http://www.ruten.com.tw/images/tag3_new.gif" width="100" height="25" border="0" /></a></td>
-           </tr>
-           <tr>
-            <td bgcolor="#F7C06C"><img src="http://www.ruten.com.tw/images/spacer.gif" width="1" height="1" /></td>
-           </tr>
-          </table>
-         </td>
-        </tr>
-       </table>
-      </td>
-     </tr>
-    </table>
-   </td>
-   <td width="353" background="http://www.ruten.com.tw/images/flexible_up-bg.gif">
-    <table border="0" align="right" cellpadding="0" cellspacing="0">
-     <tr>
-      <td><img src="http://www.ruten.com.tw/images/spacer.gif" width="1" height="15" /></td>
-      <td width="20" rowspan="4">&nbsp;</td>
-     </tr>
-     <tr>
-      <td height="30" valign="top">
-       <table width="99%" border="0" cellspacing="0" cellpadding="0">
-        <tr>
-         <td class="gy12">&nbsp;</td>
-         <td width="200">
-          <form name="serc" method="get" action="http://search.ruten.com.tw/search/s000.php">
-            <input type="hidden" name="searchfrom" value="oldheadbar">
-            <input name="k" type="text" onKeyDown="if(event.keyCode == 13) document.serc.submit();" value="" size="20" class="bk12" />
-            <input name="serach_button2" type="button" value="搜尋" class="bk12" onclick="document.serc.submit();">
-          </form>
-         </td>
-        </tr>
-       </table>
-      </td>
-     </tr>
-     <tr>
-      <td>&nbsp;</td>
-     </tr>
-     <tr>
-      <td><img src="http://www.ruten.com.tw/images/spacer.gif" width="1" height="1" /></td>
-     </tr>
-    </table>
-   </td>
-  </tr>
- </table>
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=Big5" />
+    <title>露天拍賣-台灣 NO.1 拍賣網站</title>
+    <base target="_blank" />
+    <script type="text/javascript"><!--
+    var context = {"goods_host":"http:\/\/goods.ruten.com.tw","mobile_host":"http:\/\/m.ruten.com.tw","flag_show_doctype":true,"check_location":true};
 
-</div>
-<!--網頁head結束-->
-<!--路徑開始-->
- <table width="900" border="0" cellpadding="0" cellspacing="0">
-  <tr>
-   <td height="25" class="dbe16"><img src="http://www.ruten.com.tw/images/arrow2.gif" width="20" height="15" /><a href="http://www.ruten.com.tw">露天拍賣</a> <font color="#0400C5"> > 商品搜尋結果</font> </td>
-  </tr>
- </table><!--路徑結束-->
-	<table width="870" border="0" cellspacing="0" cellpadding="0">
-  <tr>
-  	<td><img src="http://www.ruten.com.tw/images/register_up_p.gif" width="870" height="25" /></td>
-  </tr>
-  </table>
-  <table width="778" border="0" cellspacing="0" cellpadding="0" background="http://www.ruten.com.tw/images/register_bg_p.gif">
-  <tr valign="top">
-  	<td width="8" class="box"></td>
-    <td align="center" valign="top">
-    	<table width="88%" border="0" align="center" cellpadding="0" cellspacing="0">
-     	<tr>
-      	<td height="32"></td>
-      </tr>
-      </table>
-          <!--版型9a-搜尋拍賣編號結果(NO)開始-->
+function empty_arr(el_arr) {
+  var el, i, len = el_arr.length;
+  for (i = 0; i < len; i++) {
+    el = el_arr.item(i);
+    while (el.lastChild) {
+      el.removeChild(el.lastChild);
+    }
+  }
+}
 
-      <table width="660" border="0" cellspacing="5" cellpadding="0">
-         <tr>
-         	<td class="t19"><strong><font color="bf0000">商品搜尋處理中…</font></strong></td>
-         </tr>
-         <tr>
-         	<td><strong><font color="#000000"></font></strong></td>
-         </tr>
-      </table>
-      <table border="0" cellspacing="2" cellpadding="0">
-      </table>
-       <br/>
-       <a href="http://www.ruten.com.tw">拍賣首頁 </a>
-          <!--版型9a-搜尋拍賣編號結果(NO)結束-->
+function isInvalidInclude() {
+  var host_string = [context.goods_host, context.mobile_host].join('|');
+  return context.check_location === true &&
+    (window.location.href == window.top.location.href || host_string.indexOf(window.top.location.host) === -1);
+}
 
-      <table width="95%" border="0" align="center" cellpadding="0" cellspacing="0">
-      <tr>
-       	<td height="30"></td>
-      </tr>
-      </table>
-			<table width="870" border="0" cellspacing="0" cellpadding="0">
-     	<tr>
-      	<td><img src="http://www.ruten.com.tw/images/register_down_p.gif" width="870" height="25" /></td>
-     	</tr>
-    	</table>
-		</td>
-    <td width="8" class="box"></td>
-  </tr>
-  </table>
-  <table border="0" align="center" cellpadding="0" cellspacing="0">
- <tr>
-  <td height="25" align="center" class="bk12">
-  	<a href="http://www.ruten.com.tw/about/about_us.htm" class="bk13">關於露天</a><img src="http://www.ruten.com.tw/images/rights_dot.gif" width="14" height="12" />
-  	<a href="http://www.ruten.com.tw/system/" class="bk13">客服中心</a><img src="http://www.ruten.com.tw/images/rights_dot.gif" width="14" height="12" />
-  	<a href="http://www.ruten.com.tw/system/server_center.htm?000500010001" class="bk13">常見問題</a><img src="http://www.ruten.com.tw/images/rights_dot.gif" width="14" height="12" />
-  	<a href="http://www.ruten.com.tw/security/security.html" class="bk13">交易安全</a><img src="http://www.ruten.com.tw/images/rights_dot.gif" width="14" height="12" />
-  	<a href="http://www.ruten.com.tw/system/server_center.htm?00060001" class="bk13">會員合約</a><img src="http://www.ruten.com.tw/images/rights_dot.gif" width="14" height="12" />
-  	<a href="http://www.ruten.com.tw/system/server_center.htm?00060002" class="bk13">隱私權聲明</a><img src="http://www.ruten.com.tw/images/rights_dot.gif" width="14" height="12" />
-  	<a href="http://twexport.ebay.com/" class="bk13" target="_new">eBay 跨國交易</a><img src="http://www.ruten.com.tw/images/rights_dot.gif" width="14" height="12" />
-	  <a href="http://www.104.com.tw/jobbank/cust_job/introduce.cfm?j=5a3a432634463e6956583a1d1d1d1d5f2443a363189j97" class="bk13" target="_new">徵人</a>
-	</td>
- </tr>
- <tr>
-	<td align="center" class="bk13">露天市集國際資訊股份有限公司版權所有，轉載必究‧Copyright&copy;　PChome eBay Co.,&nbsp;Ltd.</td>
- </tr>
- <tr>
-  <td height="5">&nbsp;</td>
- </tr>
+window.onload = function () {
+  var comment_frame, docH, D = document;;
+  if (isInvalidInclude()) {
+    empty_arr(document.getElementsByTagName('html'));
+  } else {
+    comment_frame = window.top.document.getElementById('embedded_goods_comments');
+
+        if (typeof old_comments_function === 'function') {
+      old_comments_function(context.flag_show_doctype, comment_frame);
+    }
+
+    comment_frame.setAttribute('height', 0);
+
+    docH = Math.max(
+      D.body.scrollHeight, D.documentElement.scrollHeight,
+      D.body.offsetHeight, D.documentElement.offsetHeight,
+      D.body.clientHeight, D.documentElement.clientHeight
+    );
+    comment_frame.setAttribute('height', docH + 200);
+  }
+
+  top.onDetailPageLoad && top.onDetailPageLoad(document);
+};
+
+if (isInvalidInclude()) {
+  if (window.stop) {
+    window.stop();
+  } else {
+    document.execCommand('Stop');
+  }
+  empty_arr(document.getElementsByTagName('html'));
+}
+    --></script>
+    <style type="text/css"><!--
+      .product-spec {
+        text-align: left;
+      }
+      .product-spec table {
+        border-collapse: collapse;
+        color: #000;
+        border: 1px solid #DDDDDD;
+        margin: 0 auto 10px;
+        width: 799px;
+      }
+      .product-spec caption {
+        visibility: hidden;
+        height: 1px;
+      }
+      .product-spec th{
+        font-weight: bold;
+        background-color: #FFFFBB;
+        border-left: 1px solid #DDDDDD;
+        border-top: 1px solid #DDDDDD;
+        font-size: 13px;
+        padding: 8px;
+        width: 25%;
+      }
+      .product-spec td{
+        border-left: 1px solid #DDDDDD;
+        border-top: 1px solid #DDDDDD;
+        font-size: 13px;
+        padding: 8px;
+        width: 25%;
+      }
+    --></style>
+  </head>
+  <body>
+    <style type="text/css"><!--
+strong.tidied-201406229923-6 {color: #ff0000; font-size: 19px;}
+ strong.tidied-201406229923-5 {color: #ff0000; font-size: 14pt;}
+ span.tidied-201406229923-4 {color: #ff0000; font-size: 14pt;}
+ span.tidied-201406229923-3 {color: #ff0000; font-size: 18pt;}
+ span.tidied-201406229923-2 {font-size: 24pt; background-color: #ffff00;}
+ p.tidied-201406229923-1 {font-size: medium; font-family: Times;} p.tidied-201406235365-9 {background-color: #fffb01; color: #ff2500; font-family: 'Songti TC'; font-size: 18px; font-weight: bold}
+ p.tidied-201406235365-8 {font-size: 18px; font-family: Times;}
+ span.tidied-201406235365-7 {font-family: 'Songti TC';}
+ span.tidied-201406235365-6 {color: #0433ff;}
+ p.tidied-201406235365-5 {font-family: Times; font-size: 18px; font-weight: bold}
+ p.tidied-201406235365-4 {font-size: 18px; font-family: 'Songti TC';}
+ p.tidied-201406235365-3 {font-family: 'Songti TC'; font-size: 18px; font-weight: bold}
+ p.tidied-201406235365-2 {color: #ff2500; font-size: 32px; font-family: 'Songti TC'; background-color: #fffb01;}
+ span.tidied-201406235365-1 {font-family: Times;} p.tidied-201406231040-1 {font-weight: bold}
+ p.tidied-201406291690-20 {font-size: 18px; font-family: Verdana;}
+ p.tidied-201406291690-19 {color: #ff2500; font-size: 18px; font-family: Times; background-color: #fffb01;}
+ p.tidied-201406291690-18 {font-size: 18px; font-family: 'Songti TC'; font-weight: bold;}
+ p.tidied-201406291690-17 {color: #ff2500; font-size: 18px; font-family: 'Songti TC'; font-weight: bold; background-color: #fffb01;}
+ p.tidied-201406291690-16 {color: #ff2500; font-size: 18px; font-family: 'Songti TC'; font-weight: bold;}
+ span.tidied-201406291690-15 {color: #ff2500; font-family: 'Songti TC'; font-weight: bold;}
+ a.tidied-201406291690-14 {font-family: 'Songti TC'; font-weight: bold;}
+ p.tidied-201406291690-13 {color: #042eee; font-size: 18px; font-family: Times;}
+ span.tidied-201406291690-12 {color: #0000ff;}
+ span.tidied-201406291690-11 {font-family: 'Songti TC';}
+ p.tidied-201406291690-10 {color: #042eee; font-size: 18px; font-family: 'Songti TC';}
+ span.tidied-201406291690-9 {color: #0433ff; font-size: 32px; font-family: Times;}
+ span.tidied-201406291690-8 {color: #042eee; font-size: 18px;}
+ span.tidied-201406291690-7 {color: #042eee; font-size: 18px; font-family: 'Songti TC';}
+ span.tidied-201406291690-6 {color: #042eee;}
+ p.tidied-201406291690-5 {font-size: 18px; font-family: Times;}
+ p.tidied-201406291690-4 {font-size: 18px; font-family: 'Songti TC';}
+ p.tidied-201406291690-3 {color: #ff2500; font-size: 32px; font-family: 'Songti TC'; background-color: #fffb01;}
+ span.tidied-201406291690-2 {font-family: Times;}
+ p.tidied-201406291690-1 {color: #ff2500; font-size: 32px; font-family: 'Songti TC'; font-weight: bold; background-color: #fffb01;}
+ p.tidied-201406293625-14 {color: #ff2500; font-size: 18px; font-family: 'Heiti TC Light'; background-color: #fffb01;}
+ p.tidied-201406293625-13 {color: #ff2500; font-size: 18px; font-family: 'Songti TC'; background-color: #fffb01;}
+ span.tidied-201406293625-12 {color: #ff0000;}
+ span.tidied-201406293625-11 {color: #0433ff; font-size: 24pt;}
+ span.tidied-201406293625-10 {color: #0433ff;}
+ span.tidied-201406293625-9 {font-family: 'Songti TC';}
+ span.tidied-201406293625-8 {font-size: 24pt;}
+ span.tidied-201406293625-7 {color: #0000ff;}
+ p.tidied-201406293625-6 {font-size: 18px; font-family: Times;}
+ p.tidied-201406293625-5 {font-size: 18px; font-family: 'Songti TC';}
+ span.tidied-201406293625-4 {font-size: 18px;}
+ strong.tidied-201406293625-3 {font-size: 18px; font-family: 'Songti TC';}
+ span.tidied-201406293625-2 {font-family: Times;}
+ p.tidied-201406293625-1 {color: #ff2500; font-size: 32px; font-family: 'Songti TC'; background-color: #fffb01;}
+ span.tidied-201407031659-1 {font-size: 24pt;}
+ p.tidied-201407244619-15 {font-size: 18px; font-family: Verdana;}
+ p.tidied-201407244619-14 {color: #ff2500; font-size: 18px; font-family: 'Heiti TC Light'; background-color: #fffb01;}
+ span.tidied-201407244619-13 {color: #ff0000;}
+ span.tidied-201407244619-12 {color: #0433ff; font-size: 24pt;}
+ span.tidied-201407244619-11 {color: #0433ff;}
+ span.tidied-201407244619-10 {font-family: 'Songti TC';}
+ span.tidied-201407244619-9 {font-size: 24pt;}
+ span.tidied-201407244619-8 {color: #0000ff;}
+ p.tidied-201407244619-7 {font-size: 18px; font-family: Times;}
+ p.tidied-201407244619-6 {font-size: 18px; font-family: 'Songti TC';}
+ span.tidied-201407244619-5 {font-size: 18px;}
+ strong.tidied-201407244619-4 {font-size: 18px; font-family: 'Songti TC';}
+ p.tidied-201407244619-3 {color: #ff2500; font-size: 32px; font-family: 'Songti TC'; background-color: #fffb01;}
+ span.tidied-201407244619-2 {font-family: Times;}
+ p.tidied-201407244619-1 {color: #ff2500; font-size: 18px; font-family: 'Songti TC'; background-color: #fffb01;}
+ strong.tidied-201407278019-1 {font-size: 18px;}
+ strong.tidied-201407312812-3 {font-family: Times;}
+ p.tidied-201407312812-2 {color: #ff2500; font-size: 32px; font-family: 'Songti TC'; background-color: #fffb01;}
+ span.tidied-201407312812-1 {font-family: Times;}
+ span.tidied-201409019820-14 {font-family: 'Songti TC';}
+ p.tidied-201409019820-13 {font-size: 18px; font-family: Times;}
+ span.tidied-201409019820-12 {color: #ff0000;}
+ span.tidied-201409019820-11 {color: #000000; font-size: 24px; font-family: Times; font-weight: normal;}
+ span.tidied-201409019820-10 {font-size: 18px; font-family: 'Songti TC';}
+ strong.tidied-201409019820-9 {font-family: Times;}
+ p.tidied-201409019820-8 {color: #ff2500; font-size: 32px; font-family: 'Songti TC'; background-color: #fffb01;}
+ span.tidied-201409019820-7 {font-family: Times;}
+ span.tidied-201409019820-6 {color: #ffffff; background-color: #ff0000;}
+ strong.tidied-201409019820-5 {color: #ff2500; font-size: 32px; font-family: Times;}
+ strong.tidied-201409019820-4 {font-size: 18px; font-family: 'Songti TC';}
+ p.tidied-201409019820-3 {font-size: 18px; font-family: 'Songti TC';}
+ span.tidied-201409019820-2 {color: #ffffff; font-size: 18pt; background-color: #000000;}
+ p.tidied-201409019820-1 {color: #ff2500; font-size: 18px; font-family: 'Songti TC'; background-color: #fffb01;}
+ p.tidied-201409036118-13 {font-size: 18px; font-family: Times;}
+ span.tidied-201409036118-12 {color: #ff0000;}
+ span.tidied-201409036118-11 {color: #000000; font-size: 24px; font-family: Times; font-weight: normal;}
+ span.tidied-201409036118-10 {font-size: 18px; font-family: 'Songti TC';}
+ strong.tidied-201409036118-9 {font-family: Times;}
+ p.tidied-201409036118-8 {color: #ff2500; font-size: 32px; font-family: 'Songti TC'; background-color: #fffb01;}
+ span.tidied-201409036118-7 {font-family: Times;}
+ span.tidied-201409036118-6 {color: #ffffff; background-color: #ff0000;}
+ strong.tidied-201409036118-5 {color: #ff2500; font-size: 32px; font-family: Times;}
+ strong.tidied-201409036118-4 {font-size: 18px; font-family: 'Songti TC';}
+ p.tidied-201409036118-3 {font-size: 18px; font-family: 'Songti TC';}
+ span.tidied-201409036118-2 {color: #ffffff; font-size: 18pt; background-color: #000000;}
+ p.tidied-201409036118-1 {color: #ff2500; font-size: 18px; font-family: 'Songti TC'; background-color: #fffb01;}
+ span.tidied-201409106128-1 {color: #545454; font-size: small; font-family: arial, sans-serif;}
+ strong.tidied-201501225463-6 {color: #ff2500; background-color: #fffb01;}
+ span.tidied-201501225463-5 {color: #ff2500; background-color: #fffb01;}
+ img.tidied-201501225463-4 {font-size: 18px; font-family: Times;}
+ span.tidied-201501225463-3 {font-size: 18px; font-family: Times;}
+ strong.tidied-201501225463-2 {font-size: 32px;}
+ span.tidied-201501225463-1 {color: #ff0000; font-family: Times; background-color: #ffffff;}
+ p.tidied-201501274350-7 {text-align: left;}
+ span.tidied-201501274350-6 {font-size: 24pt;}
+ span.tidied-201501274350-5 {font-size: 12pt;}
+ img.tidied-201501274350-4 {display: block; margin-left: auto; margin-right: auto;}
+ span.tidied-201501274350-3 {font-size: 18pt;}
+ p.tidied-201501274350-2 {text-align: center;}
+ span.tidied-201501274350-1 {font-size: 18pt; background-color: #ffffff;}
+ span.tidied-201501272350-7 {color: #7a7a7a; font-size: 13px; font-family: Arial, Helvetica, sans-serif;}
+ p.tidied-201501272350-6 {color: #7a7a7a; font-size: 12px; font-family: Arial, Helvetica, sans-serif;}
+ table.tidied-201501272350-5 {color: #7a7a7a; font-size: 13px; font-family: Arial, Helvetica, sans-serif; background-color: #fdfdfd; width: 934px;}
+ p.tidied-201501272350-4 {font-size: 12px;}
+ th.tidied-201501272350-3 {font-size: 13px; text-align: center;}
+ p.tidied-201501272350-2 {text-align: center;}
+ span.tidied-201501272350-1 {font-size: 24pt;}
+ span.tidied-201501283118-5 {color: #ff0000; font-size: 12pt; background-color: #ffffff;}
+ span.tidied-201501283118-4 {font-family: AppleGothic;}
+ p.tidied-201501283118-3 {font-size: 12px; font-family: 'Heiti TC Light';}
+ span.tidied-201501283118-2 {color: #808080; font-size: 12pt;}
+ span.tidied-201501283118-1 {font-size: medium;}
+ img.tidied-201502054664-3 {display: block; margin-left: auto; margin-right: auto;}
+ span.tidied-201502054664-2 {font-size: 24pt;}
+ p.tidied-201502054664-1 {text-align: center;}
+ span.tidied-201502054484-1 {text-align: center;}
+ span.tidied-201502249453-2 {font-size: 24pt;}
+ p.tidied-201502249453-1 {text-align: center;}
+ span.tidied-201503092011-1 {font-size: 14pt}
+--></style><div>
+<p class="tidied-201406236574-7 tidied-201409036118-1 tidied-201501274350-2">&nbsp;<strong>可加Line 詢問 Line ID : <span class="tidied-201501274350-1">extremeshop</span> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</strong> <strong class="tidied-201407313305-2 tidied-201409036118-9 tidied-201501225463-2"><strong class="tidied-201406293338-1 tidied-201409036118-4"><span class="tidied-201501225463-1">&nbsp;或電：0981-390-508</span></strong></strong></p>
+<p class="tidied-201406236574-3 tidied-201409036118-3 tidied-201501274350-2"><strong>白天面交地點：台北市內湖區瑞光路港墘路口</strong></p>
+<p class="tidied-201406236574-3 tidied-201409036118-3 tidied-201501274350-2"><strong>晚上面交地點：台北市師大附近 &nbsp;</strong></p>
+<p class="tidied-201406236574-3 tidied-201409036118-3 tidied-201501274350-2"><strong>（面交請事先聯絡）</strong></p>
+<p class="tidied-201406236574-3 tidied-201409036118-3 tidied-201501274350-2">&nbsp;<strong>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</strong><strong>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</strong><strong>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</strong><strong>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</strong><strong>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</strong><strong>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</strong><strong>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</strong><strong>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</strong><strong>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</strong><strong>BSMI: &nbsp;D39755 &nbsp;&nbsp;</strong></p>
+<p>&nbsp;&nbsp;</p>
+<p class="tidied-201502249453-1"><span class="tidied-201502249453-2">注意！這是正版可至官網 www.sjcam.com 更新韌體的官方正版賣場</span></p>
+<p class="tidied-201502249453-1">&nbsp;</p>
+<p class="tidied-201502249453-1"><span class="tidied-201503092011-1">不可更新韌體為高仿版 1699元，<a  href="http://goods.ruten.com.tw/item/show?21406181576988" target="_blank">請至這裡下單</a></span></p>
+<p><strong>&nbsp;</strong></p>
+<p class="tidied-201406236574-3 tidied-201409036118-3 tidied-201501274350-2">&nbsp;</p>
+<p class="tidied-201501274350-2"><span class="tidied-201501274350-3"><strong>歡迎參考 &nbsp;極限專賣店之友 一塊錢 專業開箱文：</strong></span></p>
+<p><a  href="javascript:top.external_link('http%3A%2F%2Fdevilmen.blogspot.tw%2F2014%2F12%2Fsj4000.html');" target="_top" ><img class="tidied-201501274350-4"  src="http://i.imgur.com/XkvxfUL.png" border="0" alt="SJ4000&#x958B;&#x7BB1;&#x6587;" width="627" height="556"/></a></p>
+<p>&nbsp;</p>
+<p class="tidied-201502054664-1"><span class="tidied-201501225463-3">台灣經濟部標準檢驗局 BSMI檢驗通過，品質有保障：字號&nbsp;</span><img class="tidied-201501225463-4"  src="http://i.imgur.com/KLHBCvk.png" border="0" alt="" width="96" height="38"/></p>
+<p class="tidied-201502054664-1">&nbsp;</p>
+<p class="tidied-201406236574-3 tidied-201409036118-3 tidied-201502054664-1">不用懷疑，1899元，圖片中所有配件通通都有附上，包含30M潛水殼、快拆扣等等一堆配件。</p>
+<p class="tidied-201406236574-3 tidied-201409036118-3">&nbsp;</p>
+<p class="tidied-201406236574-3 tidied-201409036118-3">&nbsp;</p>
+<p class="tidied-201406236574-3 tidied-201409036118-3">&nbsp;</p>
+<p class="tidied-201406236574-3 tidied-201409036118-3 tidied-201501274350-2"><span class="tidied-201501274350-6">請認明可透過<a  href="javascript:top.external_link('http%3A%2F%2Fwww.sjcam.com%2Fen%2Fcontent%2F9-sjcam-sj4000-action-camera-firmware');" target="_top" >SJCAM官網更新韌體</a>才是正版SJ4000 <span class="tidied-201501274350-5">&lt;--好老套的說法 XD</span></span></p>
+<p class="tidied-201406236574-3 tidied-201409036118-3 tidied-201501274350-2"><span class="tidied-201501283118-1">韌體更新方式請參考下方 Q and A</span></p>
+<p class="tidied-201406236574-3 tidied-201409036118-3 tidied-201501274350-2">(PS: 其他高仿1:1 連詠96650 &nbsp;更新SJCAM 官網韌體後，按鈕位置會錯亂，無法正常攝影～這是最快確認你手上機器是否是高仿版最快的方法)</p>
+<p class="tidied-201406236574-3 tidied-201409036118-3">&nbsp;</p>
+<p class="tidied-201406236574-3 tidied-201409036118-3">&nbsp;</p>
+<p class="tidied-201406236574-3 tidied-201409036118-3 tidied-201501274350-2"><strong><span class="tidied-201501274350-3">保固條件：</span></strong></p>
+<p class="tidied-201406236574-3 tidied-201409036118-3 tidied-201501274350-2"><span class="tidied-201408143818-1 tidied-201409036118-6">30天內：任何問題 &nbsp; 直接換新機</span></p>
+<p class="tidied-201406236574-3 tidied-201409036118-3 tidied-201501274350-2"><span class="tidied-201408143818-1 tidied-201409036118-6">半年 保修</span></p>
+<p class="tidied-201406236574-3 tidied-201409036118-3 tidied-201501274350-2"><span class="tidied-201408143818-1 tidied-201409036118-6">一年內 &nbsp; &nbsp;非人為因素損壞，付運費250元來回運費。露天拍賣最有保障。&nbsp;</span><span class="tidied-201408143818-1 tidied-201409036118-6"><br/></span></p>
+<p class="tidied-201406236574-3 tidied-201409036118-3 tidied-201501274350-2">&nbsp;<span class="tidied-201501225463-5">&nbsp;</span><span class="tidied-201501225463-5">&nbsp;</span><strong class="tidied-201501225463-6">一次購買四台以上另外優惠～&nbsp;</strong></p>
+<p class="tidied-201406236574-3 tidied-201409036118-3 tidied-201501274350-2">&nbsp;</p>
+<p class="tidied-201406236574-3 tidied-201409036118-3 tidied-201501274350-2"><strong><span class="tidied-201501274350-3">加購商品</span></strong></p>
+<p class="tidied-201406236574-3 tidied-201409036118-3 tidied-201501274350-7">299元 &nbsp; &nbsp;Kingstone牌 公司貨終身保固 高速卡 Mirco SD Class10 uhs-i&nbsp;16G&nbsp;</p>
+<p class="tidied-201406236574-3 tidied-201409036118-3 tidied-201501274350-7">499元 &nbsp; &nbsp;Kingstone 牌 公司貨終身保固 高速卡 Mirco SD Class10 uhs-i 32G&nbsp;</p>
+<p class="tidied-201406236574-3 tidied-201409036118-3 tidied-201501274350-7">999元 &nbsp; &nbsp;Kingstone 牌 公司貨終身保固 高速卡 Mirco SD Class10 uhs-i 64G （請於電腦Format成 fat32再使用）</p>
+<p class="tidied-201406236574-3 tidied-201409036118-3 tidied-201501274350-7">320元 &nbsp; &nbsp;<a  href="http://goods.ruten.com.tw/item/show?21406252316552" target="_blank">無敵自拍竿～SJ4000 基本款，強烈推薦一定要帶，不帶你是要怎樣拿著他拍照？</a></p>
+<p class="tidied-201406236574-3 tidied-201409036118-3 tidied-201501274350-7">100元 &nbsp;&nbsp;<a  href="http://goods.ruten.com.tw/item/show?21408193115780" target="_blank">原廠吸盤車架</a></p>
+<p class="tidied-201406236574-3 tidied-201409036118-3 tidied-201501274350-7">100元 &nbsp;&nbsp;<a  href="http://goods.ruten.com.tw/item/show?21408193186799" target="_blank">1.5M 原廠車充</a>&nbsp; 、3.5M車充150元</p>
+<p class="tidied-201406236574-3 tidied-201409036118-3 tidied-201501274350-7">250元 &nbsp;&nbsp;<a  href="http://goods.ruten.com.tw/item/show?21508501400859" target="_blank">原廠座充（Micro USB接頭，不含變壓器）</a></p>
+<p class="tidied-201406236574-3 tidied-201409036118-3 tidied-201501274350-7">150元 &nbsp;&nbsp;<a  href="http://goods.ruten.com.tw/item/show?21408124266174" target="_blank">安全帽用弧形底貼片（兩片）</a>&nbsp;--&gt;原廠配件包給的是平底的，無法貼合安全帽，若是要貼帽子，建議加購～</p>
+<p class="tidied-201406236574-3 tidied-201409036118-3 tidied-201501274350-7">150元 &nbsp;&nbsp;<a  href="http://goods.ruten.com.tw/item/show?21408193200145" target="_blank">原廠電池</a></p>
+<p class="tidied-201406236574-3 tidied-201409036118-3 tidied-201501274350-7">100元 &nbsp;&nbsp;<a  href="http://goods.ruten.com.tw/item/show?21504368096857" target="_blank">後照鏡架</a></p>
+<p class="tidied-201406236574-3 tidied-201409036118-3 tidied-201501274350-7">210元 &nbsp;&nbsp;<a  href="http://goods.ruten.com.tw/item/show?21408124219138" target="_blank">防霧片（滑雪、潛水、衝浪、水上活動必備）</a></p>
+<p class="tidied-201406236574-3 tidied-201409036118-3 tidied-201501274350-7">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;<a  href="http://class.ruten.com.tw/user/index00.php?s=kigosam400" target="_blank">更多加購商品可參考 本賣場首頁</a></p>
+<p class="tidied-201406236574-3 tidied-201409036118-3 tidied-201501274350-7">&nbsp;</p>
+<p class="tidied-201406236574-3 tidied-201409036118-3">加購商品可直接修改結帳金額，並且在備註欄說明你要加購的產品即可～ 修改結標金額方式請參考「<a  href="http://mybid.ruten.com.tw/credit/rule_p?kigosam400" target="_blank">關於我</a>」～揪咪&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p class="tidied-201406236574-3 tidied-201409036118-3 tidied-201501274350-2">&nbsp;</p>
+<p class="tidied-201406236574-3 tidied-201409036118-3 tidied-201501274350-2"><span class="tidied-201502054664-2"><strong>露天拍賣唯一提供SJ4000維修店家，維修確實有保障～</strong></span>&nbsp;</p>
+<p class="tidied-201406236574-3 tidied-201409036118-3 tidied-201501274350-2">使用連聯詠晶片 96650 夜拍的王者，標準配件包括30M防水殼</p>
+<p class="tidied-201406236574-3 tidied-201409036118-3 tidied-201501274350-2">保證正品，絕對不會拿非連詠96650以外的機器來呼攏你，不僅敢拆，還修給你看 XD</p>
+<p class="tidied-201406236574-3 tidied-201409036118-3"><img class="tidied-201502054664-3"  src="http://i.imgur.com/dus90mU.jpg" border="0" alt="" width="958" height="1357"/></p>
+<p class="tidied-201406236574-3 tidied-201409036118-3">實拍維修狀況：</p>
+<p class="tidied-201406236574-3 tidied-201409036118-3"><img  src="http://i.imgur.com/wywJZWi.jpg" border="0" alt="" width="444" height="592"/>&nbsp;<img  src="http://i.imgur.com/7uJwSOG.jpg" border="0" alt="" width="492" height="369"/></p>
+<p class="tidied-201406236574-3 tidied-201409036118-3">&nbsp;<img  src="http://i.imgur.com/S31Spjr.jpg" border="0" alt="" width="935" height="1248"/></p>
+<p class="tidied-201406236574-3 tidied-201409036118-3 tidied-201501274350-2">&nbsp;</p>
+<p class="tidied-201406236574-3 tidied-201409036118-3 tidied-201501274350-2">夜間實拍影片</p>
+<p class="tidied-201406236574-3 tidied-201409036118-3 tidied-201501274350-2"><a  href="javascript:top.external_link('http%3A%2F%2Fyoutu.be%2FfVahmHWP3hc');" target="_top" ><img  src="http://i.imgur.com/sYrKDDn.png" border="0" alt=""/></a></p>
+<p class="tidied-201406236574-3 tidied-201409036118-3">&nbsp;</p>
+<p class="tidied-201406236574-3 tidied-201409036118-3">&nbsp;</p>
+<p class="tidied-201406236574-3 tidied-201409036118-3 tidied-201501274350-2">雨天實拍影片</p>
+<p class="tidied-201406236574-3 tidied-201409036118-3"><a  href="javascript:top.external_link('http%3A%2F%2Fyoutu.be%2F5x82zguY9D0');" target="_top" ><img class="tidied-201501274350-4"  src="http://i.imgur.com/yFpyGe6.png" border="0" alt="&#x591C;&#x9593;&#x5BE6;&#x62CD;&#x5F71;&#x7247;" width="504" height="281"/></a></p>
+<p class="tidied-201406236574-3 tidied-201409036118-3 tidied-201501274350-2">&nbsp;</p>
+<p class="tidied-201406236574-3 tidied-201409036118-3 tidied-201501274350-2">&nbsp;</p>
+<p class="tidied-201406236574-3 tidied-201409036118-3 tidied-201501274350-2"><strong><span class="tidied-201501274350-6">Q and A 快問快答：</span></strong></p>
+<p class="tidied-201406236574-3 tidied-201409036118-3">Q: GoPro 配件是否可和 SJ4000共用？</p>
+<p class="tidied-201406236574-3 tidied-201409036118-3">A: 可以的～大多數的配件都可共用（防水殼除外）</p>
+<p class="tidied-201406236574-3 tidied-201409036118-3">&nbsp;</p>
+<p class="tidied-201406236574-3 tidied-201409036118-3">Q: 我收到東西了，但防水殼要怎麼樣才可以打開呢？</p>
+<p class="tidied-201406236574-3 tidied-201409036118-3">A: SJ4000跟GoPro的防水殼開法是一樣的，請參考<a  href="javascript:top.external_link('https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DvemWD5WuRiY');" target="_top" >這個外國人的開殼教學</a></p>
+<p class="tidied-201406236574-3 tidied-201409036118-3">&nbsp;</p>
+<p class="tidied-201406236574-3 tidied-201409036118-3">Q: 電池一顆可以用多久？</p>
+<p class="tidied-201406236574-3 tidied-201409036118-3">A: 連續使用下，可用70-90分鐘；若有更長時間使用需求，建議多購買一顆<a  href="http://goods.ruten.com.tw/item/show?21408193200145" target="_blank">原廠電池</a>&nbsp;＋<a  href="http://goods.ruten.com.tw/item/show?21406181576988" target="_blank">原廠座充</a>。這樣，一顆電池使用的時候，另外一個電池可用行動電源接上座充，放在包包中繼續充電。兩顆電池就可以輪替交換使用～</p>
+<p class="tidied-201406236574-3 tidied-201409036118-3">&nbsp;</p>
+<p class="tidied-201406236574-3 tidied-201409036118-3">Q: 我想拿來當做行車記錄器，要如何開啟循環錄影呢？</p>
+<p class="tidied-201406236574-3 tidied-201409036118-3">A: 在設定中 打開「循環錄影」選擇 3, 5, 10 分鐘 任何一個選項，這樣就可以自動將影片切成小檔案，並且在記憶卡錄滿以後，自動刪掉最舊的檔案。</p>
+<p class="tidied-201406236574-3 tidied-201409036118-3">&nbsp;</p>
+<p class="tidied-201406236574-3 tidied-201409036118-3">&nbsp;Q: &nbsp; 有內付記憶體嗎？</p>
+<p class="tidied-201406236574-3 tidied-201409036118-3">A: &nbsp; 沒有內建記憶體喔，記憶卡規格建議使用：Mirco SD Class10 uhs-i &nbsp;1080P格式下 &nbsp;8G可以錄影約一個小時 16G 約兩個小時 32G約四個小時</p>
+<p class="tidied-201406236574-3 tidied-201409036118-3">&nbsp;</p>
+<p class="tidied-201406236574-3 tidied-201409036118-3">Q: 那有通電自動錄影、斷電自動關機的功能嗎？</p>
+<p class="tidied-201406236574-3 tidied-201409036118-3">A: 有，請打開選單中的「車載模式」即可。</p>
+<p class="tidied-201406236574-3 tidied-201409036118-3">&nbsp;</p>
+<p class="tidied-201406236574-3 tidied-201409036118-3">Q: 原廠配件包中，是否有附上電池</p>
+<p class="tidied-201406236574-3 tidied-201409036118-3">A: &nbsp;是的，標準原廠配件包有附上一顆電池，一顆可用70-90分鐘</p>
+<p class="tidied-201406236574-3 tidied-201409036118-3">&nbsp;</p>
+<p class="tidied-201406236574-3 tidied-201409036118-3">Q: 韌體該如何更新</p>
+<p class="tidied-201406236574-3 tidied-201409036118-3">A: 原版韌體請在<a  href="javascript:top.external_link('http%3A%2F%2Feasonkao.dscloud.me%3A5000%2Ffbsharing%2FxEfVT89G');" target="_top" >這裡下載</a>，並且按照下列更新方式進行更新。SJCAM LOGO <a  href="javascript:top.external_link('http%3A%2F%2Fwww.sjcam.com%2Fen%2Fcontent%2F9-sjcam-sj4000-action-camera-firmware');" target="_top" >韌體請到官方網站下載</a></p>
+<p class="tidied-201406236574-3 tidied-201409036118-3">更新韌體方式：</p>
+<p class="tidied-201501283118-3"><span class="tidied-201501283118-2">1. 將記憶卡用SJ4000 格式化</span></p>
+<p class="tidied-201501283118-3"><span class="tidied-201501283118-2">2. 將FW96650A.bin 放入記憶卡</span></p>
+<p class="tidied-201501283118-3"><span class="tidied-201501283118-2">3. 請確認電池電量在50％以上，將記憶卡插入 SJ4000 （注意！！！若安裝到一半沒電，將會損毀機器無法修復，此狀況在保固範圍外）</span></p>
+<p class="tidied-201501283118-3"><span class="tidied-201501283118-2">4. 開機，等45秒後，機器會自動開啟，韌體更新完成</span></p>
+<p class="tidied-201501283118-3"><span class="tidied-201501283118-5">5.將卡拿出來把<span class="tidied-201501283118-4">剛剛</span>丟<span class="tidied-201501283118-4">進去的</span>檔<span class="tidied-201501283118-4">案刪掉，</span>或用SJ4000 將記憶卡格式化<span class="tidied-201501283118-4">，</span>不然以後每次開機都會更新韌體一次</span></p>
+<p class="tidied-201501283118-3">&nbsp;</p>
+<p class="tidied-201406236574-3 tidied-201409036118-3">Q: 這台是正版還是高級仿冒版？</p>
+<p class="tidied-201406236574-3 tidied-201409036118-3">A: 這台是正版的，<a  href="http://goods.ruten.com.tw/item/show?21406181576988" target="_blank">高仿版的參考這裡</a>，其實效果也是不錯。</p>
+<p class="tidied-201406236574-3 tidied-201409036118-3">&nbsp;</p>
+<p class="tidied-201406236574-3 tidied-201409036118-3">Q: 怎麼樣分辨是高仿還是正版呢？</p>
+<p class="tidied-201406236574-3 tidied-201409036118-3">A:&nbsp;<span class="tidied-201502054484-1">其他高仿1:1 連詠96650 &nbsp;更新SJCAM 官網韌體後，按鈕位置會錯亂，無法正常攝影～這是最快確認你手上機器是否是高仿版最快的方法。另外，打開面板，你也可以看到，要是有Power字樣的才是正版</span></p>
+<p class="tidied-201406236574-3 tidied-201409036118-3"><span class="tidied-201502054484-1"><img  src="http://i.imgur.com/gQnp66q.png" border="0" alt="" width="361" height="237"/></span></p>
+<p class="tidied-201406236574-3 tidied-201409036118-3">&nbsp;</p>
+<p class="tidied-201406236574-3 tidied-201409036118-3">&nbsp;</p>
+<p class="tidied-201406236574-3 tidied-201409036118-3 tidied-201501272350-2"><span class="tidied-201501272350-1"><strong>規格：</strong></span></p>
+<table class="tidied-201501272350-5" border="1" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<th class="tidied-201501272350-3">
+<p>LIQUID CRYSTAL DISPLAY</p>
+<p>液晶螢幕</p>
+</th>
+<td>1.5吋LTPS</td>
+</tr>
+<tr>
+<th class="tidied-201501272350-3">
+<p>鏡頭尺寸</p>
+<p>LENS&nbsp;</p>
+</th>
+<td>
+<p class="tidied-201501272350-4"><strong>170°A+ HD wide-angle lens, 6G lens 超廣角</strong></p>
+</td>
+</tr>
+<tr>
+<th class="tidied-201501272350-3">
+<p>語言</p>
+<p>LANGUAGE OPTIONS&nbsp;</p>
+</th>
+<td>
+<p class="tidied-201501272350-4">English / German / French / Spanish / Italian / Portuguese / Chinese Traditional / Chinese Simplified / Japanese / Russian</p>
+</td>
+</tr>
+<tr>
+<th class="tidied-201501272350-3">
+<p>錄影解析度</p>
+<p>RESOLUTION OF VIDEOS RECORDED</p>
+</th>
+<td>
+<p class="tidied-201501272350-4">1080P (1920*1080 ) 30FPS</p>
+<p class="tidied-201501272350-4">720P (1280*720) 60FPS</p>
+<p class="tidied-201501272350-4">VGA ( 848*480) 60FPS</p>
+<p class="tidied-201501272350-4">QVGA (640*480) 60FPS</p>
+</td>
+</tr>
+<tr>
+<th class="tidied-201501272350-3">
+<p>影像規格</p>
+<p>VIDEO FORMAT</p>
+</th>
+<td>
+<p class="tidied-201501272350-4">MOV</p>
+</td>
+</tr>
+<tr>
+<th class="tidied-201501272350-3">
+<p>影片壓縮規格</p>
+<p>COMPRESSED FORMAT OF VIDEOS</p>
+</th>
+<td>
+<p class="tidied-201501272350-4">H.264</p>
+</td>
+</tr>
+<tr>
+<th class="tidied-201501272350-3">
+<p>照相解析度</p>
+<p>RESOLUTION OF PHOTOS</p>
+</th>
+<td>
+<p class="tidied-201501272350-4">12M / 8M / 5M</p>
+</td>
+</tr>
+<tr>
+<th class="tidied-201501272350-3">
+<p>適用記憶卡規格</p>
+<p>STORAGE</p>
+</th>
+<td>
+<p class="tidied-201501272350-4">Micro SD</p>
+</td>
+</tr>
+<tr>
+<th class="tidied-201501272350-3">
+<p>拍照模式</p>
+<p>SHOOTING MODE</p>
+</th>
+<td>
+<p class="tidied-201501272350-4">Single Shot / Self-timer (2s / 5s / 10s / Continuous Shooting</p>
+</td>
+</tr>
+<tr>
+<th class="tidied-201501272350-3">
+<p>拍照頻率</p>
+<p>FREQUENCY OF OPTICAL SOURCE</p>
+</th>
+<td>
+<p class="tidied-201501272350-4">50Hz / 60Hz</p>
+</td>
+</tr>
+<tr>
+<th class="tidied-201501272350-3">
+<p>USB介面</p>
+<p>USB INTERFACE</p>
+</th>
+<td>
+<p class="tidied-201501272350-4">USB2.0</p>
+</td>
+</tr>
+<tr>
+<th class="tidied-201501272350-3">
+<p>電壓</p>
+<p>POWER SOURCE INTERFACE</p>
+</th>
+<td>
+<p class="tidied-201501272350-4">5V1A</p>
+</td>
+</tr>
+<tr>
+<th class="tidied-201501272350-3">
+<p>電池容量</p>
+<p>BATTERY CAPACITY</p>
+</th>
+<td>
+<p class="tidied-201501272350-4">900MAH</p>
+</td>
+</tr>
+<tr>
+<th class="tidied-201501272350-3">POWER DISSIPATION</th>
+<td>
+<p class="tidied-201501272350-4">400mA@4.2V</p>
+</td>
+</tr>
+<tr>
+<th class="tidied-201501272350-3">
+<p>可記錄時間</p>
+<p>RECORDING TIME</p>
+</th>
+<td>
+<p class="tidied-201501272350-4">1080P/ About 70 minutes</p>
+</td>
+</tr>
+<tr>
+<th class="tidied-201501272350-3">
+<p>充電所需時間</p>
+<p>CHARGING TIME</p>
+</th>
+<td>
+<p class="tidied-201501272350-4">About 3.5 hours</p>
+</td>
+</tr>
+<tr>
+<th class="tidied-201501272350-3">
+<p>可相容作業系統</p>
+<p>OPERATING SYSTEM (OS)</p>
+</th>
+<td>
+<p class="tidied-201501272350-4">Windows XP/VistaorAbove/Win7/Mac os</p>
+</td>
+</tr>
+<tr>
+<th class="tidied-201501272350-3">
+<p>尺寸</p>
+<p>DIMENSION</p>
+</th>
+<td>
+<p class="tidied-201501272350-4">59.27*41.13*29.28</p>
+</td>
+</tr>
+</tbody>
 </table>
-<!-- ts code start -->
-<script type="text/javascript">
-(function(R,u,t,e,n,T,S){
-t=R[t]=function(){(t.queue=t.queue||[]).push(arguments);};
-t.host=n;T=u.createElement(e);T.async=1;T.src=n+'/ts_async.js?1';
-S=u.getElementsByTagName(e)[0];S.parentNode.insertBefore(T,S);
-}(window,document,'_ts_js_fn','script','http://ts.ruten.com.tw'));
-
-_ts_js_fn('init');
-_ts_js_fn('run');
-</script>
-<!-- ts code end -->
-<script type="text/javascript">
-(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
-
-ga('create', 'UA-40451066-2', 'ruten.com.tw');
-ga('send', 'pageview');
-</script>  <script type="text/javascript" language="JavaScript">
-    setTimeout("location.href='http://goods.ruten.com.tw/item/show?21406227445748'",200);
-  </script>
-   </center>
-</body>
+<p class="tidied-201501272350-6">&nbsp;</p>
+<p class="tidied-201406236574-3 tidied-201409036118-3"><span class="tidied-201501272350-7">&nbsp;</span></p>
+</div>  </body>
 </html>
