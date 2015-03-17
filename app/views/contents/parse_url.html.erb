@@ -1,7 +1,17 @@
+<html>
+  <head>
+    <meta charset="Unicode">
+    <meta name="viewport" content="width=device-width, initial-scale=1"/>
+      <%= stylesheet_link_tag "application" %>
+      <%= javascript_include_tag "application" %>
+      <%= csrf_meta_tags %>
+    <title> URL </title>
+
+  </head>
 
 <div id="url" style="display:none"></div>
 
 <% @array.each do |c| %>
-<div> <%= c.encode("Big5", :invalid => :replace, :undef => :replace, :replace => "")%></div>
+<div> <%= c %></div>
 
-<% end %> 
+<% end %>
