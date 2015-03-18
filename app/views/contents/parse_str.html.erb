@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1"/>
+      <%= stylesheet_link_tag "application" %>
+      <%= javascript_include_tag "application" %>
+      <%= csrf_meta_tags %>
+    <title> URL </title>
+
+  </head>
+<body>
+    <%= render "common/navbar"%>
+    <div class= "container">
+      <div class="row">
+        <div class="col-md-12">
+          <h3> Product Analysis </h3>
+            <table class="table table-bordered table-striped" >
+            
+              <thead> <tr><td>Ha</td><td>Ha</td></tr>
+              </thead>
+              <tbody>
+              <% @spec.each_with_index do |spec, index| %>
+                <% count=0 %>
+                <%if index.even? %> 
+                  <tr>
+                    <% count= count+1 %>
+                    <td> <strong> <%= spec %> </strong></td>
+                <% else %>
+                    <% count= count+1 %>
+                    <td> <strong> <%= spec %> </strong></td>
+                <% end %>
+                <% if count.even? %>
+                  </tr>
+                <% end %>
+
+              <%end %>
+                
+              </tbody>
+            </table>
+        
+        </div>
+      </div>
+    </div>
+  <body>
+</html>

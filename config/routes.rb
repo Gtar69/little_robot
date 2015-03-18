@@ -4,6 +4,7 @@ Rails.application.routes.draw do
   resources :contents
 
   get "parse_url", to: "contents#parse_url"
+  get "parse_str", to: "contents#parse_str"
 
   # The priority is based upon order of creation: first created -> highest priority.
   # See how all your routes lay out with "rake routes".

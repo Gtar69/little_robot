@@ -5,20 +5,20 @@
   <head>
     <meta http-equiv="X-UA-Compatible" content="IE=EmulateIE8" />
     <meta http-equiv="Content-Type" content="text/html; charset=big5" />
-    <meta name="keywords" lang="zh-TW" content=" 相機、攝影機 , 其他 ,極限專賣店,現貨,SJ2000,2015原廠加強USB版,防水充電,現貨,可邊充邊錄,摩托車,行車記錄器" />
-    <meta name="title" content="露天拍賣 [極限專賣店] 現貨 SJ2000 2015原廠加強USB版 防水充電 現貨！可邊充邊錄 摩托車 行車記錄器" />
-    <meta name="description" content="直購價：1,850元" />
+    <meta name="keywords" lang="zh-TW" content=" 相機、攝影機 , 周邊配件 , 電池 , 其他廠牌電池 ,極限專賣店,SJ4000,1,1,高仿版,96650晶片,AR0330鏡頭,機車,行車記錄器" />
+    <meta name="title" content="露天拍賣 [極限專賣店] SJ4000 1:1 高仿版 96650晶片 AR0330鏡頭 機車 行車記錄器" />
+    <meta name="description" content="直購價：1,699元" />
     <meta http-equiv="content-style-type" content="text/css" />
     <meta http-equiv="default-style" content="default" />
     <meta http-equiv="content-script-type" content="text/javascript" />
-    <meta property="og:title" content="[極限專賣店] 現貨 SJ2000 2015原廠加強USB版 防水充電 現貨！可邊充邊錄 摩托車 行車記錄器 - 露天拍賣" />
+    <meta property="og:title" content="[極限專賣店] SJ4000 1:1 高仿版 96650晶片 AR0330鏡頭 機車 行車記錄器 - 露天拍賣" />
     <meta property="og:type" content="website" />
-    <meta property="og:url" content="http://goods.ruten.com.tw/item/show?21406227468709" />
-    <meta property="og:image" content="http://a.rimg.com.tw/s1/f/a1/a5/21406227468709_276_m.jpg" />
+    <meta property="og:url" content="http://goods.ruten.com.tw/item/show?21406181576988" />
+    <meta property="og:image" content="http://c.rimg.com.tw/s2/3/61/1c/21406181576988_759_m.jpg" />
     <meta property="og:site_name" content="露天拍賣" />
-    <meta property="og:description" content="直購價：1,850元" />
+    <meta property="og:description" content="直購價：1,699元" />
     <meta property="fb:app_id" content="134256183307954" />
-    <link rel="image_src" href="http://b.rimg.com.tw/s1/f/a1/a5/21406227468709_276_s.jpg" />
+    <link rel="image_src" href="http://d.rimg.com.tw/s2/3/61/1c/21406181576988_759_s.jpg" />
     <link rel="home" title="露天拍賣首頁" href="http://www.ruten.com.tw" />
         <link rel="stylesheet" type="text/css" title="default" href="http://www.ruten.com.tw/css/template/global.css?v=20131016.css" />
         <link rel="stylesheet" type="text/css" title="default" href="http://www.ruten.com.tw/css/template/global-style.css?v=20131016.css" />
@@ -40,7 +40,7 @@
     <link rel="stylesheet" type="text/css" title="default" href="http://www.ruten.com.tw/css/jqModal.css?v=20131016.css" />
     <link rel="stylesheet" type="text/css" title="default" href="http://www.ruten.com.tw/css/template/product-content-fix.css?v=20131016.css"  id="product_content_fixer" media="all" />
     <link rel="stylesheet" type="text/css" title="default" href="http://www.ruten.com.tw/css/template/store-template-style.css?v=20131016.css" />
-    <title>[極限專賣店] 現貨 SJ2000 2015原廠加強USB版 防水充電 現貨！可邊充邊錄 摩托車 行車記錄器 - 露天拍賣-台灣 NO.1 拍賣網站</title>
+    <title>[極限專賣店] SJ4000 1:1 高仿版 96650晶片 AR0330鏡頭 機車 行車記錄器 - 露天拍賣-台灣 NO.1 拍賣網站</title>
     <style type="text/css">
       #rutenmsg{
         display: none;
@@ -134,7 +134,7 @@
     <body id="wwwRutenComTw" class="">
     <div class="base-theme">
       <div class="layout">
-
+                
 
 <div class="page-header">
   <div class="site-menu">
@@ -149,7 +149,7 @@
       <li class="search_multi_ways">
         <form name="serc" action="http://search.ruten.com.tw/search/s000.php" method="get">
                       <input type="hidden" value="goodsheadbar" name="searchfrom"/>
-            <input type="hidden" id="search_g_class" value="00080006" />
+            <input type="hidden" id="search_g_class" value="0008000500170019" />
             <input type="hidden" id="search_seller_user_nick" value="kigosam400" />
                     <ul id="srchForm">
             <li class="search_keyword">
@@ -205,58 +205,58 @@ function check_serc_kw(){
   document.serc.submit();
 }
 </script>
-
+                				
         <div class="ad-467" id="ad-467"></div>
-
+				
                         <div class="breadcrumb">
           <p class="dir">
             <span class="ruten-home"> <a href="http://www.ruten.com.tw" title="回到露天拍賣首頁">露天拍賣</a></span>
-             &gt; <span> <a href="http://class.ruten.com.tw/category/main?0008" > 相機、攝影機 </a> </span>&nbsp;&gt; <span class="located"> <a href="http://class.ruten.com.tw/category/sub00.php?c=00080006" > 其他 </a> </span>
-
+             &gt; <span> <a href="http://class.ruten.com.tw/category/main?0008" > 相機、攝影機 </a> </span>&nbsp;&gt; <span> <a href="http://class.ruten.com.tw/category/main?00080005" > 周邊配件 </a> </span>&nbsp;&gt; <span class="located"> <a href="http://class.ruten.com.tw/category/main?000800050017" > 電池 </a> </span>&nbsp;&gt; <span class="located"> <a href="http://class.ruten.com.tw/category/sub00.php?c=0008000500170019" > 其他廠牌電池 </a> </span>
+            
           </p>
         </div>
-
+                        
         <div class="main-content">
-
+          
                     <div class="auction-data">
-            <h2 class="">[極限專賣店] 現貨 SJ2000 2015原廠加強USB版 防水充電 現貨！可邊充邊錄 摩托車 行車記錄器</h2>
+            <h2 class="">[極限專賣店] SJ4000 1:1 高仿版 96650晶片 AR0330鏡頭 機車 行車記錄器</h2>
                         <div class="product-intro">
-
+              
               <p class="status"><label class="title">商品狀況：</label><span class="content">全新</span></p>
+              
+              
 
 
 
-
-
-              <div class="product-thumb"><span></span><span class="image"><a title="檢視商品"><img src="http://a.rimg.com.tw/s1/f/a1/a5/21406227468709_276_m.jpg" alt="商品圖片" /></a></span></div>
-
+              <div class="product-thumb"><span></span><span class="image"><a title="檢視商品"><img src="http://c.rimg.com.tw/s2/3/61/1c/21406181576988_759_m.jpg" alt="商品圖片" /></a></span></div>
+                            
                             <div class="deliver-img">
-
+                            
               <p class="paylink_deliver"><label class="title">PChomePay支付連付款：</label><span class="content">銀行轉帳</span></p>
-
-
+              
+               			  
               <p class="cvs_cod_deliver"><label class="title">CVS運送方式：</label><span class="content">取貨付款</span></p>
-
-
+              
+              
               <p class="seven_cod_deliver"><label class="title">7-11運送方式：</label><span class="content">取貨付款</span></p>
+              
 
-
-
+              
 
               </div>
               <div class="ultra-info">
                 <ul>
-
-
+                  
+                  
                   <li class="place-holder">&nbsp;</li>
                 </ul>
               </div>
               <div class="ultra-option">
-                <p><label class="title">商品編號</label>：<span class="content">21406227468709</span></p>
+                <p><label class="title">商品編號</label>：<span class="content">21406181576988</span></p>
                 <ul>
-
+                  
                   <li id="report_violate">檢舉</li>
-
+                  
                   <li class="place-holder">&nbsp;</li>
                 </ul>
               </div>
@@ -265,14 +265,14 @@ function check_serc_kw(){
                 <ul>
                   <li class="status"><label class="title">物品狀況：</label><span class="content">全新</span></li>
                   <li class="location"><label class="title">物品所在地：</label><span class="content">台灣.台北市</span></li>
-                  <li class="upload-time"><label class="title">上架時間：</label><span class="content"><span class="date">2014-06-22</span><span class="time">01:43:13</span></span></li>
-
-
-                  <li class="initiation"><label class="title">物品開始價格：</label><span class="content">1850元</span></li>
-
-
+                  <li class="upload-time"><label class="title">上架時間：</label><span class="content"><span class="date">2014-06-18</span><span class="time">01:15:18</span></span></li>
+                  
+                                    
+                  <li class="initiation"><label class="title">物品開始價格：</label><span class="content">1699元</span></li>
+                  
+                  
                   <li class="putforward"><label class="title">可能會提前結束販售</label></li>
-
+                  
                 </ul>
               </div>
             </div>
@@ -280,94 +280,94 @@ function check_serc_kw(){
               <div class="purchase-section">
                 <form action="" method="post" class="useless_form">
                                 <ul class="info">
-                  <li class="price"><label class="title">直購價</label>：<span class="content"><span class="sign">&#36;</span><span class="dollar">1,850</span></span><p class="qna"><a href="qa?21406227468709#qna" title="連結至問與答頁面">問與答</a></p><p class="grouping-buy"><a href="http://mybid.ruten.com.tw/secret/secret_leave.php?user_nick=kigosam400&sec_show=1&g_no=21406227468709&gb=Y" title="連結至議價頁面">議價</a></p></li>
-
+                  <li class="price"><label class="title">直購價</label>：<span class="content"><span class="sign">&#36;</span><span class="dollar">1,699</span></span><p class="qna"><a href="qa?21406181576988#qna" title="連結至問與答頁面">問與答</a></p><p class="grouping-buy"><a href="http://mybid.ruten.com.tw/secret/secret_leave.php?user_nick=kigosam400&sec_show=1&g_no=21406181576988&gb=Y" title="連結至議價頁面">議價</a></p></li>
+                  
                   <li class="amount"><label for="qty">數量</label>：<input name="qty" value="1" id="qty" size="1" maxlength="2" /></li>
                 </ul>
 
-
-
-
+								                                
+                                
+                                
                 <span class="buy"><input type="button" value="馬上購買" id="buy_now_button" /></span>
                 <span class="private"><input type="checkbox" name="private" id="private" /><label for="private">不公開交易內容</label>(<span class="more"><a href="javascript:void(0)" title="不公開交易說明" id="private_tips_link">說明</a></span>)</span>
-
-
-
-
-
-
+                
+                                                
+                                                
+                
+                                                
+                
                                 </form>
 
 
+									
 
-
-
-
+                                
+                                
                 <p class="track"><a href="javascript:void(0)" title="加入追蹤" id="add_watchlist_link">加入追蹤</a></p>
-
-
+                
+																
 															</div>
-
+                            
                             <div class="bid-info">                <div class="tradeinfo-section">
                   <ul class="quantity">
-
-                    <li class="remain-count"><label class="title">尚餘數量</label>：<span class="content"><span class="number">31</span>(<a href="http://goods.ruten.com.tw/item/statement.html" title="尚餘數量說明" target="_blank"><span>說明</span></a>)</span></li>
-                    <li class="sold-count"><label class="title">已賣數量</label>：<span class="content"><span class="number">297</span>(<a href="history?21406227468709#log" title="查看商品銷售紀錄"><span>銷售紀錄</span></a>)</span></li>
-
-
+                    
+                    <li class="remain-count"><label class="title">尚餘數量</label>：<span class="content"><span class="number">29</span>(<a href="http://goods.ruten.com.tw/item/statement.html" title="尚餘數量說明" target="_blank"><span>說明</span></a>)</span></li>
+                    <li class="sold-count"><label class="title">已賣數量</label>：<span class="content"><span class="number">31</span>(<a href="history?21406181576988#log" title="查看商品銷售紀錄"><span>銷售紀錄</span></a>)</span></li>
+                    
+                    
                   </ul>
                   <ul class="type">
                                         <li class="pay">
                       <label class="title">付款方式</label>：
                       <ul>
-
-
-
-
+                        
+                          
+                          
+                          
                           <li class="sub0 PW_PAYLINK">PChomePay支付連 現金 (ATM、餘額)</li>
-
+                          
                           <li class="sub1 PW_CVS_COD">全家、OK、萊爾富取貨付款</li>
-
+                          
                           <li class="sub2 PW_SEVEN_COD">7-11取貨付款</li>
-
+                          
                           <li class="sub3 PW_F2F">面交自取</li>
-
+                          
                           <li class="sub btn_notify_seller_setup_ppc"></li>
-
-
+                          
+                        
                       </ul>
                     </li>
-
+                                        
                                         <li class="ship"><label class="title">運送方式</label>：<ul><li class="sub0"><span class="ship-type">郵寄寄送</span><span class="cost">100元</span></li><li class="sub1"><span class="ship-type">宅配/快遞</span><span class="cost">160元</span></li><li class="sub2"><span class="ship-type">離島寄送</span><span class="cost">220元</span></li><li class="sub3"><span class="ship-type">全家、OK、萊爾富取貨付款</span><span class="cost">85元</span></li><li class="sub4"><span class="ship-type">7-11取貨付款</span><span class="cost">60元</span></li><li class="sub5"><span class="ship-type">面交自取</span><span class="cost"></span></li></ul>
-
+                    
                     <div class="shipping-rules">
                       <p><a href="#rule-block" title="查看合併運費規則" id="rules-view">合併運費規則</a></p>
                       <div class="rule-block" id="rule-block">
                         <p><a href="#" title="關閉規則說明" id="rules-hide"><span>關閉</span></a></p>
-
+                        
                         <div class="sub1"><h6>郵寄寄送</h6><p>2件以上一律為固定運費80元。</p></div>
-
+                        
                         <div class="sub2"><h6>宅配/快遞</h6><p>2件以上一律為固定運費130元。</p></div>
-
+                        
                         <div class="sub3"><h6>7-11取貨付款</h6><p>2件以上一律為固定運費60元。</p></div>
-
+                        
                         <div class="sub4"><h6>全家、OK、萊爾富取貨付款</h6><p>2件以上一律為固定運費70元。</p></div>
-
-
+                        
+                        
                       </div>
                     </div>
-
+                    
                     </li>
-
+                                        
                     <li class="ship-cost"><label class="title">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</label><span class="content" style=""><span class="ship-info">(可面交，物品在台灣.台北市)</span></span></li>
                   </ul>
-                  <p class="seller-remittance-info"><a href="billdata_full.php?21406227468709" title="查看賣家匯款資訊">給買家的匯款資訊</a></p>
-
-
+                  <p class="seller-remittance-info"><a href="billdata_full.php?21406181576988" title="查看賣家匯款資訊">給買家的匯款資訊</a></p>
+                  
+                                    
                                   </div>
                 <div class="seller-info">
                                        <h3>賣家資訊</h3>
-
+                    
                     <p class="favorite"><a href="javascript:void(0)" title="加入我的最愛賣家" class="add_friend_list"><span>加入最愛</span></a></p>                                         <div class="jqmWindow">
                       <div class="favorite-seller">
                         <form action="" method="post" class="useless_form">
@@ -403,39 +403,39 @@ function check_serc_kw(){
                         </form>
                       </div>
                     </div>
-
-                    <p class="seller"><span class="user-id"><a href="http://class.ruten.com.tw/user/index00.php?s=kigosam400" title="查看賣家資料">kigosam400</a></span><span class="evaluation">(<a href="http://mybid.ruten.com.tw/credit/point?kigosam400" title="查看賣家評價">1182</a>)</span></p>
+                                        
+                    <p class="seller"><span class="user-id"><a href="http://class.ruten.com.tw/user/index00.php?s=kigosam400" title="查看賣家資料">kigosam400</a></span><span class="evaluation">(<a href="http://mybid.ruten.com.tw/credit/point?kigosam400" title="查看賣家評價">1185</a>)</span></p>
 										<p class="seller"><span class="seller_index"><a href="http://class.ruten.com.tw/user/index00.php?s=kigosam400" title="前往賣場首頁">賣場首頁</a></span></p>
                     <div class="valida-info">
                       <ul>
-
+                        
                         <li class="phone" title="手機認證完成"><span>手機認證</span></li>
-
-
-
+                        
+                        
+                        
                         <li class="mail" title="郵件認證完成"><span>郵件認證</span></li>
-
-
+                        
+                        
                         <li class="safe-pc-v2" title="安全電腦開通賣家"><span>安全電腦開通賣家</span></li>
-
-
+                        
+                        
                       </ul>
                     </div>
-                    <p class="seller-logdate">上次登入：2015-03-17</p>
+                    <p class="seller-logdate">上次登入：2015-03-19</p>
                     <p class="all-product"><label>全部商品：</label><span class="product-view"><a href="http://class.ruten.com.tw/user/index00.php?s=kigosam400" title="查看賣家全部商品">43</a></span></p>
-										<p class="all-credit"><label>評價分數：</label><span class="credit-view"><a href="http://mybid.ruten.com.tw/credit/point?kigosam400" title="查看賣家評價">1182</a></span>&nbsp;<span class="credit-view-check"><a href="http://mybid.ruten.com.tw/credit/point?kigosam400" title="查看賣家評價">查看</a></span></p>
+										<p class="all-credit"><label>評價分數：</label><span class="credit-view"><a href="http://mybid.ruten.com.tw/credit/point?kigosam400" title="查看賣家評價">1185</a></span>&nbsp;<span class="credit-view-check"><a href="http://mybid.ruten.com.tw/credit/point?kigosam400" title="查看賣家評價">查看</a></span></p>
                     <div class="info">
                       <ul>
                         <li class="about"><a href="http://mybid.ruten.com.tw/credit/rule_p?kigosam400" title="查看賣家資料"><span>關於我</span></a></li>
-
-
+                                                
+                        
                       </ul>
                     </div>
-
-
+                                                         
+                                    
                                   </div>
               </div>            </div>
-
+            
             <div class="sharing-toolkits">
               <h6>喜歡這商品嗎?按讚及+1推薦給你的朋友吧！</h6>
               <ul>
@@ -446,27 +446,27 @@ function check_serc_kw(){
                 <li class="google-plus"><div id="plusone-div"></div></li>
               </ul>
             </div>
-
+            
             <p class="last-updated"><span class="content">商品價格與運費更新時間:<span class="date">2015-03-10</span><span class="time">00:32</span></span></p>
 
           </div>
                               <div class="auction-detail-data">
             <ul class="switch-tab">
-                            <li class="auc located" id="auc"><a href="show?21406227468709#auc" title="檢視拍賣商品完整資訊"><span>拍賣檔案</span></a></li>
-              <li class="qna" id="qna"><a href="qa?21406227468709#qna" title="關於本商品的問與答"><span>問與答</span></a>(<a href="qa?21406227468709#qna" title="關於本商品的問與答"><span class="count">261</span></a>)</li>
-              <li class="log" id="log"><a href="history?21406227468709#log" title="關於本商品的出價紀錄"><span>出價紀錄</span></a>(<a href="history?21406227468709#log" title="關於本商品的出價紀錄"><span class="count">316</span></a>)</li>
+                            <li class="auc located" id="auc"><a href="show?21406181576988#auc" title="檢視拍賣商品完整資訊"><span>拍賣檔案</span></a></li>
+              <li class="qna" id="qna"><a href="qa?21406181576988#qna" title="關於本商品的問與答"><span>問與答</span></a>(<a href="qa?21406181576988#qna" title="關於本商品的問與答"><span class="count">12</span></a>)</li>
+              <li class="log" id="log"><a href="history?21406181576988#log" title="關於本商品的出價紀錄"><span>出價紀錄</span></a>(<a href="history?21406181576988#log" title="關於本商品的出價紀錄"><span class="count">36</span></a>)</li>
             </ul>
-
+                        
             <div class="product-intro">
               <div class="seller-description">
-
+                
                 <h2 class="title"><span>極限專賣店 SJ4000 SJ2000</span></h2>
                 <div class="description">
-
+                  
                   <div class="product-thumb">
-                    <span></span><span class="image"><a title="進入賣場" href="http://class.ruten.com.tw/user/index00.php?s=kigosam400"><img src="http://img.ruten.com.tw/board/k/i/kigosam400.833.jpg?4755268" alt="賣場圖示"/></a></span>
+                    <span></span><span class="image"><a title="進入賣場" href="http://class.ruten.com.tw/user/index00.php?s=kigosam400"><img src="http://img.ruten.com.tw/board/k/i/kigosam400.833.jpg?4755664" alt="賣場圖示"/></a></span>
                   </div>
-
+                  
                   <div class="content">
                     <div class="board-intro">
                       <div><br/>
@@ -480,27 +480,27 @@ function check_serc_kw(){
                     </div>
                   </div>
                 </div>
-
+                
               </div>
-
+              
               <div class="product-images">
-
+                
                 <p id="arrow_detail" class="more-info"><a title="檢視更多商品資訊" id="more_info_a_link"><span>更多本商品資訊</span></a></p>
-
-
+                
+                
               </div>
               <div class="product-isbn"></div>
               <div class="product-content">
-
-				<iframe src="http://goods.ruten.com.tw/item/goods_comments.php?id=21406227468709&amp;k=e390fc22&amp;o=1425918720&amp;t=" width="900" height="800" id="embedded_goods_comments" marginheight="0" marginwidth="0" frameborder="0" name="embedded_goods_comments" scrolling="no">商品說明</iframe>
-
-
+                
+				<iframe src="http://goods.ruten.com.tw/item/goods_comments.php?id=21406181576988&amp;k=c8f1b67e&amp;o=1425918733&amp;t=" width="900" height="800" id="embedded_goods_comments" marginheight="0" marginwidth="0" frameborder="0" name="embedded_goods_comments" scrolling="no">商品說明</iframe>
+                
+                
               </div>
-
+              
             </div>
-
-
-
+            
+                                    
+                                    
                         <p class="ad-text"></p>           </div>
                               <div class="seller-featured" style="display:none;">
             <h3 class="title"><span>賣家精選商品</span></h3>
@@ -511,10 +511,10 @@ function check_serc_kw(){
             </div>
             <p class="seller-market"><span>歡迎參觀我的賣場：</span><a href="http://class.ruten.com.tw/user/index00.php?s=kigosam400" title="前往賣家賣場">極限專賣店 SJ4000 SJ2000</a></p>
           </div>
-
-
+                              
+                              
           <p class="to-top"><span>&#9650;<a href="#" title="返回頁面最上方">TOP</a></span></p>
-
+          
                   </div>
                 <div class="side-advertise">
           <div class="cat-ad place-holder">
@@ -525,12 +525,12 @@ function check_serc_kw(){
             </div>
           </div>
 
-
+                    
           <div class="sponsor-adver">
             <h3 class="title"><span>關聯廣告</span></h3>
-
+            
             <p class="post-ad"><span><a href="http://mkt.ruten.com.tw/adb/3.html" title="我要刊登廣告">我要刊登</a></span></p>
-
+            
             <div class="content">
               <ul class="ads" id="kwad">
                                                                                 <li class="place-holder">&nbsp;</li>
@@ -544,7 +544,7 @@ function check_serc_kw(){
             <div class="content" id="gads_content_1">
             </div>
           </div>
-
+          
 					<div class="ad-521"></div>
 
 										<div class="google-ads-type3" id="gads_content_2_block" style="display:none;">
@@ -552,8 +552,8 @@ function check_serc_kw(){
 						<div class="content" id="gads_content_2"></div>
 					</div>
 										<div class="ad-522"></div>
-
-
+          
+					          
         </div>
                             <!-- 12. 頁尾資訊區塊 -->
     <div class="site-info">
@@ -579,7 +579,7 @@ S=u.getElementsByTagName(e)[0];S.parentNode.insertBefore(T,S);
 
 _ts_js_fn('init');
 _ts_js_fn('userSet', 'seller=kigosam400');
-_ts_js_fn('userSet', 'g_class=00080006');
+_ts_js_fn('userSet', 'g_class=0008000500170019');
 _ts_js_fn('run');
 </script>
 <!-- ts code end -->
@@ -594,10 +594,10 @@ ga('send', 'pageview');
 </script>
               </div>
     </div>
-
+    
             <iframe id="gads_goods1_loader" scrolling="no" width="0" height="0"></iframe>
     <iframe id="gads_goods2_loader" scrolling="no" width="0" height="0"></iframe>
-
+    
     <div id="js_area" style="display: none">
       <div id="goods_spec"></div>
     </div>
@@ -612,7 +612,7 @@ ga('send', 'pageview');
     <script type="text/javascript" src="http://www.ruten.com.tw/js/ahd_flash.js?v=2013061901_20140114.js"></script>
     <script type="text/javascript" src="http://www.ruten.com.tw/js/external_link.js?v=2013061901.js"></script>
     <script type="text/javascript" src="http://www.ruten.com.tw/js/ahd_loader_openx.js?v=2013061901_20130916?>"></script>
-    <script type="text/javascript">/*<![CDATA[*/check_g_class = "00080006";
+    <script type="text/javascript">/*<![CDATA[*/check_g_class = "0008000500170019";
 if(check_g_class.substring(0, 4)=='0025'){
 	flag_forbidden_googleAd = true;
 }
@@ -825,7 +825,7 @@ function fn_extract_fc_class(g_class){
 
 var bMouseWheel = false;
 var lulupop_hideTimeout = null;
-var context = {"mybidu_host":"http:\/\/mybidu.ruten.com.tw","mybid_host":"http:\/\/mybid.ruten.com.tw","g_no":"21406227468709","g_num":"328","g_sold_num":"297","domain":"ruten.com.tw","d_prepend":"","img_host":"http:\/\/img.ruten.com.tw","kwad_host":"http:\/\/kwad.ruten.com.tw","ahd_host":"http:\/\/ahd.ruten.com.tw","is_seller":0,"js_google_version":"2013051501","use_cvscpd":true,"use_7":true,"use_pchomeopay":true,"seller_user_nick":"kigosam400","goods_img":["s1\/f\/a1\/a5\/21406227468709_276.jpg","s1\/f\/a1\/a5\/21406227468709_181.jpg","s1\/f\/a1\/a5\/21406227468709_814.jpg"],"g_class":"00080006","login_name":"","ms":"ngBuAmIFVzxjDIyG1nzegH6MF3jiLFGBrIKX74QZY_9h_1EBYQBmfB2LpXSMgJskhBHbeFF373MldIOIou_jSuQ10hjWOPSz1iH0s_DMUYvgddx33-_Xtdl94R7wzO-IVzxkDGIHZv9XPGUMYfWeBG4AaQRh9Z4FbgJjB1c8aAxiB2b_VzxpDHP1nghuAWoGVzxi_24FYgBnBmMBVzxiAG71ngBjDGQAZzM0Mzk","g_mode":"B","g_direct_price":1850,"is_nbc":false};
+var context = {"mybidu_host":"http:\/\/mybidu.ruten.com.tw","mybid_host":"http:\/\/mybid.ruten.com.tw","g_no":"21406181576988","g_num":"60","g_sold_num":"31","domain":"ruten.com.tw","d_prepend":"","img_host":"http:\/\/img.ruten.com.tw","kwad_host":"http:\/\/kwad.ruten.com.tw","ahd_host":"http:\/\/ahd.ruten.com.tw","is_seller":0,"js_google_version":"2013051501","use_cvscpd":true,"use_7":true,"use_pchomeopay":true,"seller_user_nick":"kigosam400","goods_img":["s2\/3\/61\/1c\/21406181576988_759.jpg","s2\/3\/61\/1c\/21406181576988_944.jpg","s2\/3\/61\/1c\/21406181576988_634.jpg"],"g_class":"0008000500170019","login_name":"","ms":"ghxSHksRgh1SRsyQwpjGONLRvpxyC2g1SRtFGzUcTxw1m7-Q_pW-C04hSyBFn86PDgtWPUUeSBvY09VENakMk8MLu9G9mcU61OjTpDtYSChGIU4kO1hJKEURgiBSHEskThGCIVIhRRGCIlIcSyROEYIjUi07WE4oSBw7WEYbUiFGHEsiRx07WEYcUhGCHEcoSCEzMjMx","g_mode":"B","g_direct_price":1699,"is_nbc":false};
 var clear_show_msg = true;
 
 function fetch_ad_goods(){
@@ -1435,7 +1435,7 @@ $(function(){
   });
 
   $('.btn_notify_seller_setup_ppc').click(function(){
-    check_secret_open(Array('http://goods.ruten.com.tw','kigosam400',2,'21406227468709','null','http://mybid.ruten.com.tw'));
+    check_secret_open(Array('http://goods.ruten.com.tw','kigosam400',2,'21406181576988','null','http://mybid.ruten.com.tw'));
   });
 
   $('#js_publish_to_facebook_link').click(function(){
